@@ -1,22 +1,36 @@
-# Generated files too big for GitHub (each is over its 100 MB file limit). They stay on disk, because
-# tools/pack.py needs the world and navmesh to build the PBO, and the tools regenerate the rest (see each
-# tool's header). Everything else the tools generate is committed.
+.vs
+.idea
+.claude
+__pycache__/
+*.ini
+*.bin
+*.vs
+.DS_Store
+/.rules
+/CF
+*.webp
+# ...but everything the website serves must ship: GitHub Pages publishes
+# docs/, so renders and anything added later need to be tracked or they
+# 404 on the site.
+!docs/**/*.webp
+# Local only, never on GitHub: the Python build and render tools, and the
+# old Workbench project. Anchored to the top folder, so a data/tools folder
+# or a script folder called Tools is mod content and stays tracked.
+/tools/
+/Workbench/
 
+# Generated files too big for GitHub (each is over its 100 MB file limit). They
+# stay on disk: the world and the navmesh are needed to build the PBO, and the
+# tools regenerate the rest.
 # the binarized world (tools/build_world.py)
 /greatsmokymountains.wrp
-
 # the AI navmesh (generated in the DayZ tools)
 /navmesh/*.nm
-
-# the satellite images (tools/rebuild_layers.py, then tools/paint_roads.py) and the ASCII heightmap
-# (tools/export_terrain.py; source/heightmap_16bit.png holds the same heights)
+# the satellite images (tools/rebuild_layers.py, then tools/paint_roads.py) and the
+# ASCII heightmap (tools/export_terrain.py; source/heightmap_16bit.png holds the
+# same heights)
 /source/satellite.png
 /source/satellite_base.png
 /source/heightmap.asc
-
 # the tree list (tools/forest.py)
 /source/forest/tb_trees.txt
-
-# Python caches
-__pycache__/
-*.pyc
