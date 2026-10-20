@@ -1,0 +1,12 @@
+source            smokymountains.wrp (OPRW v28), heights from source/buildings/elevation.npy
+terrain grid      4096 x 4096
+terrain cell size 5 m
+terrain size      20480 x 20480 m
+layer grid        512 x 512, 40 m cells
+height min        326.688 m
+height max        2010.060 m
+16-bit PNG        0 = 326.688 m, 65535 = 2010.060 m (0.02569 m per step)
+asc origin        easting 200000, northing 0 (Terrain Builder mapframe default)
+highest peak      2010.06 m at x 10120, z 7825
+placed objects    0
+road links        0

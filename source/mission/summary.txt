@@ -1,0 +1,32 @@
+Server mission dayzOffline.greatsmokymountains (tools/mission.py)
+
+mapgrouppos.xml: 2891 buildings with loot (of 2925 placed)
+mapgroupcluster*.xml: 336915 cluster spots in 7 files (TrajectoryApple 1139, TrajectoryCanina 12927, TrajectoryConiferous 145964, TrajectoryDeciduous 120033, TrajectoryHumus 31045, TrajectoryPear 477, TrajectoryPlum 231, TrajectorySambucus 18725, TrajectoryStones 6374); 80 new cluster types
+VehicleCivilianSedan: 45 spots
+VehicleSedan02: 45 spots
+VehicleHatchback02: 45 spots
+VehicleOffroadHatchback: 60 spots
+VehicleOffroad02: 20 spots
+VehicleTruck01: 50 spots
+VehicleMotorbike: 50 spots
+StaticPoliceCar: 60 spots
+StaticHeliCrash: 40 spots (3 in meadows or balds; tiers 1-4 2/20/13/5); StaticAirplaneCrate 24 (3/13/8/0); StaticSantaCrash 15
+StaticBonfire: 63 spots
+ItemPlanks: 224 spots
+StaticMilitaryConvoy: 16 spots (tiers 1-4 2/3/5/6); StaticPoliceSituation: 22 (5/5/6/6; 8 roadblocks, 13 crashes, 1 car parks)
+db/events.xml: switched off StaticTrain, StaticContaminatedArea, VehicleBoat; switched on TrajectoryCanina, TrajectorySambucus; StaticHeliCrash 5 at a time; Trajectory events 250 at a time (stones 180); AnimalBear min 3 max 5
+player spawns: fresh 17 areas (Gatlinburg, Gatlinburg_SW_2, Pinnacle, Gatlinburg_SW, Gatlinburg_S_2, Gatlinburg_NE, Gatlinburg_SW_3, PittmanCenter_SW, Gatlinburg_E, Gatlinburg_S, Gatlinburg_W, Gatlinburg_SE, Gatlinburg_NE_2, Glade, Glade_SE, Cartertown, Cartertown_N), hop and travel 20 areas
+climate: Gatlinburg normals + 7.0 C (base temperatures; the game takes 1.2 C per 100 m off)
+infected: 919 zones (InfectedCity 51, InfectedCityTier1 159, InfectedFirefighter 2, InfectedIndustrial 38, InfectedMedic 2, InfectedPolice 3, InfectedReligious 17, InfectedSolitude 398, InfectedSpooky 5, InfectedVillage 36, InfectedVillageTier1 208)
+bear_territories.xml: 34 territories, 178 zones
+red_deer_territories.xml: 26 territories, 200 zones
+roe_deer_territories.xml: 36 territories, 258 zones
+wild_boar_territories.xml: 30 territories, 226 zones
+wolf_territories.xml: 10 territories, 110 zones
+cattle_territories.xml: 12 territories, 71 zones
+sheep_goat_territories.xml: 10 territories, 49 zones
+pig_territories.xml: 10 territories, 59 zones
+hen_territories.xml: 145 territories, 215 zones
+fox_territories.xml: 380 zones
+hare_territories.xml: 880 zones
+areaflags.map: tiers 1-4 cover 22 / 24 / 35 / 19 % (heights 560/900/1400 m); usage: Police 0.0%, Medic 0.0%, Firefighter 0.0%, Industrial 0.1%, Farm 0.1%, Coast 0.7%, Town 0.9%, Village 3.3%, Hunting 0.8%, Office 0.2%, School 0.0%, Prison 0.0%, Lunapark 0.1%, ContaminatedArea 0.0%, Historical 0.1%

@@ -1,0 +1,31 @@
+Buildings from OpenStreetMap (c) OpenStreetMap contributors, ODbL, as vanilla models.
+
+OSM buildings by kind (models placed):
+  house         986
+  commercial    450
+  hotel         230
+  shed           96
+  church         17
+  barn            8
+  school          6
+  garage          5
+  police          3
+  fire            2
+  medical         2
+
+no model overlaps another or a road: 61 OSM buildings left out (no model fitted between their neighbours), 14 big ones got fewer models
+
+cabins filled in along residential streets: 1049, with 42 sheds
+fuel stations: 5 (0 left out, no room clear of buildings)
+fence pieces left out where a building stands: 19
+fences 1226 m, walls 99 m, hedges 26 m (OSM); crash barriers: 400 pieces (2.8 km)
+bridges: 97 spans: bridge_concrete1_25 7, bridge_concrete2_25 1, bridge_stone_25 65, bridge_wood_25 24
+
+objects per file:
+  tb_buildings.txt   1805
+  tb_cabins.txt   1091
+  tb_fuel.txt       29
+  tb_fences.txt    660
+  tb_bridges.txt    150
+
+ground levelled under footprints: 157852 height points changed, max 14.0 m, median 0.91 m

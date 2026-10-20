@@ -1,0 +1,94 @@
+Roads built from straight and curve parts (tools/road_build.py)
+
+roads: 1231 lines after joining continuing ways; trails: 162
+  asf1      9.5 km
+  asf2     73.1 km
+  asf3    476.7 km
+  grav      8.8 km
+  mud       9.0 km
+  trails  263.1 km, 26041 parts (39 left out where a trail crosses a road)
+level switchback turns: 534; roads given one grade round sharp corners: 457; road ends pinned to the same road's own other stretch: 30
+short parts across sharp joints fitted to the parts either side: 1166; road ends fitted to the road they end on: 650 (14 of them carried one part on to reach it)
+water objects left out where they reached a road (culverts): pond 1, river 281, stones 562, stream 2838
+water parts cut short to stop at a road's edge: 682
+
+largest distance of a road's parts from its (rounded) OSM line, ends aside: median 0.76 m, 95% 4.90 m, max 7.8 m
+  (the most: mud at 3969, 16540)
+
+parts:
+  asf1_0 2000          50
+  asf1_1 1000          98
+  asf1_10 100          27
+  asf1_10 25            5
+  asf1_10 50            5
+  asf1_10 75           10
+  asf1_12              62
+  asf1_15 75            6
+  asf1_25              79
+  asf1_6              126
+  asf1_7 100          194
+  asf2_0 2000         428
+  asf2_1 1000         843
+  asf2_10 100         222
+  asf2_10 25          188
+  asf2_10 50          147
+  asf2_10 75          179
+  asf2_12             522
+  asf2_15 75           56
+  asf2_22 50           19
+  asf2_25             558
+  asf2_30 25           15
+  asf2_6             1054
+  asf2_60 10            4
+  asf2_6konec           3
+  asf2_7 100         1032
+  asf3_0 2000        1542
+  asf3_1 1000        3067
+  asf3_10 100        1406
+  asf3_10 25        10810
+  asf3_10 50         4201
+  asf3_10 75         1875
+  asf3_12            2846
+  asf3_15 75          874
+  asf3_22 50          539
+  asf3_25            1424
+  asf3_30 25         1040
+  asf3_6             8776
+  asf3_60 10         1474
+  asf3_6konec         541
+  asf3_7 100         5172
+  grav_0 2000          31
+  grav_1 1000          98
+  grav_10 100          25
+  grav_10 25           85
+  grav_10 50           37
+  grav_10 75           30
+  grav_12              56
+  grav_15 75           24
+  grav_22 50            8
+  grav_25              56
+  grav_30 25           13
+  grav_6              108
+  grav_60 10           11
+  grav_6konec           9
+  grav_7 100           95
+  mud_0 2000           18
+  mud_1 1000           36
+  mud_10 100           17
+  mud_10 25           258
+  mud_10 50            82
+  mud_10 75            32
+  mud_12               52
+  mud_15 75            16
+  mud_22 50            15
+  mud_25               31
+  mud_30 25            37
+  mud_6               171
+  mud_60 10            53
+  mud_6konec           27
+  mud_7 100            71
+  path_dirt_10      25226
+  path_rock_10        815
+  total             79162
+
+ground carved under roads: 838400 height points changed; cut up to 17.0 m, fill up to 15.8 m, median 0.92 m

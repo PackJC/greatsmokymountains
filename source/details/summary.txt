@@ -1,0 +1,71 @@
+Details (tools/details.py)
+
+trail blazes: 1641 along 63 named trails (1277 on trees, 12 on stones, 352 on poles; red 152, yellow 482, green 496, blue 511)
+footbridges: 192 where trails cross creeks (20 x 8, 5 x 11, 94 x 14, 49 x 18, 24 x 24 m long), models in data/footbridges
+lifts: Ober Mountain Aerial Tramway 2566 m, 42 towers, 188 chairs; Gatlinburg Sky Lift 393 m, 7 towers, 27 chairs; Crystal Express 656 m, 11 towers, 46 chairs; Fun Mountain Chair Lift 471 m, 8 towers, 36 chairs
+streets: 392 street lamps, 14 benches, 11 bins, 1723 mailboxes
+power lines: 317 lines, 73.5 km, 2003 poles, 5058 wires
+nature: 9750 dead firs, 2585 fallen firs, 14745 laurel, 18850 creek boulders, 1458 logs across creeks
+cleared under lifts, bridges and power lines: forest/tb_trees.txt 839, forest/tb_bushes.txt 501, forest/tb_deadwood.txt 19, rocks/tb_rocks.txt 7
+trail signs: 57 (14 at trailheads, 43 at junctions), models in data/trailsigns
+furniture: 336 pieces (garbage_bin 46, misc_bench1 53, misc_chair_camp1 6, misc_chair_camp2 6, misc_fountain 4, misc_noticeboard1 21, misc_noticeboard2 2, misc_table 46, misc_table_camp 10, misc_toilet_dry 26, misc_trailroof_big 7, misc_well_pump_blue 24, misc_well_pump_yellow 15, waterspring_sakhal 70) at 11 overlooks, 2 LeConte Lodge, 21 trailheads, 6 backcountry campsites, 7 picnic areas, 2 ranger stations, 4 trail shelters, 1 campgrounds, 70 springs, 39 water pumps, 4 fountains
+orchards: 48 trees at 13 of 13 homesteads and farms
+
+signs:
+  gsm_sign_01  ALUM CAVE TRAIL  [trailhead: Alum Cave Trailhead]  Inspiration Point 2.0; Peregrine Peak 2.7; LeConte Lodge 5.0
+  gsm_sign_02  APPALACHIAN TRAIL  [trailhead: Appalachian Trail Trailhead]  Mt. Ambler 2.4; Masa Knob 3.8; Mt. Collins 4.7
+  gsm_sign_03  BASKINS CREEK TRAIL  [trailhead: Baskins Creek Trail Trailhead]  Baskins Creek Falls 1.6; Grotto Falls 2.9; Rainbow Falls 3.2
+  gsm_sign_04  CHIMNEY TOPS TRAIL  [trailhead: Chimney Tops Trailhead]  Trickling Falls 1.1; Talking Falls 1.6; Chimney Point 1.8
+  gsm_sign_05  FORK RIDGE TRAIL  [trailhead: Fork Ridge Trail Trailhead]  Mt. Collins Shelter 0.6; Mt. Collins 0.7; Mt. Collins Viewpoint 0.7
+  gsm_sign_06  GRAPEYARD RIDGE TRAIL  [trailhead: Grapeyard Ridge Trail]  James Gap 2.7; Homer / Jim Bales Barn 7.4; Jim Bales' Place 7.4
+  gsm_sign_07  GRASSY BRANCH TRAIL  [trailhead: Grassy Branch Trail Trailhead]  Noah Bud Ogle House 1.7
+  gsm_sign_08  LITTLE DUDLEY HORSE TRAIL  [trailhead: Little-Big Dudley Trailhead]  Campsite #32 4.3; James Gap 4.7; Homer / Jim Bales Barn 5.2
+  gsm_sign_09  OLD SETTLERS TRAIL  [trailhead: Old Settlers Trailhead]  Campsite #33 6.5
+  gsm_sign_10  OLD SUGARLANDS TRAIL  [trailhead: Old Sugarlands Trail Trailhead]  Bull Head 5.7; Baskins Creek Falls 6.2; Rainbow Falls 6.5
+  gsm_sign_11  PORTERS CREEK TRAIL  [trailhead: Porters Creek Trail]  Campsite #31 3.6; Trillium Gap 5.4; Brushy Mtn. 5.7
+  gsm_sign_12  TRILLIUM GAP TRAIL  [trailhead: Trillium Gap Trail Trailhead]  Grotto Falls 1.3; Trillium Gap 2.9; Brushy Mtn. 3.3
+  gsm_sign_13  TWIN CREEKS TRAIL  [trailhead: Twin Creeks Trail Trailhead]  Noah Bud Ogle House 2.1
+  gsm_sign_14  TWO MILE LEAD HORSE TRAIL  [trailhead: Two Mile Lead Concession Horse Trail Trailhead]  Bull Head 5.1; Baskins Creek Falls 5.6; Rainbow Falls 6.0
+  gsm_sign_15  BOULEVARD TRAIL / BULL HEAD TRAIL  [junction]  <- Cliff Top 0.2; <- Trillium Gap 3.6; -> Mt. LeConte Shelter 0.1
+  gsm_sign_16  KEPHART PRONG TRAIL / GRASSY BRANCH TRAIL  [junction]  <- Sweat Heifer Cascades 1.6; <- Dry Sluice Gap 3.9
+  gsm_sign_17  GOSHEN PRONG TRAIL / LITTLE RIVER TRAIL  [junction]  <- Campsite #21 1.3; -> Campsite #24 0.7; -> Fish Camp Cascades 0.9
+  gsm_sign_18  ROUGH CREEK TRAIL / LITTLE RIVER TRAIL  [junction]  <- Sugarland Mtn. 6.4; <- Little River Upper Falls 1.3; -> Fish Camp Cascades 1.7
+  gsm_sign_19  OLD SUGARLANDS TRAIL / GRASSY BRANCH HORSE TRAIL  [junction]  <- Rainbow Falls Trailhead 3.3; <- Old Sugarlands Trailhead 0.7; -> Two Mile Lead Horse Trailhead 2.2
+  gsm_sign_20  PAINTER RIDGE HORSE TRAIL / TWO MILE LEAD HORSE TRAIL  [junction]  <- Old Sugarlands Trailhead 2.1; -> Two Mile Lead Horse Trailhead 0.7
+  gsm_sign_21  TWO MILE LEAD HORSE TRAIL / GRASSY BRANCH HORSE TRAIL  [junction]  <- Two Mile Lead Horse Trailhead 1.4; <- Rainbow Falls Trailhead 2.5; -> Old Sugarlands Trailhead 1.5
+  gsm_sign_22  PAINTER RIDGE HORSE TRAIL / GRASSY BRANCH HORSE TRAIL  [junction]  <- Two Mile Lead Horse Trailhead 1.5; -> Rainbow Falls Trailhead 2.1
+  gsm_sign_23  TWO MILE LEAD HORSE TRAIL / GRASSY BRANCH HORSE TRAIL  [junction]  <- Rainbow Falls Trailhead 1.8; -> Two Mile Lead Horse Trailhead 1.6
+  gsm_sign_24  ROUGH CREEK TRAIL / SUGARLAND MTN. TRAIL  [junction]  <- Huskey Gap 3.9; -> Sugarland Mtn. 3.6; -> Campsite #24 2.8
+  gsm_sign_25  OLD SUGARLANDS TRAIL / TWO MILE LEAD HORSE TRAIL  [junction]  -> Rainbow Falls Trailhead 0.8; -> Old Sugarlands Trailhead 3.2
+  gsm_sign_26  BULL HEAD TRAIL / OLD SUGARLANDS TRAIL  [junction]  <- Two Mile Lead Horse Trailhead 2.9; -> Rainbow Falls Trailhead 0.5; -> Bull Head 2.2
+  gsm_sign_27  TWIN CREEKS TRAIL / NOAH 'BUD' OGLE PLACE NATURE TRAIL  [junction]  <- Noah Bud Ogle House 0.2; -> Grassy Branch Trailhead 1.5
+  gsm_sign_28  TRILLIUM GAP TRAIL / OLD SUGARLANDS TRAIL  [junction]  <- Bull Head 2.7; -> Rainbow Falls Trailhead 0.1
+  gsm_sign_29  TRILLIUM GAP TRAIL / RAINBOW FALLS TRAIL  [junction]  <- Baskins Creek Trailhead 0.6; ^ Rainbow Falls 2.6; -> Bull Head 2.7
+  gsm_sign_30  BASKINS CREEK TRAIL / BASKINS CREEK CEMETERY ACCESS TRAIL  [junction]  <- Baskins Creek Trailhead 1.2; -> Baskins Creek Falls 0.5
+  gsm_sign_31  APPALACHIAN TRAIL / SUGARLAND MTN. TRAIL  [junction]  <- Mt. Collins 0.4; -> Mt. Collins Shelter 0.3; -> Fork Ridge Trailhead 0.3
+  gsm_sign_32  ROAD PRONG TRAIL / CHIMNEY TOPS TRAIL  [junction]  <- Trickling Falls 0.2; -> Chimney Point 0.9; -> Chimney Tops Trailhead 0.9
+  gsm_sign_33  RAINBOW FALLS TRAIL / ROCKY SPUR OVERLOOK TRAIL  [junction]  <- LeConte Lodge 1.2; -> Rainbow Falls 2.6
+  gsm_sign_34  BULL HEAD TRAIL / RAINBOW FALLS TRAIL  [junction]  <- Rainbow Falls 3.2; <- LeConte Lodge 0.6; -> Bull Head 3.5
+  gsm_sign_35  ROAD PRONG TRAIL / APPALACHIAN TRAIL  [junction]  <- Indian Gap 0.7; -> Fork Ridge Trailhead 2.4; -> Talking Falls 1.6
+  gsm_sign_36  BIG DUDLEY HORSE TRAIL / DUDS BRANCH HORSE TRAIL  [junction]  <- Little-Big Dudley Trailhead 0.2; -> Campsite #32 4.1
+  gsm_sign_37  LITTLE DUDLEY HORSE TRAIL / LITTLE DUDLEY SPUR HORSE TRAIL  [junction]  <- Little-Big Dudley Trailhead 0.4; <- Campsite #32 4.1
+  gsm_sign_38  BIG DUDLEY HORSE TRAIL / LITTLE DUDLEY SPUR HORSE TRAIL  [junction]  -> Little-Big Dudley Trailhead 0.3; -> Campsite #32 4.0
+  gsm_sign_39  BELL BRANCH HORSE TRAIL / LITTLE DUDLEY HORSE TRAIL  [junction]  <- Campsite #32 2.7; -> Little-Big Dudley Trailhead 2.0
+  gsm_sign_40  BULL HEAD TRAIL / ALUM CAVE TRAIL  [junction]  <- Peregrine Peak 2.2; <- Rainbow Falls 3.7; -> Mt. LeConte Shelter 0.3
+  gsm_sign_41  BULL HEAD TRAIL / CLIFF TOP TRAIL  [junction]  <- Cliff Top 0.2; <- Peregrine Peak 2.3; -> Mt. LeConte Shelter 0.2
+  gsm_sign_42  BIG DUDLEY HORSE TRAIL / DUDS BRANCH SPUR HORSE TRAIL  [junction]  <- Campsite #32 3.6; -> Little-Big Dudley Trailhead 0.7
+  gsm_sign_43  DUDS BRANCH HORSE TRAIL / DUDS BRANCH SPUR HORSE TRAIL  [junction]  <- Little-Big Dudley Trailhead 0.7; -> Campsite #32 3.7
+  gsm_sign_44  BOULEVARD TRAIL / CLIFF TOP TRAIL  [junction]  <- Cliff Top 0.3; <- LeConte Lodge 0.2; -> Mt. Le Conte High Top 0.3
+  gsm_sign_45  BIG DUDLEY HORSE TRAIL / BELL BRANCH HORSE TRAIL  [junction]  <- Little-Big Dudley Trailhead 0.9; -> Campsite #32 3.4
+  gsm_sign_46  BIG DUDLEY HORSE TRAIL / LITTLE DUDLEY HORSE TRAIL  [junction]  ^ Little-Big Dudley Trailhead 2.1; -> Campsite #32 2.2
+  gsm_sign_47  GRAPEYARD RIDGE TRAIL / BIG DUDLEY HORSE TRAIL  [junction]  <- Campsite #32 1.7; <- Homer / Jim Bales Barn 2.6; -> Little-Big Dudley Trailhead 2.6
+  gsm_sign_48  BIG DUDLEY HORSE TRAIL / DUDS BRANCH HORSE TRAIL  [junction]  <- Little-Big Dudley Trailhead 1.2; -> Campsite #32 3.1
+  gsm_sign_49  TRILLIUM GAP TRAIL / BRUSHY MTN. TRAIL  [junction]  <- LeConte Lodge 3.6; <- Grotto Falls 1.7; -> Brushy Mtn. 0.3; -> Porters Creek Trailhead 5.4
+  gsm_sign_50  ENGINE CREEK TRAIL / GRAPEYARD RIDGE TRAIL  [junction]  <- Homer / Jim Bales Barn 4.2; -> James Gap 0.5
+  gsm_sign_51  APPALACHIAN TRAIL / SWEAT HEIFER CREEK TRAIL  [junction]  <- Newfound Gap Overlook 1.7; -> Mt. Ambler 0.7; -> Sweat Heifer Cascades 2.0
+  gsm_sign_52  PORTERS CREEK TRAIL / BRUSHY MTN. TRAIL  [junction]  <- Trillium Gap 4.4; -> Porters Creek Trailhead 1.0
+  gsm_sign_53  BOULEVARD TRAIL / APPALACHIAN TRAIL  [junction]  <- Icewater Spring Shelter 0.3; -> Mt. Ambler 0.3; -> Mt. Kephart 0.2
+  gsm_sign_54  JUMP OFF TRAIL / BOULEVARD TRAIL  [junction]  <- Anakeesta Knob 2.4; <- Mt. Kephart 0.2; -> Mt. Ambler 0.3
+  gsm_sign_55  GRAPEYARD RIDGE TRAIL / RHODODENDRON CREEK TRAIL  [junction]  <- Grapeyard Ridge Trailhead 0.8; -> James Gap 2.0
+  gsm_sign_56  APPALACHIAN TRAIL / DRY SLUICE GAP TRAIL  [junction]  <- Charlies Bunion 0.5; -> The Sawteeth 0.6; -> Kephart Shelter 3.9
+  gsm_sign_57  GRASSY BRANCH TRAIL / DRY SLUICE GAP TRAIL  [junction]  <- Campsite #49 3.4; -> Kephart Shelter 2.6; -> Dry Sluice Gap 1.3

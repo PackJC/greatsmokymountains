@@ -1,0 +1,77 @@
+Roads and trails from OpenStreetMap (c) OpenStreetMap contributors, ODbL.
+Placed with tools/georef.json: map = UTM 17N + (-269283.66, -3940517.61).
+
+length by part family:
+  asf1       9.5 km
+  asf2      73.3 km
+  asf3     459.6 km
+  grav       8.7 km
+  mud        8.5 km
+  trail    263.5 km
+
+bridges: 97 spans up to 150 m left to bridge models (tools/buildings.py); 0 longer ones keep road parts
+
+named trails:
+    22.7 km  Appalachian Trail
+    15.4 km  Old Settlers Trail
+    14.3 km  Trillium Gap Trail
+    13.9 km  Sugarland Mountain Trail
+    12.0 km  Grapeyard Ridge Trail
+    10.2 km  Bull Head Trail
+     9.6 km  Two Mile Lead Concession Horse Trail
+     9.3 km  Rainbow Falls Trail
+     8.4 km  Boulevard Trail
+     8.0 km  Alum Cave Trail
+     7.7 km  Brushy Mountain Trail
+     6.6 km  Dry Sluice Gap Trail
+     6.2 km  Old Sugarlands Trail
+     6.2 km  Huskey Gap Trail
+     5.9 km  Little River Trail
+     5.9 km  Porters Creek Trail
+     5.8 km  Sweat Heifer Creek Trail
+     5.5 km  Cove Mountain Trail
+     5.2 km  Grassy Branch Trail
+     4.4 km  Rough Creek Trail
+     4.4 km  Baskins Creek Trail
+     4.3 km  Little Dudley Concession Horse Trail
+     4.2 km  Bradley Fork Trail
+     4.2 km  Big Dudley Concession Horse Trail
+     3.6 km  Ramsey Cascades Trail
+     3.6 km  Road Prong Trail
+     3.2 km  Deep Creek Trail
+     3.2 km  Engine Creek Trail
+     3.2 km  Kephart Prong Trail
+     3.0 km  Twin Creeks Trail
+     3.0 km  Chimney Tops Trail
+     2.8 km  Painter Ridge Concession Horse Trail
+     2.8 km  Grassy Branch Concession Horse Trail
+     2.6 km  Goshen Prong Trail
+     2.4 km  Duds Branch Concession Horse Trail
+     2.2 km  Riverview Quiet Walkway
+     2.0 km  Fighting Creek Nature Trail
+     1.9 km  Fork Ridge Trail
+     1.8 km  Bell Branch Concession Horse Trail
+     1.7 km  Rhodedendron Creek Trail
+     1.6 km  Cabin Flats Trail
+     1.4 km  Balsam Point Quiet Walkway
+     1.2 km  Noah 'Bud' Ogle Place Nature Trail
+     1.1 km  Bullhead View Quiet Walkway
+     1.1 km  Cove Hardwood Nature Trail
+     1.0 km  Beech Flats Quiet Walkway
+     0.8 km  Swinging Bridge Quiet Walkway
+     0.8 km  Sugarlands Valley Nature Trail
+     0.7 km  Cliif Top Trail
+     0.6 km  Jump Off Trail
+     0.5 km  E E McCarter Cemetery
+     0.5 km  Spruce Fir Nature Trail
+     0.5 km  Kanati Fork Trail
+     0.4 km  Rocky Spur Overlook Trail
+     0.4 km  R L Williams Way
+     0.3 km  Kanati Fork Quiet Walkway
+     0.3 km  Old Deep Creek Quiet Walkway
+     0.2 km  Little Dudley Spur Concession Horse Trail
+     0.2 km  Baskins Creek Cemetery Access Trail
+     0.2 km  Duds Branch Spur Concession Horse Trail
+     0.1 km  Thomas Divide Trail
+     0.1 km  Jim Carr Place Quiet Walkway
+     0.1 km  Big White Oak Quiet Walkway

@@ -1,0 +1,8318 @@
+[
+{
+"path": "dz\\structures\\residential\\bus\\busstation_building.p3d",
+"name": "busstation_building",
+"w": 4.07,
+"l": 12.1,
+"h": 5.11,
+"center": [
+-0.16,
+0.612,
+2.956
+]
+},
+{
+"path": "dz\\structures\\residential\\bus\\busstation_corner.p3d",
+"name": "busstation_corner",
+"w": 0.84,
+"l": 0.84,
+"h": 3.14,
+"center": [
+0.416,
+0.568,
+0.415
+]
+},
+{
+"path": "dz\\structures\\residential\\bus\\busstation_roof_big.p3d",
+"name": "busstation_roof_big",
+"w": 7.58,
+"l": 8.08,
+"h": 4.48,
+"center": [
+0.0,
+1.24,
+0.01
+]
+},
+{
+"path": "dz\\structures\\residential\\bus\\busstation_roof_long.p3d",
+"name": "busstation_roof_long",
+"w": 3.08,
+"l": 8.08,
+"h": 4.48,
+"center": [
+0.008,
+1.24,
+0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\bus\\busstation_wall.p3d",
+"name": "busstation_wall",
+"w": 0.39,
+"l": 3.03,
+"h": 3.13,
+"center": [
+-0.003,
+0.566,
+-1.565
+]
+},
+{
+"path": "dz\\structures\\residential\\bus\\busstation_wall_bench.p3d",
+"name": "busstation_wall_bench",
+"w": 1.06,
+"l": 3.01,
+"h": 3.13,
+"center": [
+0.347,
+0.566,
+-1.567
+]
+},
+{
+"path": "dz\\structures\\residential\\bus\\busstop_city.p3d",
+"name": "busstop_city",
+"w": 11.17,
+"l": 5.23,
+"h": 3.69,
+"center": [
+0.023,
+1.016,
+-0.716
+]
+},
+{
+"path": "dz\\structures\\residential\\bus\\busstop_city_sign.p3d",
+"name": "busstop_city_sign",
+"w": 0.8,
+"l": 0.43,
+"h": 2.8,
+"center": [
+-0.014,
+0.899,
+-0.007
+]
+},
+{
+"path": "dz\\structures\\residential\\bus\\busstop_village.p3d",
+"name": "busstop_village",
+"w": 5.02,
+"l": 5.04,
+"h": 3.01,
+"center": [
+-0.067,
+1.194,
+-0.508
+]
+},
+{
+"path": "dz\\structures\\residential\\bus\\busstop_village_sign.p3d",
+"name": "busstop_village_sign",
+"w": 0.72,
+"l": 0.37,
+"h": 3.04,
+"center": [
+0.006,
+1.022,
+0.239
+]
+},
+{
+"path": "dz\\structures\\residential\\firedep\\city_firestation.p3d",
+"name": "city_firestation",
+"w": 41.01,
+"l": 20.41,
+"h": 24.4,
+"center": [
+0.0,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\firedep\\mil_firestation.p3d",
+"name": "mil_firestation",
+"w": 41.01,
+"l": 20.41,
+"h": 24.4,
+"center": [
+0.0,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\firedep\\proxy\\city_firestation_hoses.p3d",
+"name": "city_firestation_hoses",
+"w": 31.37,
+"l": 17.68,
+"h": 15.8,
+"center": [
+-2.074,
+7.702,
+3.886
+]
+},
+{
+"path": "dz\\structures\\residential\\firedep\\proxy\\city_firestation_int.p3d",
+"name": "city_firestation_int",
+"w": 37.0,
+"l": 19.01,
+"h": 19.89,
+"center": [
+0.0,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\firedep\\proxy\\mil_firedep_windows.p3d",
+"name": "mil_firedep_windows",
+"w": 37.7,
+"l": 19.42,
+"h": 17.48,
+"center": [
+0.0,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\firedep\\proxy\\windows.p3d",
+"name": "windows",
+"w": 37.7,
+"l": 19.42,
+"h": 17.48,
+"center": [
+0.0,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\houseblocks\\houseblock_1f1.p3d",
+"name": "houseblock_1f1",
+"w": 12.93,
+"l": 21.47,
+"h": 13.11,
+"center": [
+3.403,
+4.614,
+-0.162
+]
+},
+{
+"path": "dz\\structures\\residential\\houseblocks\\houseblock_1f2.p3d",
+"name": "houseblock_1f2",
+"w": 16.08,
+"l": 19.44,
+"h": 13.65,
+"center": [
+2.343,
+4.897,
+-0.888
+]
+},
+{
+"path": "dz\\structures\\residential\\houseblocks\\houseblock_1f3.p3d",
+"name": "houseblock_1f3",
+"w": 8.34,
+"l": 21.39,
+"h": 14.24,
+"center": [
+1.037,
+5.178,
+4.953
+]
+},
+{
+"path": "dz\\structures\\residential\\houseblocks\\houseblock_1f4.p3d",
+"name": "houseblock_1f4",
+"w": 10.08,
+"l": 21.34,
+"h": 14.66,
+"center": [
+-4.651,
+5.388,
+-0.04
+]
+},
+{
+"path": "dz\\structures\\residential\\houseblocks\\houseblock_1f_corner.p3d",
+"name": "houseblock_1f_corner",
+"w": 16.49,
+"l": 17.0,
+"h": 13.96,
+"center": [
+0.151,
+5.981,
+0.025
+]
+},
+{
+"path": "dz\\structures\\residential\\houseblocks\\houseblock_2f1.p3d",
+"name": "houseblock_2f1",
+"w": 15.07,
+"l": 21.47,
+"h": 16.95,
+"center": [
+3.195,
+6.531,
+-0.162
+]
+},
+{
+"path": "dz\\structures\\residential\\houseblocks\\houseblock_2f2.p3d",
+"name": "houseblock_2f2",
+"w": 18.36,
+"l": 23.26,
+"h": 17.65,
+"center": [
+2.749,
+6.883,
+0.731
+]
+},
+{
+"path": "dz\\structures\\residential\\houseblocks\\houseblock_2f3.p3d",
+"name": "houseblock_2f3",
+"w": 22.22,
+"l": 22.1,
+"h": 18.24,
+"center": [
+-0.122,
+7.031,
+-0.314
+]
+},
+{
+"path": "dz\\structures\\residential\\houseblocks\\houseblock_2f4.p3d",
+"name": "houseblock_2f4",
+"w": 13.13,
+"l": 21.31,
+"h": 18.09,
+"center": [
+0.044,
+7.105,
+4.754
+]
+},
+{
+"path": "dz\\structures\\residential\\houseblocks\\houseblock_2f5.p3d",
+"name": "houseblock_2f5",
+"w": 9.07,
+"l": 15.93,
+"h": 17.47,
+"center": [
+6.122,
+6.791,
+-2.724
+]
+},
+{
+"path": "dz\\structures\\residential\\houseblocks\\houseblock_2f6.p3d",
+"name": "houseblock_2f6",
+"w": 13.88,
+"l": 21.31,
+"h": 18.09,
+"center": [
+0.11,
+7.105,
+4.754
+]
+},
+{
+"path": "dz\\structures\\residential\\houseblocks\\houseblock_2f7.p3d",
+"name": "houseblock_2f7",
+"w": 21.91,
+"l": 16.73,
+"h": 18.14,
+"center": [
+-0.277,
+7.127,
+-1.298
+]
+},
+{
+"path": "dz\\structures\\residential\\houseblocks\\houseblock_2f8.p3d",
+"name": "houseblock_2f8",
+"w": 20.22,
+"l": 21.42,
+"h": 17.83,
+"center": [
+-5.109,
+6.972,
+4.942
+]
+},
+{
+"path": "dz\\structures\\residential\\houseblocks\\houseblock_2f9.p3d",
+"name": "houseblock_2f9",
+"w": 20.05,
+"l": 21.33,
+"h": 19.14,
+"center": [
+0.343,
+7.627,
+-0.05
+]
+},
+{
+"path": "dz\\structures\\residential\\houseblocks\\houseblock_2f_corner.p3d",
+"name": "houseblock_2f_corner",
+"w": 18.69,
+"l": 18.48,
+"h": 18.09,
+"center": [
+-3.658,
+7.105,
+-1.453
+]
+},
+{
+"path": "dz\\structures\\residential\\houseblocks\\houseblock_3f1.p3d",
+"name": "houseblock_3f1",
+"w": 12.97,
+"l": 21.47,
+"h": 20.8,
+"center": [
+3.382,
+8.456,
+-0.162
+]
+},
+{
+"path": "dz\\structures\\residential\\houseblocks\\houseblock_3f2.p3d",
+"name": "houseblock_3f2",
+"w": 18.27,
+"l": 21.81,
+"h": 20.61,
+"center": [
+1.595,
+8.425,
+-0.199
+]
+},
+{
+"path": "dz\\structures\\residential\\houseblocks\\houseblock_3f_corner1.p3d",
+"name": "houseblock_3f_corner1",
+"w": 22.02,
+"l": 17.78,
+"h": 21.63,
+"center": [
+-0.758,
+9.994,
+3.891
+]
+},
+{
+"path": "dz\\structures\\residential\\houseblocks\\houseblock_3f_corner2.p3d",
+"name": "houseblock_3f_corner2",
+"w": 22.02,
+"l": 17.78,
+"h": 21.63,
+"center": [
+-0.758,
+9.994,
+3.891
+]
+},
+{
+"path": "dz\\structures\\residential\\houseblocks\\houseblock_5f.p3d",
+"name": "houseblock_5f",
+"w": 18.27,
+"l": 21.81,
+"h": 26.61,
+"center": [
+1.595,
+11.425,
+-0.199
+]
+},
+{
+"path": "dz\\structures\\residential\\houses\\house_1b01_pub.p3d",
+"name": "house_1b01_pub",
+"w": 17.86,
+"l": 23.45,
+"h": 9.97,
+"center": [
+-3.114,
+2.952,
+-3.055
+]
+},
+{
+"path": "dz\\structures\\residential\\houses\\house_1w01.p3d",
+"name": "house_1w01",
+"w": 11.87,
+"l": 13.53,
+"h": 9.99,
+"center": [
+-0.015,
+2.924,
+-2.672
+]
+},
+{
+"path": "dz\\structures\\residential\\houses\\house_1w02.p3d",
+"name": "house_1w02",
+"w": 12.62,
+"l": 14.41,
+"h": 7.29,
+"center": [
+-1.662,
+2.398,
+-1.029
+]
+},
+{
+"path": "dz\\structures\\residential\\houses\\house_1w03.p3d",
+"name": "house_1w03",
+"w": 9.05,
+"l": 18.12,
+"h": 8.24,
+"center": [
+0.686,
+2.731,
+0.742
+]
+},
+{
+"path": "dz\\structures\\residential\\houses\\house_1w04.p3d",
+"name": "house_1w04",
+"w": 11.72,
+"l": 19.45,
+"h": 8.54,
+"center": [
+1.926,
+2.729,
+-0.03
+]
+},
+{
+"path": "dz\\structures\\residential\\houses\\house_1w05.p3d",
+"name": "house_1w05",
+"w": 12.89,
+"l": 16.51,
+"h": 9.75,
+"center": [
+-1.52,
+3.2,
+-0.139
+]
+},
+{
+"path": "dz\\structures\\residential\\houses\\house_1w05_yellow.p3d",
+"name": "house_1w05_yellow",
+"w": 12.89,
+"l": 16.51,
+"h": 9.75,
+"center": [
+-1.52,
+3.2,
+-0.139
+]
+},
+{
+"path": "dz\\structures\\residential\\houses\\house_1w06.p3d",
+"name": "house_1w06",
+"w": 12.41,
+"l": 16.92,
+"h": 10.38,
+"center": [
+-1.282,
+3.1,
+-1.608
+]
+},
+{
+"path": "dz\\structures\\residential\\houses\\house_1w07.p3d",
+"name": "house_1w07",
+"w": 17.45,
+"l": 19.1,
+"h": 8.84,
+"center": [
+2.592,
+3.228,
+-0.054
+]
+},
+{
+"path": "dz\\structures\\residential\\houses\\house_1w08.p3d",
+"name": "house_1w08",
+"w": 15.63,
+"l": 10.26,
+"h": 10.03,
+"center": [
+-1.105,
+2.65,
+-1.737
+]
+},
+{
+"path": "dz\\structures\\residential\\houses\\house_1w08_brown.p3d",
+"name": "house_1w08_brown",
+"w": 15.63,
+"l": 10.26,
+"h": 10.03,
+"center": [
+-1.105,
+2.65,
+-1.737
+]
+},
+{
+"path": "dz\\structures\\residential\\houses\\house_1w09.p3d",
+"name": "house_1w09",
+"w": 15.73,
+"l": 10.18,
+"h": 8.74,
+"center": [
+2.499,
+2.529,
+0.087
+]
+},
+{
+"path": "dz\\structures\\residential\\houses\\house_1w09_yellow.p3d",
+"name": "house_1w09_yellow",
+"w": 15.47,
+"l": 10.61,
+"h": 8.74,
+"center": [
+2.632,
+2.529,
+0.3
+]
+},
+{
+"path": "dz\\structures\\residential\\houses\\house_1w10.p3d",
+"name": "house_1w10",
+"w": 12.62,
+"l": 10.25,
+"h": 8.1,
+"center": [
+1.122,
+2.044,
+2.441
+]
+},
+{
+"path": "dz\\structures\\residential\\houses\\house_1w10_brown.p3d",
+"name": "house_1w10_brown",
+"w": 12.62,
+"l": 10.25,
+"h": 8.1,
+"center": [
+1.122,
+2.044,
+2.441
+]
+},
+{
+"path": "dz\\structures\\residential\\houses\\house_1w11.p3d",
+"name": "house_1w11",
+"w": 17.26,
+"l": 14.48,
+"h": 10.99,
+"center": [
+1.725,
+3.347,
+2.678
+]
+},
+{
+"path": "dz\\structures\\residential\\houses\\house_1w12.p3d",
+"name": "house_1w12",
+"w": 19.65,
+"l": 20.66,
+"h": 10.09,
+"center": [
+-3.462,
+2.919,
+2.271
+]
+},
+{
+"path": "dz\\structures\\residential\\houses\\house_1w12_brown.p3d",
+"name": "house_1w12_brown",
+"w": 19.65,
+"l": 20.66,
+"h": 10.09,
+"center": [
+-3.462,
+2.919,
+2.271
+]
+},
+{
+"path": "dz\\structures\\residential\\houses\\house_2b01.p3d",
+"name": "house_2b01",
+"w": 17.71,
+"l": 11.77,
+"h": 13.12,
+"center": [
+0.494,
+4.297,
+0.057
+]
+},
+{
+"path": "dz\\structures\\residential\\houses\\house_2b02.p3d",
+"name": "house_2b02",
+"w": 25.41,
+"l": 21.3,
+"h": 17.96,
+"center": [
+-0.014,
+6.505,
+0.019
+]
+},
+{
+"path": "dz\\structures\\residential\\houses\\house_2b03.p3d",
+"name": "house_2b03",
+"w": 31.11,
+"l": 28.33,
+"h": 16.29,
+"center": [
+0.151,
+6.036,
+-3.306
+]
+},
+{
+"path": "dz\\structures\\residential\\houses\\house_2b04.p3d",
+"name": "house_2b04",
+"w": 18.75,
+"l": 21.47,
+"h": 16.73,
+"center": [
+0.054,
+6.174,
+-0.771
+]
+},
+{
+"path": "dz\\structures\\residential\\houses\\house_2w01.p3d",
+"name": "house_2w01",
+"w": 17.05,
+"l": 19.58,
+"h": 10.65,
+"center": [
+1.302,
+3.232,
+-0.514
+]
+},
+{
+"path": "dz\\structures\\residential\\houses\\house_2w02.p3d",
+"name": "house_2w02",
+"w": 20.43,
+"l": 10.77,
+"h": 13.27,
+"center": [
+-3.206,
+4.839,
+-1.034
+]
+},
+{
+"path": "dz\\structures\\residential\\houses\\house_2w03.p3d",
+"name": "house_2w03",
+"w": 21.07,
+"l": 16.11,
+"h": 16.25,
+"center": [
+0.049,
+6.016,
+-2.545
+]
+},
+{
+"path": "dz\\structures\\residential\\houses\\house_2w03_brown.p3d",
+"name": "house_2w03_brown",
+"w": 21.12,
+"l": 16.11,
+"h": 16.25,
+"center": [
+0.025,
+6.016,
+-2.545
+]
+},
+{
+"path": "dz\\structures\\residential\\houses\\house_2w04.p3d",
+"name": "house_2w04",
+"w": 23.97,
+"l": 16.55,
+"h": 16.42,
+"center": [
+1.03,
+6.069,
+-2.653
+]
+},
+{
+"path": "dz\\structures\\residential\\houses\\house_2w04_yellow.p3d",
+"name": "house_2w04_yellow",
+"w": 23.97,
+"l": 16.55,
+"h": 16.42,
+"center": [
+1.03,
+6.069,
+-2.653
+]
+},
+{
+"path": "dz\\structures\\residential\\houses\\proxy\\house_1b01_pub_doorricade_proxy.p3d",
+"name": "house_1b01_pub_doorricade_proxy",
+"w": 4.98,
+"l": 7.93,
+"h": 3.41,
+"center": [
+2.315,
+2.557,
+-1.445
+]
+},
+{
+"path": "dz\\structures\\residential\\houses\\proxy\\housev2_02_interier_proxy.p3d",
+"name": "housev2_02_interier_proxy",
+"w": 24.36,
+"l": 15.45,
+"h": 8.5,
+"center": [
+0.021,
+7.953,
+-0.022
+]
+},
+{
+"path": "dz\\structures\\residential\\houses\\village_pub.p3d",
+"name": "village_pub",
+"w": 18.56,
+"l": 23.71,
+"h": 11.14,
+"center": [
+1.734,
+4.064,
+-0.476
+]
+},
+{
+"path": "dz\\structures\\residential\\medical\\city_hospital.p3d",
+"name": "city_hospital",
+"w": 47.33,
+"l": 22.16,
+"h": 17.36,
+"center": [
+-1.614,
+7.501,
+2.602
+]
+},
+{
+"path": "dz\\structures\\residential\\medical\\city_hospital_ghost1.p3d",
+"name": "city_hospital_ghost1",
+"w": 47.33,
+"l": 22.16,
+"h": 9.64,
+"center": [
+-1.614,
+3.637,
+2.602
+]
+},
+{
+"path": "dz\\structures\\residential\\medical\\city_hospital_ghost2.p3d",
+"name": "city_hospital_ghost2",
+"w": 47.33,
+"l": 22.16,
+"h": 9.64,
+"center": [
+-1.614,
+3.637,
+2.602
+]
+},
+{
+"path": "dz\\structures\\residential\\medical\\curcylinder_01_f.p3d",
+"name": "curcylinder_01_f",
+"w": 0.14,
+"l": 0.45,
+"h": 0.14,
+"center": [
+-0.0,
+0.071,
+0.011
+]
+},
+{
+"path": "dz\\structures\\residential\\medical\\decon_cbrncase_01_f.p3d",
+"name": "decon_cbrncase_01_f",
+"w": 0.23,
+"l": 0.23,
+"h": 0.38,
+"center": [
+-0.0,
+0.189,
+-0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\medical\\decon_hazmatbag_01_f.p3d",
+"name": "decon_hazmatbag_01_f",
+"w": 0.58,
+"l": 0.8,
+"h": 0.89,
+"center": [
+-0.002,
+0.444,
+-0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\medical\\decon_hazmatbag_01_roll_f.p3d",
+"name": "decon_hazmatbag_01_roll_f",
+"w": 0.16,
+"l": 0.14,
+"h": 0.42,
+"center": [
+0.003,
+0.211,
+-0.002
+]
+},
+{
+"path": "dz\\structures\\residential\\medical\\decon_layflathose_01_corner_f.p3d",
+"name": "decon_layflathose_01_corner_f",
+"w": 1.15,
+"l": 1.16,
+"h": 0.1,
+"center": [
+-0.465,
+0.047,
+0.581
+]
+},
+{
+"path": "dz\\structures\\residential\\medical\\decon_layflathose_01_curvelong_f.p3d",
+"name": "decon_layflathose_01_curvelong_f",
+"w": 2.06,
+"l": 5.04,
+"h": 0.1,
+"center": [
+0.976,
+0.047,
+2.52
+]
+},
+{
+"path": "dz\\structures\\residential\\medical\\decon_layflathose_01_curveshort_f.p3d",
+"name": "decon_layflathose_01_curveshort_f",
+"w": 1.05,
+"l": 1.37,
+"h": 0.1,
+"center": [
+0.473,
+0.047,
+0.684
+]
+},
+{
+"path": "dz\\structures\\residential\\medical\\decon_layflathose_01_roll_f.p3d",
+"name": "decon_layflathose_01_roll_f",
+"w": 0.79,
+"l": 0.71,
+"h": 0.23,
+"center": [
+-0.031,
+0.114,
+-0.009
+]
+},
+{
+"path": "dz\\structures\\residential\\medical\\decon_layflathose_01_sbend_f.p3d",
+"name": "decon_layflathose_01_sbend_f",
+"w": 0.97,
+"l": 5.05,
+"h": 0.1,
+"center": [
+-0.431,
+0.047,
+2.523
+]
+},
+{
+"path": "dz\\structures\\residential\\medical\\decon_layflathose_01_step_f.p3d",
+"name": "decon_layflathose_01_step_f",
+"w": 0.1,
+"l": 3.29,
+"h": 0.54,
+"center": [
+0.0,
+0.264,
+1.646
+]
+},
+{
+"path": "dz\\structures\\residential\\medical\\decon_layflathose_01_straightlong_f.p3d",
+"name": "decon_layflathose_01_straightlong_f",
+"w": 0.15,
+"l": 5.02,
+"h": 0.1,
+"center": [
+0.022,
+0.047,
+2.51
+]
+},
+{
+"path": "dz\\structures\\residential\\medical\\decon_layflathose_01_straightshort_f.p3d",
+"name": "decon_layflathose_01_straightshort_f",
+"w": 0.1,
+"l": 1.02,
+"h": 0.1,
+"center": [
+0.0,
+0.047,
+0.507
+]
+},
+{
+"path": "dz\\structures\\residential\\medical\\decon_powercable_01_corner_f.p3d",
+"name": "decon_powercable_01_corner_f",
+"w": 1.05,
+"l": 1.07,
+"h": 0.06,
+"center": [
+-0.45,
+0.024,
+0.531
+]
+},
+{
+"path": "dz\\structures\\residential\\medical\\decon_powercable_01_curvelong_f.p3d",
+"name": "decon_powercable_01_curvelong_f",
+"w": 2.0,
+"l": 5.13,
+"h": 0.06,
+"center": [
+0.971,
+0.026,
+2.564
+]
+},
+{
+"path": "dz\\structures\\residential\\medical\\decon_powercable_01_curveshort_f.p3d",
+"name": "decon_powercable_01_curveshort_f",
+"w": 0.98,
+"l": 1.38,
+"h": 0.06,
+"center": [
+0.459,
+0.026,
+0.686
+]
+},
+{
+"path": "dz\\structures\\residential\\medical\\decon_powercable_01_roll_f.p3d",
+"name": "decon_powercable_01_roll_f",
+"w": 0.55,
+"l": 0.63,
+"h": 0.19,
+"center": [
+-0.083,
+0.093,
+0.166
+]
+},
+{
+"path": "dz\\structures\\residential\\medical\\decon_powercable_01_sbend_f.p3d",
+"name": "decon_powercable_01_sbend_f",
+"w": 0.92,
+"l": 4.99,
+"h": 0.06,
+"center": [
+-0.415,
+0.028,
+2.492
+]
+},
+{
+"path": "dz\\structures\\residential\\medical\\decon_powercable_01_step_f.p3d",
+"name": "decon_powercable_01_step_f",
+"w": 0.06,
+"l": 3.36,
+"h": 0.49,
+"center": [
+-0.0,
+0.246,
+1.679
+]
+},
+{
+"path": "dz\\structures\\residential\\medical\\decon_powercable_01_straightlong_f.p3d",
+"name": "decon_powercable_01_straightlong_f",
+"w": 0.11,
+"l": 5.01,
+"h": 0.06,
+"center": [
+0.025,
+0.028,
+2.504
+]
+},
+{
+"path": "dz\\structures\\residential\\medical\\decon_powercable_01_straightshort_f.p3d",
+"name": "decon_powercable_01_straightshort_f",
+"w": 0.06,
+"l": 0.99,
+"h": 0.06,
+"center": [
+-0.0,
+0.028,
+0.494
+]
+},
+{
+"path": "dz\\structures\\residential\\medical\\decon_pressurehose_01_corner_f.p3d",
+"name": "decon_pressurehose_01_corner_f",
+"w": 0.95,
+"l": 1.02,
+"h": 0.11,
+"center": [
+-0.395,
+0.049,
+0.508
+]
+},
+{
+"path": "dz\\structures\\residential\\medical\\decon_pressurehose_01_curvelong_f.p3d",
+"name": "decon_pressurehose_01_curvelong_f",
+"w": 1.94,
+"l": 5.0,
+"h": 0.11,
+"center": [
+0.915,
+0.051,
+2.501
+]
+},
+{
+"path": "dz\\structures\\residential\\medical\\decon_pressurehose_01_curveshort_f.p3d",
+"name": "decon_pressurehose_01_curveshort_f",
+"w": 0.97,
+"l": 1.45,
+"h": 0.11,
+"center": [
+0.431,
+0.049,
+0.726
+]
+},
+{
+"path": "dz\\structures\\residential\\medical\\decon_pressurehose_01_roll_f.p3d",
+"name": "decon_pressurehose_01_roll_f",
+"w": 0.99,
+"l": 1.21,
+"h": 0.22,
+"center": [
+-0.083,
+0.089,
+0.23
+]
+},
+{
+"path": "dz\\structures\\residential\\medical\\decon_pressurehose_01_sbend_f.p3d",
+"name": "decon_pressurehose_01_sbend_f",
+"w": 1.11,
+"l": 4.92,
+"h": 0.11,
+"center": [
+-0.503,
+0.049,
+2.458
+]
+},
+{
+"path": "dz\\structures\\residential\\medical\\decon_pressurehose_01_step_f.p3d",
+"name": "decon_pressurehose_01_step_f",
+"w": 0.11,
+"l": 3.47,
+"h": 0.52,
+"center": [
+0.0,
+0.253,
+1.732
+]
+},
+{
+"path": "dz\\structures\\residential\\medical\\decon_pressurehose_01_straightlong_f.p3d",
+"name": "decon_pressurehose_01_straightlong_f",
+"w": 0.14,
+"l": 4.93,
+"h": 0.11,
+"center": [
+0.017,
+0.052,
+2.463
+]
+},
+{
+"path": "dz\\structures\\residential\\medical\\decon_pressurehose_01_straightshort_f.p3d",
+"name": "decon_pressurehose_01_straightshort_f",
+"w": 0.11,
+"l": 0.92,
+"h": 0.11,
+"center": [
+-0.0,
+0.052,
+0.458
+]
+},
+{
+"path": "dz\\structures\\residential\\medical\\emergencyblanket_discarded.p3d",
+"name": "emergencyblanket_discarded",
+"w": 0.76,
+"l": 2.18,
+"h": 0.12,
+"center": [
+-0.004,
+0.061,
+0.062
+]
+},
+{
+"path": "dz\\structures\\residential\\medical\\medical_tent_big.p3d",
+"name": "medical_tent_big",
+"w": 10.72,
+"l": 8.25,
+"h": 4.69,
+"center": [
+0.0,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\medical\\medical_tent_shower.p3d",
+"name": "medical_tent_shower",
+"w": 8.56,
+"l": 5.27,
+"h": 3.27,
+"center": [
+3.025,
+1.572,
+0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\medical\\proxy\\a_hospital_grnd_proxy.p3d",
+"name": "a_hospital_grnd_proxy",
+"w": 44.69,
+"l": 15.51,
+"h": 13.38,
+"center": [
+-2.413,
+6.636,
+4.689
+]
+},
+{
+"path": "dz\\structures\\residential\\medical\\proxy\\a_hospital_ladder.p3d",
+"name": "a_hospital_ladder",
+"w": 40.55,
+"l": 15.96,
+"h": 14.63,
+"center": [
+-1.31,
+7.059,
+4.404
+]
+},
+{
+"path": "dz\\structures\\residential\\medical\\proxy\\cross.p3d",
+"name": "cross",
+"w": 2.3,
+"l": 2.51,
+"h": 0.34,
+"center": [
+0.078,
+-0.15,
+0.277
+]
+},
+{
+"path": "dz\\structures\\residential\\medical\\proxy\\lightningcond_a_hospital.p3d",
+"name": "lightningcond_a_hospital",
+"w": 14.4,
+"l": 3.22,
+"h": 0.1,
+"center": [
+0.0,
+0.052,
+0.002
+]
+},
+{
+"path": "dz\\structures\\residential\\medical\\proxy\\medical_tent_frame.p3d",
+"name": "medical_tent_frame",
+"w": 1.03,
+"l": 7.66,
+"h": 3.88,
+"center": [
+0.0,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\medical\\proxy\\showertent_furniture.p3d",
+"name": "showertent_furniture",
+"w": 8.49,
+"l": 1.32,
+"h": 2.62,
+"center": [
+0.0,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\medical\\proxy\\signs_int.p3d",
+"name": "signs_int",
+"w": 37.27,
+"l": 12.01,
+"h": 12.29,
+"center": [
+-2.478,
+7.285,
+5.916
+]
+},
+{
+"path": "dz\\structures\\residential\\medical\\scbacylinder_01_f.p3d",
+"name": "scbacylinder_01_f",
+"w": 0.17,
+"l": 0.53,
+"h": 0.17,
+"center": [
+-0.0,
+0.084,
+0.013
+]
+},
+{
+"path": "dz\\structures\\residential\\medical\\sponge_01_f.p3d",
+"name": "sponge_01_f",
+"w": 0.17,
+"l": 0.11,
+"h": 0.04,
+"center": [
+0.034,
+0.019,
+0.003
+]
+},
+{
+"path": "dz\\structures\\residential\\medical\\village_healthcare.p3d",
+"name": "village_healthcare",
+"w": 24.47,
+"l": 20.07,
+"h": 11.03,
+"center": [
+-0.123,
+3.647,
+-1.529
+]
+},
+{
+"path": "dz\\structures\\residential\\medical\\village_healthcare_ghost1.p3d",
+"name": "village_healthcare_ghost1",
+"w": 24.01,
+"l": 19.91,
+"h": 1.99,
+"center": [
+0.041,
+-0.312,
+-1.513
+]
+},
+{
+"path": "dz\\structures\\residential\\medical\\village_healthcare_ghost2.p3d",
+"name": "village_healthcare_ghost2",
+"w": 24.01,
+"l": 19.91,
+"h": 1.99,
+"center": [
+0.041,
+-0.312,
+-1.513
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\garbage_bin.p3d",
+"name": "garbage_bin",
+"w": 0.66,
+"l": 0.7,
+"h": 1.13,
+"center": [
+-0.332,
+0.566,
+-0.033
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\garbage_container.p3d",
+"name": "garbage_container",
+"w": 1.2,
+"l": 1.48,
+"h": 1.68,
+"center": [
+-0.008,
+0.842,
+0.746
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\garbage_container_glass.p3d",
+"name": "garbage_container_glass",
+"w": 1.2,
+"l": 1.48,
+"h": 1.68,
+"center": [
+-0.008,
+0.842,
+-0.004
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\garbage_container_paper.p3d",
+"name": "garbage_container_paper",
+"w": 1.2,
+"l": 1.48,
+"h": 1.68,
+"center": [
+-0.008,
+0.842,
+-0.004
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\garbage_container_plastic.p3d",
+"name": "garbage_container_plastic",
+"w": 1.2,
+"l": 1.48,
+"h": 1.68,
+"center": [
+-0.008,
+0.842,
+-0.004
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\garbage_ground_6m.p3d",
+"name": "garbage_ground_6m",
+"w": 1.44,
+"l": 5.58,
+"h": 0.12,
+"center": [
+0.639,
+0.0,
+-0.488
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\garbage_ground_6m_nolc.p3d",
+"name": "garbage_ground_6m_nolc",
+"w": 1.44,
+"l": 5.58,
+"h": 0.12,
+"center": [
+0.639,
+0.042,
+-0.488
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\garbage_groundsq_3m.p3d",
+"name": "garbage_groundsq_3m",
+"w": 2.5,
+"l": 2.55,
+"h": 0.11,
+"center": [
+-0.017,
+0.0,
+-0.165
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\garbage_groundsq_3m_nolc.p3d",
+"name": "garbage_groundsq_3m_nolc",
+"w": 2.5,
+"l": 2.55,
+"h": 0.11,
+"center": [
+-0.017,
+0.044,
+-0.165
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\garbage_groundsq_5m.p3d",
+"name": "garbage_groundsq_5m",
+"w": 4.01,
+"l": 4.62,
+"h": 0.14,
+"center": [
+-0.038,
+0.0,
+-0.072
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\garbage_groundsq_5m_nolc.p3d",
+"name": "garbage_groundsq_5m_nolc",
+"w": 4.01,
+"l": 4.62,
+"h": 0.14,
+"center": [
+-0.038,
+0.031,
+-0.072
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\garbage_pile1.p3d",
+"name": "garbage_pile1",
+"w": 4.08,
+"l": 3.14,
+"h": 1.38,
+"center": [
+0.009,
+0.452,
+-0.018
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\garbage_pile2.p3d",
+"name": "garbage_pile2",
+"w": 4.03,
+"l": 3.59,
+"h": 0.73,
+"center": [
+-0.025,
+0.256,
+-0.213
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\garbage_pile2_nolc.p3d",
+"name": "garbage_pile2_nolc",
+"w": 4.03,
+"l": 3.59,
+"h": 0.73,
+"center": [
+-0.025,
+0.256,
+-0.213
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\garbage_pile3.p3d",
+"name": "garbage_pile3",
+"w": 3.03,
+"l": 2.51,
+"h": 0.72,
+"center": [
+-0.22,
+0.269,
+-0.015
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\garbage_pile4.p3d",
+"name": "garbage_pile4",
+"w": 4.57,
+"l": 4.14,
+"h": 1.79,
+"center": [
+0.0,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\garbage_pile5.p3d",
+"name": "garbage_pile5",
+"w": 5.13,
+"l": 4.48,
+"h": 1.91,
+"center": [
+0.0,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\garbage_pile6.p3d",
+"name": "garbage_pile6",
+"w": 4.72,
+"l": 3.9,
+"h": 1.73,
+"center": [
+0.0,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\garden_plot.p3d",
+"name": "garden_plot",
+"w": 4.65,
+"l": 4.48,
+"h": 3.09,
+"center": [
+0.0,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\ladder.p3d",
+"name": "ladder",
+"w": 1.0,
+"l": 1.63,
+"h": 7.88,
+"center": [
+0.0,
+3.923,
+-0.412
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\ladder_half.p3d",
+"name": "ladder_half",
+"w": 1.0,
+"l": 1.63,
+"h": 7.89,
+"center": [
+0.0,
+0.684,
+-0.412
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\lamp_city1.p3d",
+"name": "lamp_city1",
+"w": 2.58,
+"l": 3.33,
+"h": 9.66,
+"center": [
+-1.089,
+4.232,
+1.667
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\lamp_city1_amp.p3d",
+"name": "lamp_city1_amp",
+"w": 2.58,
+"l": 3.52,
+"h": 9.66,
+"center": [
+-1.089,
+4.232,
+1.76
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\lamp_city2.p3d",
+"name": "lamp_city2",
+"w": 4.87,
+"l": 3.33,
+"h": 9.66,
+"center": [
+0.056,
+4.232,
+1.667
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\lamp_city3.p3d",
+"name": "lamp_city3",
+"w": 3.68,
+"l": 5.32,
+"h": 9.66,
+"center": [
+-0.539,
+4.232,
+2.661
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_advertcolumn.p3d",
+"name": "misc_advertcolumn",
+"w": 2.06,
+"l": 2.06,
+"h": 3.36,
+"center": [
+0.0,
+1.548,
+0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_barricade.p3d",
+"name": "misc_barricade",
+"w": 12.54,
+"l": 4.64,
+"h": 2.74,
+"center": [
+-0.019,
+0.667,
+0.124
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_bench1.p3d",
+"name": "misc_bench1",
+"w": 1.59,
+"l": 0.56,
+"h": 0.94,
+"center": [
+0.602,
+0.47,
+0.014
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_bench2.p3d",
+"name": "misc_bench2",
+"w": 1.58,
+"l": 1.02,
+"h": 0.96,
+"center": [
+0.608,
+0.478,
+0.244
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_bench3.p3d",
+"name": "misc_bench3",
+"w": 1.81,
+"l": 0.33,
+"h": 0.45,
+"center": [
+0.641,
+0.227,
+-0.009
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_bench4.p3d",
+"name": "misc_bench4",
+"w": 1.81,
+"l": 0.97,
+"h": 0.74,
+"center": [
+-0.0,
+0.362,
+0.045
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_bench5.p3d",
+"name": "misc_bench5",
+"w": 0.48,
+"l": 1.96,
+"h": 0.47,
+"center": [
+0.019,
+0.209,
+0.074
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_boogieman.p3d",
+"name": "misc_boogieman",
+"w": 1.32,
+"l": 0.58,
+"h": 1.95,
+"center": [
+0.057,
+0.687,
+-0.022
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_boundarystone.p3d",
+"name": "misc_boundarystone",
+"w": 0.26,
+"l": 0.26,
+"h": 0.64,
+"center": [
+0.0,
+0.163,
+0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_boundarystone_plastic.p3d",
+"name": "misc_boundarystone_plastic",
+"w": 0.12,
+"l": 0.1,
+"h": 1.0,
+"center": [
+0.0,
+0.45,
+-0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_boundarystone_tube.p3d",
+"name": "misc_boundarystone_tube",
+"w": 1.22,
+"l": 4.09,
+"h": 0.64,
+"center": [
+0.014,
+0.163,
+-0.12
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_boxwooden.p3d",
+"name": "misc_boxwooden",
+"w": 1.0,
+"l": 1.0,
+"h": 0.97,
+"center": [
+0.001,
+0.487,
+-0.002
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_carousel.p3d",
+"name": "misc_carousel",
+"w": 3.03,
+"l": 2.63,
+"h": 1.51,
+"center": [
+0.0,
+0.753,
+0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_carousel_small.p3d",
+"name": "misc_carousel_small",
+"w": 1.63,
+"l": 1.63,
+"h": 1.46,
+"center": [
+0.0,
+0.725,
+0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_chair_camp1.p3d",
+"name": "misc_chair_camp1",
+"w": 0.57,
+"l": 0.59,
+"h": 1.0,
+"center": [
+-0.002,
+0.495,
+0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_chair_camp2.p3d",
+"name": "misc_chair_camp2",
+"w": 0.57,
+"l": 0.59,
+"h": 1.01,
+"center": [
+-0.002,
+0.462,
+0.002
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_chair_plastic.p3d",
+"name": "misc_chair_plastic",
+"w": 0.71,
+"l": 0.75,
+"h": 0.99,
+"center": [
+0.0,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_chickencoop.p3d",
+"name": "misc_chickencoop",
+"w": 2.2,
+"l": 3.41,
+"h": 2.27,
+"center": [
+0.013,
+0.754,
+-0.563
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_crashbarrier.p3d",
+"name": "misc_crashbarrier",
+"w": 7.05,
+"l": 0.27,
+"h": 1.28,
+"center": [
+-3.527,
+0.358,
+-0.055
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_crashbarrier_nolc.p3d",
+"name": "misc_crashbarrier_nolc",
+"w": 7.05,
+"l": 0.27,
+"h": 1.28,
+"center": [
+-3.527,
+0.358,
+-0.055
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_deerstand1.p3d",
+"name": "misc_deerstand1",
+"w": 2.57,
+"l": 3.56,
+"h": 7.24,
+"center": [
+-1.021,
+3.447,
+0.425
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_deerstand2.p3d",
+"name": "misc_deerstand2",
+"w": 3.98,
+"l": 4.58,
+"h": 7.8,
+"center": [
+-0.357,
+2.647,
+0.472
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_doghouse.p3d",
+"name": "misc_doghouse",
+"w": 2.21,
+"l": 3.95,
+"h": 2.01,
+"center": [
+0.209,
+0.994,
+0.157
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_feedrack.p3d",
+"name": "misc_feedrack",
+"w": 1.93,
+"l": 1.54,
+"h": 2.2,
+"center": [
+0.018,
+0.759,
+0.002
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_feedshack.p3d",
+"name": "misc_feedshack",
+"w": 7.78,
+"l": 4.5,
+"h": 6.58,
+"center": [
+-1.605,
+2.332,
+0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_football_gate.p3d",
+"name": "misc_football_gate",
+"w": 5.81,
+"l": 1.83,
+"h": 2.53,
+"center": [
+-0.004,
+1.203,
+-0.041
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_football_line.p3d",
+"name": "misc_football_line",
+"w": 0.15,
+"l": 5.0,
+"h": 0.0,
+"center": [
+0.008,
+0.0,
+2.498
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_football_line_corner.p3d",
+"name": "misc_football_line_corner",
+"w": 1.67,
+"l": 1.67,
+"h": 0.0,
+"center": [
+0.836,
+0.0,
+0.835
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_football_line_hcircle.p3d",
+"name": "misc_football_line_hcircle",
+"w": 12.88,
+"l": 6.48,
+"h": 0.0,
+"center": [
+0.002,
+0.0,
+3.24
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_fountain.p3d",
+"name": "misc_fountain",
+"w": 3.31,
+"l": 3.41,
+"h": 1.53,
+"center": [
+0.013,
+0.604,
+-0.009
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_fountain_dry.p3d",
+"name": "misc_fountain_dry",
+"w": 3.31,
+"l": 3.41,
+"h": 1.53,
+"center": [
+0.013,
+0.604,
+-0.009
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_greenhouse.p3d",
+"name": "misc_greenhouse",
+"w": 5.69,
+"l": 4.23,
+"h": 3.9,
+"center": [
+0.234,
+1.324,
+0.055
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_haystack.p3d",
+"name": "misc_haystack",
+"w": 1.29,
+"l": 1.28,
+"h": 1.86,
+"center": [
+0.0,
+0.906,
+-0.006
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_hutch.p3d",
+"name": "misc_hutch",
+"w": 4.94,
+"l": 2.01,
+"h": 4.08,
+"center": [
+0.05,
+0.58,
+0.041
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_noticeboard1.p3d",
+"name": "misc_noticeboard1",
+"w": 1.18,
+"l": 0.32,
+"h": 2.1,
+"center": [
+-0.031,
+0.872,
+-0.002
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_noticeboard2.p3d",
+"name": "misc_noticeboard2",
+"w": 1.18,
+"l": 0.32,
+"h": 2.1,
+"center": [
+-0.031,
+0.872,
+-0.002
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_polytunnel.p3d",
+"name": "misc_polytunnel",
+"w": 9.03,
+"l": 6.07,
+"h": 3.51,
+"center": [
+-0.667,
+1.295,
+0.006
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_postbox1.p3d",
+"name": "misc_postbox1",
+"w": 0.27,
+"l": 0.39,
+"h": 1.55,
+"center": [
+0.0,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_postbox2.p3d",
+"name": "misc_postbox2",
+"w": 0.34,
+"l": 0.07,
+"h": 0.51,
+"center": [
+-0.002,
+0.253,
+-0.04
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_roadbarrier.p3d",
+"name": "misc_roadbarrier",
+"w": 0.76,
+"l": 10.48,
+"h": 2.58,
+"center": [
+0.111,
+0.525,
+2.147
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_roadbarrier2.p3d",
+"name": "misc_roadbarrier2",
+"w": 8.75,
+"l": 0.54,
+"h": 8.82,
+"center": [
+-3.438,
+4.05,
+-0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_sandbox.p3d",
+"name": "misc_sandbox",
+"w": 4.88,
+"l": 4.88,
+"h": 1.32,
+"center": [
+0.0,
+-0.339,
+0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_seesaw.p3d",
+"name": "misc_seesaw",
+"w": 0.43,
+"l": 3.09,
+"h": 1.27,
+"center": [
+0.2,
+0.612,
+-0.039
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_stadiumbenches.p3d",
+"name": "misc_stadiumbenches",
+"w": 4.05,
+"l": 3.96,
+"h": 1.79,
+"center": [
+0.198,
+0.894,
+1.217
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_sunshade.p3d",
+"name": "misc_sunshade",
+"w": 3.45,
+"l": 3.44,
+"h": 3.13,
+"center": [
+-0.056,
+1.296,
+-0.066
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_table.p3d",
+"name": "misc_table",
+"w": 1.16,
+"l": 1.47,
+"h": 0.91,
+"center": [
+0.001,
+0.409,
+0.003
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_table_camp.p3d",
+"name": "misc_table_camp",
+"w": 2.02,
+"l": 0.82,
+"h": 0.83,
+"center": [
+0.0,
+0.4,
+0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_table_camp_small.p3d",
+"name": "misc_table_camp_small",
+"w": 1.02,
+"l": 0.63,
+"h": 0.81,
+"center": [
+-0.018,
+0.4,
+-0.055
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_toilet_dry.p3d",
+"name": "misc_toilet_dry",
+"w": 1.83,
+"l": 2.29,
+"h": 3.47,
+"center": [
+-0.009,
+1.579,
+-0.033
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_toilet_mobile.p3d",
+"name": "misc_toilet_mobile",
+"w": 1.23,
+"l": 1.28,
+"h": 2.44,
+"center": [
+0.019,
+1.221,
+-0.021
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_trafficlights.p3d",
+"name": "misc_trafficlights",
+"w": 0.68,
+"l": 0.46,
+"h": 5.59,
+"center": [
+0.17,
+2.602,
+-0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_trailroof_big.p3d",
+"name": "misc_trailroof_big",
+"w": 4.13,
+"l": 6.42,
+"h": 4.07,
+"center": [
+-0.001,
+1.791,
+-0.017
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_trailroof_small.p3d",
+"name": "misc_trailroof_small",
+"w": 2.22,
+"l": 3.58,
+"h": 2.95,
+"center": [
+0.0,
+1.228,
+-0.068
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_tree_pavement1.p3d",
+"name": "misc_tree_pavement1",
+"w": 4.24,
+"l": 4.24,
+"h": 0.65,
+"center": [
+0.0,
+-0.175,
+0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_tree_pavement2.p3d",
+"name": "misc_tree_pavement2",
+"w": 1.25,
+"l": 1.25,
+"h": 0.57,
+"center": [
+0.0,
+0.283,
+0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_tree_pavement3.p3d",
+"name": "misc_tree_pavement3",
+"w": 1.0,
+"l": 3.6,
+"h": 0.84,
+"center": [
+-0.0,
+0.42,
+-0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_tree_protector.p3d",
+"name": "misc_tree_protector",
+"w": 0.57,
+"l": 0.57,
+"h": 1.43,
+"center": [
+-0.001,
+0.6,
+-0.001
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_well.p3d",
+"name": "misc_well",
+"w": 2.13,
+"l": 2.07,
+"h": 1.72,
+"center": [
+-0.037,
+0.298,
+0.029
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_well_pump_blue.p3d",
+"name": "misc_well_pump_blue",
+"w": 3.17,
+"l": 3.17,
+"h": 2.07,
+"center": [
+0.0,
+0.436,
+0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_well_pump_yellow.p3d",
+"name": "misc_well_pump_yellow",
+"w": 1.23,
+"l": 1.42,
+"h": 1.5,
+"center": [
+0.056,
+0.726,
+0.153
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_windbreak.p3d",
+"name": "misc_windbreak",
+"w": 4.06,
+"l": 1.12,
+"h": 1.44,
+"center": [
+0.049,
+0.635,
+-0.445
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_woodblock.p3d",
+"name": "misc_woodblock",
+"w": 1.57,
+"l": 0.98,
+"h": 0.71,
+"center": [
+0.174,
+0.344,
+-0.064
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_woodpile1.p3d",
+"name": "misc_woodpile1",
+"w": 0.5,
+"l": 1.88,
+"h": 0.79,
+"center": [
+-0.009,
+0.178,
+0.002
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_woodpile2.p3d",
+"name": "misc_woodpile2",
+"w": 0.65,
+"l": 1.42,
+"h": 0.66,
+"center": [
+0.01,
+0.313,
+-0.01
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_woodreserve.p3d",
+"name": "misc_woodreserve",
+"w": 0.77,
+"l": 2.97,
+"h": 2.0,
+"center": [
+-0.077,
+0.969,
+-1.373
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_woodtable_indoor.p3d",
+"name": "misc_woodtable_indoor",
+"w": 1.53,
+"l": 2.01,
+"h": 0.76,
+"center": [
+0.003,
+0.378,
+-0.001
+]
+},
+{
+"path": "dz\\structures\\residential\\misc\\misc_woodtable_outdoor.p3d",
+"name": "misc_woodtable_outdoor",
+"w": 2.02,
+"l": 2.7,
+"h": 0.98,
+"center": [
+0.009,
+0.487,
+0.03
+]
+},
+{
+"path": "dz\\structures\\residential\\offices\\office1.p3d",
+"name": "office1",
+"w": 35.31,
+"l": 18.21,
+"h": 14.6,
+"center": [
+-0.556,
+4.983,
+-1.21
+]
+},
+{
+"path": "dz\\structures\\residential\\offices\\office2.p3d",
+"name": "office2",
+"w": 48.62,
+"l": 18.95,
+"h": 20.71,
+"center": [
+0.014,
+8.711,
+-0.025
+]
+},
+{
+"path": "dz\\structures\\residential\\offices\\office2_ghost1.p3d",
+"name": "office2_ghost1",
+"w": 45.7,
+"l": 17.7,
+"h": 0.44,
+"center": [
+-0.104,
+0.218,
+0.161
+]
+},
+{
+"path": "dz\\structures\\residential\\offices\\office2_ghost2.p3d",
+"name": "office2_ghost2",
+"w": 45.7,
+"l": 17.7,
+"h": 0.44,
+"center": [
+-0.104,
+0.218,
+0.161
+]
+},
+{
+"path": "dz\\structures\\residential\\offices\\office_municipal1.p3d",
+"name": "office_municipal1",
+"w": 25.27,
+"l": 28.63,
+"h": 40.16,
+"center": [
+-0.0,
+18.93,
+7.504
+]
+},
+{
+"path": "dz\\structures\\residential\\offices\\office_municipal2.p3d",
+"name": "office_municipal2",
+"w": 20.19,
+"l": 21.44,
+"h": 65.92,
+"center": [
+0.008,
+31.717,
+0.804
+]
+},
+{
+"path": "dz\\structures\\residential\\offices\\office_municipal2_archway.p3d",
+"name": "office_municipal2_archway",
+"w": 11.4,
+"l": 5.33,
+"h": 17.78,
+"center": [
+0.0,
+7.593,
+-0.351
+]
+},
+{
+"path": "dz\\structures\\residential\\offices\\proxy\\a_office01_ladder.p3d",
+"name": "a_office01_ladder",
+"w": 30.97,
+"l": 10.3,
+"h": 12.03,
+"center": [
+0.729,
+5.771,
+1.275
+]
+},
+{
+"path": "dz\\structures\\residential\\offices\\proxy\\a_office01_metalbars.p3d",
+"name": "a_office01_metalbars",
+"w": 28.97,
+"l": 10.25,
+"h": 8.82,
+"center": [
+0.976,
+5.493,
+-1.221
+]
+},
+{
+"path": "dz\\structures\\residential\\offices\\proxy\\a_office02_grnd_proxy.p3d",
+"name": "a_office02_grnd_proxy",
+"w": 45.08,
+"l": 16.03,
+"h": 16.61,
+"center": [
+-0.118,
+8.758,
+0.621
+]
+},
+{
+"path": "dz\\structures\\residential\\offices\\proxy\\a_office02_metalbars.p3d",
+"name": "a_office02_metalbars",
+"w": 43.0,
+"l": 9.09,
+"h": 14.99,
+"center": [
+-1.433,
+7.206,
+3.127
+]
+},
+{
+"path": "dz\\structures\\residential\\offices\\proxy\\a_office02_windows.p3d",
+"name": "a_office02_windows",
+"w": 44.88,
+"l": 12.54,
+"h": 15.5,
+"center": [
+0.021,
+8.75,
+2.485
+]
+},
+{
+"path": "dz\\structures\\residential\\offices\\proxy\\black.p3d",
+"name": "black",
+"w": 2.5,
+"l": 1.5,
+"h": 2.5,
+"center": [
+0.0,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\offices\\proxy\\doorglass.p3d",
+"name": "doorglass",
+"w": 0.83,
+"l": 2.09,
+"h": 2.05,
+"center": [
+-0.389,
+0.003,
+0.003
+]
+},
+{
+"path": "dz\\structures\\residential\\offices\\proxy\\doorinterier.p3d",
+"name": "doorinterier",
+"w": 0.96,
+"l": 0.96,
+"h": 2.0,
+"center": [
+0.0,
+0.015,
+-0.562
+]
+},
+{
+"path": "dz\\structures\\residential\\offices\\proxy\\doorinterier_closed.p3d",
+"name": "doorinterier_closed",
+"w": 1.43,
+"l": 0.09,
+"h": 2.39,
+"center": [
+-0.002,
+0.207,
+-0.128
+]
+},
+{
+"path": "dz\\structures\\residential\\offices\\proxy\\doorsmallglass.p3d",
+"name": "doorsmallglass",
+"w": 1.05,
+"l": 0.22,
+"h": 1.97,
+"center": [
+0.438,
+0.0,
+0.494
+]
+},
+{
+"path": "dz\\structures\\residential\\offices\\proxy\\ladder.p3d",
+"name": "ladder",
+"w": 1.39,
+"l": 0.52,
+"h": 4.16,
+"center": [
+0.0,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\offices\\proxy\\ladderlong.p3d",
+"name": "ladderlong",
+"w": 1.49,
+"l": 0.52,
+"h": 6.87,
+"center": [
+-0.291,
+-1.234,
+0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\offices\\proxy\\municipaloffice2_details_proxy.p3d",
+"name": "municipaloffice2_details_proxy",
+"w": 18.92,
+"l": 20.16,
+"h": 33.97,
+"center": [
+0.008,
+16.987,
+0.536
+]
+},
+{
+"path": "dz\\structures\\residential\\offices\\proxy\\municipaloffice2_int.p3d",
+"name": "municipaloffice2_int",
+"w": 19.02,
+"l": 19.0,
+"h": 50.42,
+"center": [
+0.0,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\offices\\proxy\\window_a.p3d",
+"name": "window_a",
+"w": 4.0,
+"l": 0.14,
+"h": 1.5,
+"center": [
+-0.001,
+0.001,
+-0.049
+]
+},
+{
+"path": "dz\\structures\\residential\\offices\\proxy\\window_a_broken.p3d",
+"name": "window_a_broken",
+"w": 4.0,
+"l": 0.04,
+"h": 1.5,
+"center": [
+0.0,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\offices\\proxy\\window_b.p3d",
+"name": "window_b",
+"w": 0.18,
+"l": 2.01,
+"h": 1.5,
+"center": [
+0.041,
+0.001,
+0.001
+]
+},
+{
+"path": "dz\\structures\\residential\\offices\\proxy\\window_b_broken.p3d",
+"name": "window_b_broken",
+"w": 0.1,
+"l": 2.0,
+"h": 1.5,
+"center": [
+-0.0,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\offices\\proxy\\windowhall.p3d",
+"name": "windowhall",
+"w": 2.08,
+"l": 0.17,
+"h": 2.04,
+"center": [
+0.0,
+0.0,
+-0.008
+]
+},
+{
+"path": "dz\\structures\\residential\\offices\\proxy\\windowlarge.p3d",
+"name": "windowlarge",
+"w": 2.08,
+"l": 0.14,
+"h": 1.14,
+"center": [
+0.0,
+0.0,
+-0.071
+]
+},
+{
+"path": "dz\\structures\\residential\\offices\\proxy\\windowsmall.p3d",
+"name": "windowsmall",
+"w": 1.1,
+"l": 0.07,
+"h": 1.1,
+"center": [
+0.0,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\offices\\proxy\\zarivky.p3d",
+"name": "zarivky",
+"w": 1.5,
+"l": 0.3,
+"h": 0.1,
+"center": [
+0.0,
+0.052,
+0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\platforms\\platform1_angle.p3d",
+"name": "platform1_angle",
+"w": 7.86,
+"l": 10.22,
+"h": 7.18,
+"center": [
+-0.0,
+0.61,
+4.255
+]
+},
+{
+"path": "dz\\structures\\residential\\platforms\\platform1_block.p3d",
+"name": "platform1_block",
+"w": 10.22,
+"l": 10.22,
+"h": 7.18,
+"center": [
+0.0,
+0.61,
+0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\platforms\\platform1_ramp.p3d",
+"name": "platform1_ramp",
+"w": 25.56,
+"l": 7.68,
+"h": 7.18,
+"center": [
+2.764,
+0.61,
+0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\platforms\\platform1_stairs_20.p3d",
+"name": "platform1_stairs_20",
+"w": 2.03,
+"l": 10.04,
+"h": 3.26,
+"center": [
+0.0,
+0.913,
+-4.605
+]
+},
+{
+"path": "dz\\structures\\residential\\platforms\\platform1_stairs_30.p3d",
+"name": "platform1_stairs_30",
+"w": 2.29,
+"l": 10.04,
+"h": 5.02,
+"center": [
+0.006,
+1.324,
+-4.605
+]
+},
+{
+"path": "dz\\structures\\residential\\platforms\\platform1_stairs_30_walll.p3d",
+"name": "platform1_stairs_30_walll",
+"w": 0.53,
+"l": 7.55,
+"h": 5.79,
+"center": [
+0.0,
+1.706,
+-3.305
+]
+},
+{
+"path": "dz\\structures\\residential\\platforms\\platform1_stairs_30_wallr.p3d",
+"name": "platform1_stairs_30_wallr",
+"w": 0.53,
+"l": 7.55,
+"h": 5.79,
+"center": [
+0.0,
+1.707,
+-3.305
+]
+},
+{
+"path": "dz\\structures\\residential\\platforms\\platform1_staris_block.p3d",
+"name": "platform1_staris_block",
+"w": 2.0,
+"l": 3.96,
+"h": 7.06,
+"center": [
+0.0,
+0.231,
+0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\platforms\\platform1_wall.p3d",
+"name": "platform1_wall",
+"w": 0.55,
+"l": 10.21,
+"h": 1.08,
+"center": [
+0.0,
+4.39,
+0.001
+]
+},
+{
+"path": "dz\\structures\\residential\\platforms\\platform2_angle.p3d",
+"name": "platform2_angle",
+"w": 7.86,
+"l": 10.22,
+"h": 7.18,
+"center": [
+-0.0,
+0.61,
+4.255
+]
+},
+{
+"path": "dz\\structures\\residential\\platforms\\platform2_block.p3d",
+"name": "platform2_block",
+"w": 10.22,
+"l": 10.22,
+"h": 7.18,
+"center": [
+0.0,
+0.61,
+0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\platforms\\platform2_enter.p3d",
+"name": "platform2_enter",
+"w": 25.56,
+"l": 7.68,
+"h": 7.18,
+"center": [
+2.764,
+0.61,
+0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\platforms\\platform2_stairs_20.p3d",
+"name": "platform2_stairs_20",
+"w": 2.03,
+"l": 10.04,
+"h": 3.26,
+"center": [
+0.0,
+0.913,
+-4.605
+]
+},
+{
+"path": "dz\\structures\\residential\\platforms\\platform2_stairs_30.p3d",
+"name": "platform2_stairs_30",
+"w": 2.29,
+"l": 10.04,
+"h": 5.02,
+"center": [
+0.006,
+1.324,
+-4.605
+]
+},
+{
+"path": "dz\\structures\\residential\\platforms\\platform2_stairs_30_walll.p3d",
+"name": "platform2_stairs_30_walll",
+"w": 0.53,
+"l": 7.55,
+"h": 5.79,
+"center": [
+0.0,
+1.706,
+-3.305
+]
+},
+{
+"path": "dz\\structures\\residential\\platforms\\platform2_stairs_30_wallr.p3d",
+"name": "platform2_stairs_30_wallr",
+"w": 0.53,
+"l": 7.55,
+"h": 5.79,
+"center": [
+0.0,
+1.707,
+-3.305
+]
+},
+{
+"path": "dz\\structures\\residential\\platforms\\platform2_staris_block.p3d",
+"name": "platform2_staris_block",
+"w": 2.0,
+"l": 3.96,
+"h": 7.06,
+"center": [
+0.0,
+0.231,
+0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\platforms\\platform2_wall.p3d",
+"name": "platform2_wall",
+"w": 0.55,
+"l": 10.21,
+"h": 1.08,
+"center": [
+0.0,
+4.39,
+0.001
+]
+},
+{
+"path": "dz\\structures\\residential\\police\\city_policestation.p3d",
+"name": "city_policestation",
+"w": 21.28,
+"l": 14.84,
+"h": 15.38,
+"center": [
+-0.299,
+6.69,
+-1.557
+]
+},
+{
+"path": "dz\\structures\\residential\\police\\village_policestation.p3d",
+"name": "village_policestation",
+"w": 23.78,
+"l": 16.19,
+"h": 17.62,
+"center": [
+2.981,
+7.03,
+-1.49
+]
+},
+{
+"path": "dz\\structures\\residential\\schools\\city_school.p3d",
+"name": "city_school",
+"w": 53.96,
+"l": 52.72,
+"h": 13.92,
+"center": [
+-0.081,
+5.928,
+-0.294
+]
+},
+{
+"path": "dz\\structures\\residential\\schools\\proxy\\school_details.p3d",
+"name": "school_details",
+"w": 48.47,
+"l": 50.35,
+"h": 12.64,
+"center": [
+0.0,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\schools\\proxy\\school_exterior_proxy.p3d",
+"name": "school_exterior_proxy",
+"w": 48.43,
+"l": 47.96,
+"h": 10.14,
+"center": [
+0.0,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\schools\\proxy\\school_interior.p3d",
+"name": "school_interior",
+"w": 56.55,
+"l": 57.73,
+"h": 13.5,
+"center": [
+0.0,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\schools\\proxy\\school_sign.p3d",
+"name": "school_sign",
+"w": 0.99,
+"l": 0.03,
+"h": 1.27,
+"center": [
+0.0,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\schools\\proxy\\windows.p3d",
+"name": "windows",
+"w": 1.73,
+"l": 0.97,
+"h": 1.44,
+"center": [
+0.0,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\sheds\\shed_m1.p3d",
+"name": "shed_m1",
+"w": 3.83,
+"l": 3.4,
+"h": 4.85,
+"center": [
+-0.194,
+1.174,
+-0.348
+]
+},
+{
+"path": "dz\\structures\\residential\\sheds\\shed_m2.p3d",
+"name": "shed_m2",
+"w": 2.47,
+"l": 4.42,
+"h": 3.23,
+"center": [
+0.017,
+1.533,
+-0.172
+]
+},
+{
+"path": "dz\\structures\\residential\\sheds\\shed_m3.p3d",
+"name": "shed_m3",
+"w": 4.12,
+"l": 3.7,
+"h": 4.53,
+"center": [
+-0.062,
+1.196,
+-0.513
+]
+},
+{
+"path": "dz\\structures\\residential\\sheds\\shed_m4.p3d",
+"name": "shed_m4",
+"w": 3.89,
+"l": 5.84,
+"h": 4.2,
+"center": [
+0.117,
+1.092,
+-0.541
+]
+},
+{
+"path": "dz\\structures\\residential\\sheds\\shed_w1.p3d",
+"name": "shed_w1",
+"w": 5.48,
+"l": 3.55,
+"h": 4.94,
+"center": [
+0.524,
+1.217,
+0.877
+]
+},
+{
+"path": "dz\\structures\\residential\\sheds\\shed_w2.p3d",
+"name": "shed_w2",
+"w": 4.67,
+"l": 5.94,
+"h": 5.46,
+"center": [
+-0.663,
+0.006,
+1.744
+]
+},
+{
+"path": "dz\\structures\\residential\\sheds\\shed_w3.p3d",
+"name": "shed_w3",
+"w": 6.48,
+"l": 4.54,
+"h": 3.68,
+"center": [
+-0.316,
+0.886,
+0.261
+]
+},
+{
+"path": "dz\\structures\\residential\\sheds\\shed_w4.p3d",
+"name": "shed_w4",
+"w": 2.96,
+"l": 4.25,
+"h": 2.89,
+"center": [
+1.179,
+1.384,
+1.903
+]
+},
+{
+"path": "dz\\structures\\residential\\sheds\\shed_w5.p3d",
+"name": "shed_w5",
+"w": 6.36,
+"l": 3.6,
+"h": 3.68,
+"center": [
+2.158,
+1.546,
+-0.009
+]
+},
+{
+"path": "dz\\structures\\residential\\sheds\\shed_w6.p3d",
+"name": "shed_w6",
+"w": 6.61,
+"l": 9.72,
+"h": 6.9,
+"center": [
+0.046,
+1.452,
+-0.443
+]
+},
+{
+"path": "dz\\structures\\residential\\stores\\city_stand_fastfood.p3d",
+"name": "city_stand_fastfood",
+"w": 6.05,
+"l": 9.6,
+"h": 5.95,
+"center": [
+0.19,
+1.769,
+2.471
+]
+},
+{
+"path": "dz\\structures\\residential\\stores\\city_stand_grocery.p3d",
+"name": "city_stand_grocery",
+"w": 6.05,
+"l": 9.6,
+"h": 5.95,
+"center": [
+0.19,
+1.769,
+2.471
+]
+},
+{
+"path": "dz\\structures\\residential\\stores\\city_stand_news1.p3d",
+"name": "city_stand_news1",
+"w": 6.05,
+"l": 9.6,
+"h": 5.95,
+"center": [
+0.19,
+1.769,
+2.471
+]
+},
+{
+"path": "dz\\structures\\residential\\stores\\city_stand_news2.p3d",
+"name": "city_stand_news2",
+"w": 5.15,
+"l": 7.29,
+"h": 5.12,
+"center": [
+-0.001,
+1.58,
+2.325
+]
+},
+{
+"path": "dz\\structures\\residential\\stores\\city_store.p3d",
+"name": "city_store",
+"w": 30.08,
+"l": 21.6,
+"h": 8.44,
+"center": [
+-1.233,
+1.271,
+1.429
+]
+},
+{
+"path": "dz\\structures\\residential\\stores\\city_store_withstairs.p3d",
+"name": "city_store_withstairs",
+"w": 33.07,
+"l": 23.26,
+"h": 8.43,
+"center": [
+-2.582,
+2.415,
+2.256
+]
+},
+{
+"path": "dz\\structures\\residential\\stores\\village_store.p3d",
+"name": "village_store",
+"w": 11.32,
+"l": 14.7,
+"h": 7.46,
+"center": [
+-0.826,
+2.986,
+0.344
+]
+},
+{
+"path": "dz\\structures\\residential\\tenements\\proxy\\balcony_rail.p3d",
+"name": "balcony_rail",
+"w": 22.28,
+"l": 0.37,
+"h": 18.2,
+"center": [
+0.0,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\tenements\\proxy\\tb_big_doorricade.p3d",
+"name": "tb_big_doorricade",
+"w": 1.41,
+"l": 0.16,
+"h": 1.27,
+"center": [
+-0.002,
+0.002,
+-0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\tenements\\proxy\\tb_big_doorsframe_extract.p3d",
+"name": "tb_big_doorsframe_extract",
+"w": 17.37,
+"l": 14.45,
+"h": 45.35,
+"center": [
+0.001,
+22.675,
+0.164
+]
+},
+{
+"path": "dz\\structures\\residential\\tenements\\proxy\\tb_big_handrail.p3d",
+"name": "tb_big_handrail",
+"w": 1.57,
+"l": 4.1,
+"h": 4.47,
+"center": [
+0.0,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\tenements\\proxy\\tb_big_ladders.p3d",
+"name": "tb_big_ladders",
+"w": 1.03,
+"l": 4.93,
+"h": 46.89,
+"center": [
+0.0,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\tenements\\proxy\\tb_big_roof_items.p3d",
+"name": "tb_big_roof_items",
+"w": 22.04,
+"l": 16.44,
+"h": 48.24,
+"center": [
+0.0,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\tenements\\proxy\\tb_doors_a.p3d",
+"name": "tb_doors_a",
+"w": 1.32,
+"l": 0.23,
+"h": 2.31,
+"center": [
+0.0,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\tenements\\proxy\\tb_doors_b.p3d",
+"name": "tb_doors_b",
+"w": 1.32,
+"l": 0.23,
+"h": 2.24,
+"center": [
+0.0,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\tenements\\proxy\\tb_doors_c.p3d",
+"name": "tb_doors_c",
+"w": 1.32,
+"l": 0.22,
+"h": 2.26,
+"center": [
+0.0,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\tenements\\proxy\\tb_elevator_stairs.p3d",
+"name": "tb_elevator_stairs",
+"w": 2.99,
+"l": 4.02,
+"h": 44.59,
+"center": [
+0.0,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\tenements\\proxy\\tb_elevator_winch.p3d",
+"name": "tb_elevator_winch",
+"w": 1.33,
+"l": 1.24,
+"h": 1.0,
+"center": [
+0.0,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\tenements\\proxy\\tb_lobby.p3d",
+"name": "tb_lobby",
+"w": 22.16,
+"l": 14.11,
+"h": 42.3,
+"center": [
+0.15,
+21.821,
+0.18
+]
+},
+{
+"path": "dz\\structures\\residential\\tenements\\proxy\\tb_small_barrier_proxy.p3d",
+"name": "tb_small_barrier_proxy",
+"w": 4.17,
+"l": 1.55,
+"h": 14.56,
+"center": [
+-0.003,
+10.032,
+0.832
+]
+},
+{
+"path": "dz\\structures\\residential\\tenements\\proxy\\tb_small_doors_proxy.p3d",
+"name": "tb_small_doors_proxy",
+"w": 14.6,
+"l": 11.69,
+"h": 15.66,
+"center": [
+0.0,
+9.83,
+0.629
+]
+},
+{
+"path": "dz\\structures\\residential\\tenements\\proxy\\tb_small_roof_items.p3d",
+"name": "tb_small_roof_items",
+"w": 22.04,
+"l": 16.4,
+"h": 23.6,
+"center": [
+-0.031,
+9.811,
+0.141
+]
+},
+{
+"path": "dz\\structures\\residential\\tenements\\proxy\\tb_windows.p3d",
+"name": "tb_windows",
+"w": 22.74,
+"l": 17.58,
+"h": 42.47,
+"center": [
+0.0,
+22.251,
+0.164
+]
+},
+{
+"path": "dz\\structures\\residential\\tenements\\proxy\\tenement_big_win.p3d",
+"name": "tenement_big_win",
+"w": 20.76,
+"l": 8.07,
+"h": 14.93,
+"center": [
+0.0,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\tenements\\proxy\\tenement_big_win_single.p3d",
+"name": "tenement_big_win_single",
+"w": 2.62,
+"l": 0.73,
+"h": 1.93,
+"center": [
+0.0,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures\\residential\\tenements\\proxy\\tenement_small_win_back.p3d",
+"name": "tenement_small_win_back",
+"w": 20.25,
+"l": 2.48,
+"h": 16.21,
+"center": [
+-0.013,
+10.077,
+-5.97
+]
+},
+{
+"path": "dz\\structures\\residential\\tenements\\proxy\\tenement_small_win_front.p3d",
+"name": "tenement_small_win_front",
+"w": 20.24,
+"l": 2.47,
+"h": 16.21,
+"center": [
+-0.009,
+10.077,
+6.306
+]
+},
+{
+"path": "dz\\structures\\residential\\tenements\\tenement_big.p3d",
+"name": "tenement_big",
+"w": 23.34,
+"l": 19.32,
+"h": 50.28,
+"center": [
+-0.156,
+21.741,
+0.164
+]
+},
+{
+"path": "dz\\structures\\residential\\tenements\\tenement_big_entry.p3d",
+"name": "tenement_big_entry",
+"w": 3.83,
+"l": 7.27,
+"h": 6.96,
+"center": [
+0.0,
+1.486,
+0.238
+]
+},
+{
+"path": "dz\\structures\\residential\\tenements\\tenement_small.p3d",
+"name": "tenement_small",
+"w": 23.24,
+"l": 18.32,
+"h": 24.22,
+"center": [
+0.284,
+9.5,
+0.297
+]
+},
+{
+"path": "dz\\structures\\residential\\tenements\\tenement_small_entry.p3d",
+"name": "tenement_small_entry",
+"w": 2.57,
+"l": 4.62,
+"h": 3.87,
+"center": [
+0.0,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures\\industrial\\sheds\\proxy\\windows.p3d",
+"name": "windows",
+"w": 10.64,
+"l": 23.32,
+"h": 7.54,
+"center": [
+-0.017,
+4.271,
+1.923
+]
+},
+{
+"path": "dz\\structures\\industrial\\sheds\\shed_closed.p3d",
+"name": "shed_closed",
+"w": 12.55,
+"l": 29.47,
+"h": 13.74,
+"center": [
+-0.358,
+4.87,
+0.836
+]
+},
+{
+"path": "dz\\structures\\industrial\\sheds\\shed_open_big.p3d",
+"name": "shed_open_big",
+"w": 16.21,
+"l": 4.36,
+"h": 2.64,
+"center": [
+0.001,
+6.764,
+-0.029
+]
+},
+{
+"path": "dz\\structures\\industrial\\sheds\\shed_open_big_end.p3d",
+"name": "shed_open_big_end",
+"w": 16.21,
+"l": 0.35,
+"h": 9.46,
+"center": [
+0.0,
+3.337,
+-1.946
+]
+},
+{
+"path": "dz\\structures\\industrial\\sheds\\shed_open_sawmill.p3d",
+"name": "shed_open_sawmill",
+"w": 13.12,
+"l": 29.73,
+"h": 8.13,
+"center": [
+-0.054,
+3.064,
+-0.085
+]
+},
+{
+"path": "dz\\structures\\industrial\\sheds\\shed_open_sideroof.p3d",
+"name": "shed_open_sideroof",
+"w": 7.13,
+"l": 19.57,
+"h": 5.98,
+"center": [
+3.55,
+0.911,
+0.107
+]
+},
+{
+"path": "dz\\structures\\industrial\\sheds\\shed_open_small.p3d",
+"name": "shed_open_small",
+"w": 8.2,
+"l": 4.29,
+"h": 6.96,
+"center": [
+4.006,
+2.086,
+0.023
+]
+},
+{
+"path": "dz\\structures\\industrial\\sheds\\shed_open_small_end.p3d",
+"name": "shed_open_small_end",
+"w": 8.17,
+"l": 0.35,
+"h": 6.98,
+"center": [
+4.017,
+2.085,
+0.054
+]
+},
+{
+"path": "dz\\structures\\industrial\\garages\\garage_big.p3d",
+"name": "garage_big",
+"w": 30.92,
+"l": 24.33,
+"h": 11.22,
+"center": [
+-0.034,
+2.703,
+-0.099
+]
+},
+{
+"path": "dz\\structures\\industrial\\garages\\garage_office.p3d",
+"name": "garage_office",
+"w": 7.89,
+"l": 18.0,
+"h": 10.75,
+"center": [
+0.588,
+3.51,
+-1.025
+]
+},
+{
+"path": "dz\\structures\\industrial\\garages\\garage_row_big.p3d",
+"name": "garage_row_big",
+"w": 27.56,
+"l": 24.59,
+"h": 10.8,
+"center": [
+-0.02,
+3.535,
+0.853
+]
+},
+{
+"path": "dz\\structures\\industrial\\garages\\garage_row_small.p3d",
+"name": "garage_row_small",
+"w": 16.14,
+"l": 14.3,
+"h": 7.18,
+"center": [
+0.648,
+1.588,
+3.045
+]
+},
+{
+"path": "dz\\structures\\industrial\\garages\\garage_small.p3d",
+"name": "garage_small",
+"w": 7.73,
+"l": 9.12,
+"h": 5.61,
+"center": [
+-0.951,
+1.312,
+-0.542
+]
+},
+{
+"path": "dz\\structures\\industrial\\farms\\barn_brick1.p3d",
+"name": "barn_brick1",
+"w": 14.09,
+"l": 24.66,
+"h": 14.13,
+"center": [
+0.084,
+5.139,
+0.034
+]
+},
+{
+"path": "dz\\structures\\industrial\\farms\\barn_brick2.p3d",
+"name": "barn_brick2",
+"w": 9.15,
+"l": 15.76,
+"h": 12.4,
+"center": [
+0.419,
+4.185,
+-2.082
+]
+},
+{
+"path": "dz\\structures\\industrial\\farms\\barn_metal_big.p3d",
+"name": "barn_metal_big",
+"w": 41.34,
+"l": 59.93,
+"h": 20.39,
+"center": [
+-0.564,
+5.444,
+-1.371
+]
+},
+{
+"path": "dz\\structures\\industrial\\farms\\barn_metal_big_grey.p3d",
+"name": "barn_metal_big_grey",
+"w": 41.34,
+"l": 59.93,
+"h": 20.41,
+"center": [
+-0.564,
+5.436,
+-1.371
+]
+},
+{
+"path": "dz\\structures\\industrial\\farms\\barn_wood1.p3d",
+"name": "barn_wood1",
+"w": 18.03,
+"l": 55.17,
+"h": 10.86,
+"center": [
+-0.16,
+3.164,
+0.078
+]
+},
+{
+"path": "dz\\structures\\industrial\\farms\\barn_wood2.p3d",
+"name": "barn_wood2",
+"w": 14.14,
+"l": 26.1,
+"h": 9.54,
+"center": [
+0.482,
+3.113,
+-0.003
+]
+},
+{
+"path": "dz\\structures\\industrial\\farms\\farm_cowsheda.p3d",
+"name": "farm_cowsheda",
+"w": 26.19,
+"l": 17.27,
+"h": 10.12,
+"center": [
+13.168,
+3.145,
+-1.025
+]
+},
+{
+"path": "dz\\structures\\industrial\\farms\\farm_cowshedb.p3d",
+"name": "farm_cowshedb",
+"w": 26.99,
+"l": 9.81,
+"h": 10.2,
+"center": [
+-6.394,
+3.184,
+-0.682
+]
+},
+{
+"path": "dz\\structures\\industrial\\farms\\farm_cowshedc.p3d",
+"name": "farm_cowshedc",
+"w": 14.27,
+"l": 10.69,
+"h": 10.23,
+"center": [
+-21.493,
+3.217,
+-0.172
+]
+},
+{
+"path": "dz\\structures\\industrial\\farms\\farm_hopper.p3d",
+"name": "farm_hopper",
+"w": 4.51,
+"l": 4.02,
+"h": 15.92,
+"center": [
+0.246,
+6.406,
+0.01
+]
+},
+{
+"path": "dz\\structures\\industrial\\farms\\farm_strawstack.p3d",
+"name": "farm_strawstack",
+"w": 20.76,
+"l": 9.28,
+"h": 4.74,
+"center": [
+-0.084,
+1.474,
+-0.031
+]
+},
+{
+"path": "dz\\structures\\industrial\\farms\\farm_watertower.p3d",
+"name": "farm_watertower",
+"w": 18.53,
+"l": 20.71,
+"h": 34.33,
+"center": [
+0.0,
+16.16,
+-0.062
+]
+},
+{
+"path": "dz\\structures\\industrial\\farms\\farm_watertower_small.p3d",
+"name": "farm_watertower_small",
+"w": 4.23,
+"l": 6.77,
+"h": 11.08,
+"center": [
+0.121,
+5.428,
+1.39
+]
+},
+{
+"path": "dz\\structures\\industrial\\farms\\proxy\\barn_metal_lod1_proxy.p3d",
+"name": "barn_metal_lod1_proxy",
+"w": 22.18,
+"l": 49.74,
+"h": 15.59,
+"center": [
+-0.069,
+7.797,
+-2.648
+]
+},
+{
+"path": "dz\\structures\\industrial\\farms\\proxy\\barn_roofconstr_proxy.p3d",
+"name": "barn_roofconstr_proxy",
+"w": 22.05,
+"l": 0.23,
+"h": 1.89,
+"center": [
+-0.012,
+14.661,
+0.005
+]
+},
+{
+"path": "dz\\structures\\industrial\\farms\\proxy\\boxy_a.p3d",
+"name": "boxy_a",
+"w": 1.55,
+"l": 3.93,
+"h": 1.24,
+"center": [
+0.0,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures\\industrial\\farms\\proxy\\boxy_b.p3d",
+"name": "boxy_b",
+"w": 1.55,
+"l": 3.93,
+"h": 1.24,
+"center": [
+0.0,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures\\industrial\\farms\\proxy\\boxy_c.p3d",
+"name": "boxy_c",
+"w": 1.47,
+"l": 3.93,
+"h": 0.28,
+"center": [
+0.0,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures\\industrial\\farms\\proxy\\boxy_d.p3d",
+"name": "boxy_d",
+"w": 5.96,
+"l": 3.95,
+"h": 1.24,
+"center": [
+0.0,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures\\industrial\\farms\\proxy\\boxy_e.p3d",
+"name": "boxy_e",
+"w": 5.96,
+"l": 3.95,
+"h": 1.24,
+"center": [
+0.0,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures\\industrial\\farms\\proxy\\okna_a.p3d",
+"name": "okna_a",
+"w": 5.47,
+"l": 0.0,
+"h": 3.18,
+"center": [
+0.353,
+0.366,
+0.086
+]
+},
+{
+"path": "dz\\structures\\industrial\\farms\\proxy\\okna_b.p3d",
+"name": "okna_b",
+"w": 5.48,
+"l": 0.0,
+"h": 3.18,
+"center": [
+-0.105,
+0.362,
+-0.015
+]
+},
+{
+"path": "dz\\structures\\industrial\\farms\\proxy\\tram_a.p3d",
+"name": "tram_a",
+"w": 0.22,
+"l": 8.51,
+"h": 3.34,
+"center": [
+0.03,
+0.744,
+0.461
+]
+},
+{
+"path": "dz\\structures\\industrial\\farms\\proxy\\tram_b.p3d",
+"name": "tram_b",
+"w": 0.22,
+"l": 8.51,
+"h": 3.95,
+"center": [
+0.03,
+0.44,
+0.463
+]
+},
+{
+"path": "dz\\structures\\industrial\\houses\\factory_lathes.p3d",
+"name": "factory_lathes",
+"w": 48.83,
+"l": 29.27,
+"h": 16.24,
+"center": [
+-4.161,
+6.011,
+-0.803
+]
+},
+{
+"path": "dz\\structures\\industrial\\houses\\factory_small.p3d",
+"name": "factory_small",
+"w": 26.79,
+"l": 21.11,
+"h": 18.42,
+"center": [
+1.95,
+5.812,
+2.297
+]
+},
+{
+"path": "dz\\structures\\industrial\\houses\\guardhouse.p3d",
+"name": "guardhouse",
+"w": 6.62,
+"l": 3.79,
+"h": 4.82,
+"center": [
+0.004,
+1.07,
+-0.208
+]
+},
+{
+"path": "dz\\structures\\industrial\\houses\\proxy\\housev2_03_int.p3d",
+"name": "housev2_03_int",
+"w": 38.52,
+"l": 22.16,
+"h": 16.13,
+"center": [
+-4.7,
+6.065,
+0.831
+]
+},
+{
+"path": "dz\\structures\\industrial\\houses\\proxy\\ind_workshop_window.p3d",
+"name": "ind_workshop_window",
+"w": 1.51,
+"l": 0.05,
+"h": 1.13,
+"center": [
+0.001,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures\\industrial\\houses\\repair_center.p3d",
+"name": "repair_center",
+"w": 10.17,
+"l": 16.42,
+"h": 5.17,
+"center": [
+0.002,
+2.521,
+2.656
+]
+},
+{
+"path": "dz\\structures\\industrial\\houses\\water_station.p3d",
+"name": "water_station",
+"w": 5.92,
+"l": 6.48,
+"h": 5.24,
+"center": [
+0.015,
+1.588,
+-0.607
+]
+},
+{
+"path": "dz\\structures\\industrial\\houses\\workshop1.p3d",
+"name": "workshop1",
+"w": 8.18,
+"l": 8.39,
+"h": 4.74,
+"center": [
+-0.28,
+1.439,
+0.592
+]
+},
+{
+"path": "dz\\structures\\industrial\\houses\\workshop2.p3d",
+"name": "workshop2",
+"w": 8.44,
+"l": 10.81,
+"h": 5.44,
+"center": [
+-0.031,
+1.223,
+-0.071
+]
+},
+{
+"path": "dz\\structures\\industrial\\houses\\workshop3.p3d",
+"name": "workshop3",
+"w": 6.55,
+"l": 13.24,
+"h": 5.12,
+"center": [
+-0.24,
+1.366,
+0.002
+]
+},
+{
+"path": "dz\\structures\\industrial\\houses\\workshop4.p3d",
+"name": "workshop4",
+"w": 9.04,
+"l": 15.4,
+"h": 5.15,
+"center": [
+0.139,
+1.665,
+-0.965
+]
+},
+{
+"path": "dz\\structures\\industrial\\houses\\workshop5.p3d",
+"name": "workshop5",
+"w": 11.24,
+"l": 15.39,
+"h": 4.59,
+"center": [
+-0.314,
+1.394,
+-0.588
+]
+},
+{
+"path": "dz\\structures\\industrial\\houses\\workshop_box.p3d",
+"name": "workshop_box",
+"w": 2.51,
+"l": 3.2,
+"h": 3.29,
+"center": [
+3.571,
+0.744,
+-2.556
+]
+},
+{
+"path": "dz\\structures\\specific\\hotel\\hotel.p3d",
+"name": "hotel",
+"w": 38.71,
+"l": 30.79,
+"h": 54.09,
+"center": [
+2.982,
+16.788,
+-4.909
+]
+},
+{
+"path": "dz\\structures\\specific\\hotel\\hotel_damaged.p3d",
+"name": "hotel_damaged",
+"w": 38.99,
+"l": 30.79,
+"h": 45.13,
+"center": [
+2.841,
+21.361,
+-4.909
+]
+},
+{
+"path": "dz\\structures\\specific\\hotel\\hotel_damaged_airplane_back.p3d",
+"name": "hotel_damaged_airplane_back",
+"w": 14.15,
+"l": 15.88,
+"h": 7.74,
+"center": [
+0.0,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures\\specific\\hotel\\hotel_damaged_airplane_wing.p3d",
+"name": "hotel_damaged_airplane_wing",
+"w": 13.81,
+"l": 12.77,
+"h": 3.31,
+"center": [
+-0.601,
+1.21,
+0.194
+]
+},
+{
+"path": "dz\\structures\\specific\\hotel\\hotel_damaged_decal1.p3d",
+"name": "hotel_damaged_decal1",
+"w": 62.76,
+"l": 89.39,
+"h": 0.0,
+"center": [
+8.501,
+0.011,
+14.128
+]
+},
+{
+"path": "dz\\structures\\specific\\hotel\\hotel_damaged_decal2.p3d",
+"name": "hotel_damaged_decal2",
+"w": 56.37,
+"l": 124.48,
+"h": 0.0,
+"center": [
+0.0,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures\\specific\\hotel\\hotel_damaged_rubble.p3d",
+"name": "hotel_damaged_rubble",
+"w": 31.13,
+"l": 43.47,
+"h": 9.48,
+"center": [
+0.0,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures\\specific\\hotel\\proxy\\houseb_tenement_dayz_airplane.p3d",
+"name": "houseb_tenement_dayz_airplane",
+"w": 19.93,
+"l": 20.21,
+"h": 15.83,
+"center": [
+0.0,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures\\specific\\hotel\\proxy\\houseb_tenement_dayz_alfa.p3d",
+"name": "houseb_tenement_dayz_alfa",
+"w": 20.93,
+"l": 14.62,
+"h": 22.0,
+"center": [
+-7.743,
+26.806,
+-1.142
+]
+},
+{
+"path": "dz\\structures\\specific\\hotel\\proxy\\houseb_tenement_dayz_proxy.p3d",
+"name": "houseb_tenement_dayz_proxy",
+"w": 21.37,
+"l": 15.53,
+"h": 40.61,
+"center": [
+0.0,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures\\specific\\churches\\chapel.p3d",
+"name": "chapel",
+"w": 10.1,
+"l": 5.96,
+"h": 11.48,
+"center": [
+2.236,
+4.271,
+-0.111
+]
+},
+{
+"path": "dz\\structures\\specific\\churches\\church1_yellow.p3d",
+"name": "church1_yellow",
+"w": 17.47,
+"l": 13.7,
+"h": 17.39,
+"center": [
+-1.057,
+6.31,
+0.142
+]
+},
+{
+"path": "dz\\structures\\specific\\churches\\church2_1.p3d",
+"name": "church2_1",
+"w": 23.87,
+"l": 17.75,
+"h": 28.03,
+"center": [
+5.013,
+11.069,
+-1.529
+]
+},
+{
+"path": "dz\\structures\\specific\\churches\\church2_2.p3d",
+"name": "church2_2",
+"w": 23.87,
+"l": 17.75,
+"h": 27.1,
+"center": [
+5.013,
+11.539,
+-1.529
+]
+},
+{
+"path": "dz\\structures\\specific\\churches\\church3.p3d",
+"name": "church3",
+"w": 33.58,
+"l": 19.62,
+"h": 33.19,
+"center": [
+-3.764,
+14.404,
+0.068
+]
+},
+{
+"path": "dz\\structures\\specific\\churches\\proxy\\chapel_table_proxy.p3d",
+"name": "chapel_table_proxy",
+"w": 0.7,
+"l": 1.95,
+"h": 2.54,
+"center": [
+0.0,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures\\specific\\churches\\proxy\\chapel_table_proxy2.p3d",
+"name": "chapel_table_proxy2",
+"w": 0.7,
+"l": 1.95,
+"h": 1.37,
+"center": [
+0.0,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures\\specific\\churches\\proxy\\church_02_woodwall.p3d",
+"name": "church_02_woodwall",
+"w": 18.05,
+"l": 15.38,
+"h": 6.55,
+"center": [
+7.088,
+3.239,
+-1.148
+]
+},
+{
+"path": "dz\\structures\\specific\\churches\\proxy\\church_03_interier.p3d",
+"name": "church_03_interier",
+"w": 31.07,
+"l": 18.78,
+"h": 13.54,
+"center": [
+-3.027,
+6.005,
+0.075
+]
+},
+{
+"path": "dz\\structures\\specific\\churches\\proxy\\church_03_woodwall.p3d",
+"name": "church_03_woodwall",
+"w": 19.59,
+"l": 15.6,
+"h": 6.96,
+"center": [
+2.527,
+3.49,
+0.233
+]
+},
+{
+"path": "dz\\structures\\specific\\churches\\proxy\\church_03_woodwall_asset1.p3d",
+"name": "church_03_woodwall_asset1",
+"w": 0.66,
+"l": 0.65,
+"h": 1.77,
+"center": [
+-0.011,
+0.254,
+-0.028
+]
+},
+{
+"path": "dz\\structures\\specific\\churches\\proxy\\church_cross_1a.p3d",
+"name": "church_cross_1a",
+"w": 1.29,
+"l": 0.11,
+"h": 2.48,
+"center": [
+0.445,
+1.213,
+-0.457
+]
+},
+{
+"path": "dz\\structures\\specific\\churches\\proxy\\church_cross_1b.p3d",
+"name": "church_cross_1b",
+"w": 0.2,
+"l": 2.26,
+"h": 4.36,
+"center": [
+-0.064,
+2.182,
+-0.003
+]
+},
+{
+"path": "dz\\structures\\specific\\fuelstation\\fuelstation_build.p3d",
+"name": "fuelstation_build",
+"w": 7.64,
+"l": 6.7,
+"h": 4.26,
+"center": [
+-0.007,
+1.63,
+0.096
+]
+},
+{
+"path": "dz\\structures\\specific\\fuelstation\\fuelstation_feed.p3d",
+"name": "fuelstation_feed",
+"w": 1.09,
+"l": 0.38,
+"h": 1.72,
+"center": [
+0.003,
+0.859,
+0.0
+]
+},
+{
+"path": "dz\\structures\\specific\\fuelstation\\fuelstation_feed_nofuel.p3d",
+"name": "fuelstation_feed_nofuel",
+"w": 2.36,
+"l": 0.88,
+"h": 1.72,
+"center": [
+0.0,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures\\specific\\fuelstation\\fuelstation_shed.p3d",
+"name": "fuelstation_shed",
+"w": 18.6,
+"l": 12.42,
+"h": 7.35,
+"center": [
+0.008,
+3.179,
+0.038
+]
+},
+{
+"path": "dz\\structures\\specific\\fuelstation\\fuelstation_sign.p3d",
+"name": "fuelstation_sign",
+"w": 0.48,
+"l": 1.19,
+"h": 5.72,
+"center": [
+0.031,
+2.186,
+0.096
+]
+},
+{
+"path": "dz\\structures\\roads\\bridges\\bridge_metal_25.p3d",
+"name": "bridge_metal_25",
+"w": 17.68,
+"l": 25.0,
+"h": 24.83,
+"center": [
+-0.002,
+-7.531,
+-0.0
+]
+},
+{
+"path": "dz\\structures\\roads\\bridges\\bridge_metal_25_1.p3d",
+"name": "bridge_metal_25_1",
+"w": 17.78,
+"l": 27.86,
+"h": 24.83,
+"center": [
+0.012,
+-7.531,
+0.176
+]
+},
+{
+"path": "dz\\structures\\roads\\bridges\\bridge_stone_25.p3d",
+"name": "bridge_stone_25",
+"w": 14.99,
+"l": 25.0,
+"h": 17.8,
+"center": [
+-0.033,
+1.076,
+0.0
+]
+},
+{
+"path": "dz\\structures\\roads\\bridges\\bridge_wood_25.p3d",
+"name": "bridge_wood_25",
+"w": 33.45,
+"l": 9.1,
+"h": 5.21,
+"center": [
+0.42,
+-0.055,
+0.035
+]
+},
+{
+"path": "dz\\structures\\roads\\bridges\\bridge_wood_50.p3d",
+"name": "bridge_wood_50",
+"w": 51.75,
+"l": 9.1,
+"h": 5.21,
+"center": [
+1.259,
+-0.055,
+0.035
+]
+},
+{
+"path": "dz\\structures\\roads\\bridges\\bridge_wood_50_1.p3d",
+"name": "bridge_wood_50_1",
+"w": 51.75,
+"l": 9.1,
+"h": 7.81,
+"center": [
+1.259,
+-1.356,
+0.035
+]
+},
+{
+"path": "dz\\structures_bliss\\roads\\bridges\\bridge_concrete1_25.p3d",
+"name": "bridge_concrete1_25",
+"w": 10.75,
+"l": 24.31,
+"h": 9.14,
+"center": [
+0.005,
+2.968,
+-0.005
+]
+},
+{
+"path": "dz\\structures_bliss\\roads\\bridges\\bridge_concrete1_left.p3d",
+"name": "bridge_concrete1_left",
+"w": 15.25,
+"l": 31.47,
+"h": 9.14,
+"center": [
+0.022,
+2.968,
+-2.154
+]
+},
+{
+"path": "dz\\structures_bliss\\roads\\bridges\\bridge_concrete1_right.p3d",
+"name": "bridge_concrete1_right",
+"w": 14.86,
+"l": 30.99,
+"h": 9.14,
+"center": [
+-0.019,
+2.968,
+2.37
+]
+},
+{
+"path": "dz\\structures_bliss\\roads\\bridges\\bridge_concrete2_25.p3d",
+"name": "bridge_concrete2_25",
+"w": 17.28,
+"l": 40.64,
+"h": 9.61,
+"center": [
+0.035,
+2.181,
+0.098
+]
+},
+{
+"path": "dz\\structures_bliss\\roads\\bridges\\bridge_concrete2_left.p3d",
+"name": "bridge_concrete2_left",
+"w": 21.31,
+"l": 23.29,
+"h": 8.58,
+"center": [
+0.001,
+2.691,
+0.932
+]
+},
+{
+"path": "dz\\structures_bliss\\roads\\bridges\\bridge_concrete2_right.p3d",
+"name": "bridge_concrete2_right",
+"w": 21.23,
+"l": 23.22,
+"h": 8.57,
+"center": [
+0.027,
+2.683,
+-0.646
+]
+},
+{
+"path": "dz\\structures_sakhal\\roads\\bridges\\bridge_concrete2_left_sakhal.p3d",
+"name": "bridge_concrete2_left_sakhal",
+"w": 21.31,
+"l": 23.29,
+"h": 8.58,
+"center": [
+0.001,
+2.691,
+0.932
+]
+},
+{
+"path": "dz\\structures_sakhal\\roads\\bridges\\bridge_concrete2_right_sakhal.p3d",
+"name": "bridge_concrete2_right_sakhal",
+"w": 21.23,
+"l": 23.22,
+"h": 8.57,
+"center": [
+0.027,
+2.683,
+-0.646
+]
+},
+{
+"path": "dz\\structures_sakhal\\roads\\bridges\\bridge_concrete3.p3d",
+"name": "bridge_concrete3",
+"w": 22.11,
+"l": 32.09,
+"h": 4.86,
+"center": [
+0.0,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures_sakhal\\roads\\bridges\\bridge_concrete3_snow.p3d",
+"name": "bridge_concrete3_snow",
+"w": 22.11,
+"l": 32.09,
+"h": 4.86,
+"center": [
+0.0,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures_sakhal\\roads\\bridges\\bridge_wood2.p3d",
+"name": "bridge_wood2",
+"w": 10.49,
+"l": 20.32,
+"h": 2.48,
+"center": [
+0.0,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures_sakhal\\roads\\bridges\\bridge_wood2_pillar.p3d",
+"name": "bridge_wood2_pillar",
+"w": 14.64,
+"l": 2.25,
+"h": 12.29,
+"center": [
+0.0,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures_sakhal\\roads\\bridges\\bridge_wood2_snow.p3d",
+"name": "bridge_wood2_snow",
+"w": 10.49,
+"l": 20.32,
+"h": 2.48,
+"center": [
+0.0,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_cbrk_5.p3d",
+"name": "wall_cbrk_5",
+"w": 5.01,
+"l": 0.62,
+"h": 2.54,
+"center": [
+0.001,
+0.769,
+0.001
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_cbrk_5_d.p3d",
+"name": "wall_cbrk_5_d",
+"w": 5.01,
+"l": 3.42,
+"h": 2.55,
+"center": [
+0.001,
+0.764,
+-0.019
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_cbrk_corner.p3d",
+"name": "wall_cbrk_corner",
+"w": 0.88,
+"l": 0.89,
+"h": 2.54,
+"center": [
+0.157,
+0.769,
+0.165
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_cbrk_end.p3d",
+"name": "wall_cbrk_end",
+"w": 3.05,
+"l": 1.44,
+"h": 2.54,
+"center": [
+-0.273,
+0.772,
+-0.013
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_cbrk_pole.p3d",
+"name": "wall_cbrk_pole",
+"w": 0.9,
+"l": 0.9,
+"h": 3.46,
+"center": [
+-0.0,
+0.576,
+-0.0
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_cgry_5.p3d",
+"name": "wall_cgry_5",
+"w": 5.01,
+"l": 0.62,
+"h": 2.66,
+"center": [
+-0.005,
+0.83,
+-0.014
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_cgry_5_d.p3d",
+"name": "wall_cgry_5_d",
+"w": 5.0,
+"l": 3.42,
+"h": 2.51,
+"center": [
+-0.0,
+0.745,
+-0.019
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_cgry_corner.p3d",
+"name": "wall_cgry_corner",
+"w": 0.55,
+"l": 0.55,
+"h": 2.67,
+"center": [
+-0.275,
+0.823,
+-0.039
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_cgry_corner_2.p3d",
+"name": "wall_cgry_corner_2",
+"w": 0.61,
+"l": 0.61,
+"h": 2.65,
+"center": [
+-0.305,
+0.822,
+-0.068
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_cgry_end.p3d",
+"name": "wall_cgry_end",
+"w": 3.04,
+"l": 1.67,
+"h": 2.53,
+"center": [
+-0.264,
+0.764,
+-0.007
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_cgrylow_5.p3d",
+"name": "wall_cgrylow_5",
+"w": 5.0,
+"l": 0.49,
+"h": 1.54,
+"center": [
+0.0,
+0.268,
+0.0
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_cgrylow_end1.p3d",
+"name": "wall_cgrylow_end1",
+"w": 2.92,
+"l": 1.19,
+"h": 1.51,
+"center": [
+0.0,
+0.27,
+0.0
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_cgrylow_end2.p3d",
+"name": "wall_cgrylow_end2",
+"w": 2.98,
+"l": 1.35,
+"h": 1.5,
+"center": [
+0.0,
+0.27,
+0.0
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_cnc_5.p3d",
+"name": "wall_cnc_5",
+"w": 9.03,
+"l": 1.0,
+"h": 5.03,
+"center": [
+0.014,
+-1.499,
+0.001
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_cncsmall_4.p3d",
+"name": "wall_cncsmall_4",
+"w": 4.02,
+"l": 0.54,
+"h": 2.32,
+"center": [
+0.007,
+-0.338,
+0.009
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_cncsmall_8.p3d",
+"name": "wall_cncsmall_8",
+"w": 8.01,
+"l": 0.53,
+"h": 2.3,
+"center": [
+0.009,
+-0.35,
+0.005
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_cyel_5.p3d",
+"name": "wall_cyel_5",
+"w": 5.0,
+"l": 0.55,
+"h": 2.59,
+"center": [
+-0.0,
+0.796,
+-0.003
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_cyel_corner.p3d",
+"name": "wall_cyel_corner",
+"w": 0.72,
+"l": 0.72,
+"h": 2.59,
+"center": [
+0.113,
+0.796,
+0.113
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_cyel_end.p3d",
+"name": "wall_cyel_end",
+"w": 3.57,
+"l": 1.54,
+"h": 2.59,
+"center": [
+-0.535,
+0.796,
+0.002
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_cyel_end2.p3d",
+"name": "wall_cyel_end2",
+"w": 3.57,
+"l": 1.54,
+"h": 2.59,
+"center": [
+-0.535,
+0.796,
+0.002
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_fen1_5.p3d",
+"name": "wall_fen1_5",
+"w": 5.01,
+"l": 0.17,
+"h": 3.09,
+"center": [
+0.007,
+0.647,
+-0.032
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_fen1_5_2.p3d",
+"name": "wall_fen1_5_2",
+"w": 5.05,
+"l": 0.17,
+"h": 3.09,
+"center": [
+-0.025,
+0.647,
+0.025
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_fen1_5_2_nolc.p3d",
+"name": "wall_fen1_5_2_nolc",
+"w": 5.05,
+"l": 0.17,
+"h": 3.09,
+"center": [
+-0.025,
+0.647,
+0.025
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_fen1_5_hole.p3d",
+"name": "wall_fen1_5_hole",
+"w": 5.06,
+"l": 2.23,
+"h": 3.18,
+"center": [
+-0.029,
+0.689,
+0.012
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_fen1_5_hole_nolc.p3d",
+"name": "wall_fen1_5_hole_nolc",
+"w": 5.06,
+"l": 2.23,
+"h": 3.18,
+"center": [
+-0.029,
+0.689,
+0.012
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_fen1_5_nolc.p3d",
+"name": "wall_fen1_5_nolc",
+"w": 5.01,
+"l": 0.17,
+"h": 3.09,
+"center": [
+0.007,
+0.647,
+-0.032
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_fen1_5_pole.p3d",
+"name": "wall_fen1_5_pole",
+"w": 0.07,
+"l": 0.07,
+"h": 3.11,
+"center": [
+-0.027,
+0.645,
+0.0
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_fen2_6.p3d",
+"name": "wall_fen2_6",
+"w": 6.04,
+"l": 0.36,
+"h": 2.34,
+"center": [
+-0.017,
+1.118,
+-0.115
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_fen2_6_hole.p3d",
+"name": "wall_fen2_6_hole",
+"w": 6.04,
+"l": 0.48,
+"h": 2.34,
+"center": [
+-0.017,
+1.118,
+-0.172
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_fen2_pole.p3d",
+"name": "wall_fen2_pole",
+"w": 0.11,
+"l": 0.36,
+"h": 2.34,
+"center": [
+-0.01,
+1.118,
+-0.115
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_feng_3.p3d",
+"name": "wall_feng_3",
+"w": 2.59,
+"l": 0.38,
+"h": 2.75,
+"center": [
+0.027,
+0.678,
+-0.021
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_feng_pole.p3d",
+"name": "wall_feng_pole",
+"w": 0.35,
+"l": 0.33,
+"h": 2.75,
+"center": [
+-0.005,
+0.677,
+0.017
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_fenr_3.p3d",
+"name": "wall_fenr_3",
+"w": 2.59,
+"l": 0.38,
+"h": 2.7,
+"center": [
+0.027,
+0.656,
+-0.018
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_fenr_pole.p3d",
+"name": "wall_fenr_pole",
+"w": 0.37,
+"l": 0.36,
+"h": 2.78,
+"center": [
+0.0,
+0.665,
+0.002
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_fenw_7.p3d",
+"name": "wall_fenw_7",
+"w": 7.05,
+"l": 0.44,
+"h": 2.06,
+"center": [
+0.025,
+0.031,
+-0.01
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_fenw_7_d.p3d",
+"name": "wall_fenw_7_d",
+"w": 7.06,
+"l": 1.48,
+"h": 2.01,
+"center": [
+0.03,
+0.003,
+0.308
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_fenw_7_s.p3d",
+"name": "wall_fenw_7_s",
+"w": 7.01,
+"l": 0.37,
+"h": 2.06,
+"center": [
+0.004,
+0.031,
+0.019
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_forfieldfen_1.p3d",
+"name": "wall_forfieldfen_1",
+"w": 3.41,
+"l": 0.24,
+"h": 1.81,
+"center": [
+0.009,
+0.605,
+-0.041
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_forfieldfen_2.p3d",
+"name": "wall_forfieldfen_2",
+"w": 3.44,
+"l": 0.23,
+"h": 1.81,
+"center": [
+-0.01,
+0.605,
+-0.042
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_forfieldfen_end.p3d",
+"name": "wall_forfieldfen_end",
+"w": 3.41,
+"l": 0.24,
+"h": 1.81,
+"center": [
+0.008,
+0.605,
+-0.035
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_garbcont.p3d",
+"name": "wall_garbcont",
+"w": 0.15,
+"l": 1.01,
+"h": 1.6,
+"center": [
+-0.07,
+0.8,
+-0.505
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_garbcont_corner.p3d",
+"name": "wall_garbcont_corner",
+"w": 1.41,
+"l": 1.4,
+"h": 1.6,
+"center": [
+-0.696,
+0.8,
+-0.7
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_gate_camp.p3d",
+"name": "wall_gate_camp",
+"w": 7.73,
+"l": 0.19,
+"h": 5.25,
+"center": [
+0.0,
+1.531,
+-0.013
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_gate_cgry.p3d",
+"name": "wall_gate_cgry",
+"w": 5.03,
+"l": 4.46,
+"h": 6.0,
+"center": [
+0.517,
+1.719,
+-0.168
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_gate_fen2_l.p3d",
+"name": "wall_gate_fen2_l",
+"w": 3.07,
+"l": 0.36,
+"h": 2.38,
+"center": [
+-1.504,
+1.102,
+-0.115
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_gate_fen2_r.p3d",
+"name": "wall_gate_fen2_r",
+"w": 3.04,
+"l": 0.36,
+"h": 2.38,
+"center": [
+1.541,
+1.102,
+-0.115
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_gate_feng.p3d",
+"name": "wall_gate_feng",
+"w": 3.69,
+"l": 2.94,
+"h": 2.75,
+"center": [
+0.011,
+0.768,
+0.022
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_gate_feng_big.p3d",
+"name": "wall_gate_feng_big",
+"w": 4.95,
+"l": 3.58,
+"h": 2.75,
+"center": [
+-0.001,
+0.768,
+0.006
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_gate_feng_big_l.p3d",
+"name": "wall_gate_feng_big_l",
+"w": 2.37,
+"l": 0.3,
+"h": 2.41,
+"center": [
+-1.186,
+0.849,
+0.017
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_gate_feng_big_open.p3d",
+"name": "wall_gate_feng_big_open",
+"w": 4.75,
+"l": 0.31,
+"h": 2.41,
+"center": [
+0.005,
+0.849,
+0.013
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_gate_feng_big_r.p3d",
+"name": "wall_gate_feng_big_r",
+"w": 0.48,
+"l": 2.38,
+"h": 2.41,
+"center": [
+2.141,
+0.849,
+1.056
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_gate_feng_open.p3d",
+"name": "wall_gate_feng_open",
+"w": 1.35,
+"l": 3.51,
+"h": 2.41,
+"center": [
+0.076,
+0.85,
+0.016
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_gate_fenr.p3d",
+"name": "wall_gate_fenr",
+"w": 3.25,
+"l": 2.94,
+"h": 2.82,
+"center": [
+0.074,
+0.662,
+0.022
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_gate_fenr_big.p3d",
+"name": "wall_gate_fenr_big",
+"w": 4.95,
+"l": 3.58,
+"h": 2.75,
+"center": [
+-0.001,
+0.768,
+0.006
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_gate_fenr_big_l.p3d",
+"name": "wall_gate_fenr_big_l",
+"w": 2.39,
+"l": 0.31,
+"h": 2.41,
+"center": [
+-1.193,
+0.849,
+0.02
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_gate_fenr_big_open.p3d",
+"name": "wall_gate_fenr_big_open",
+"w": 4.77,
+"l": 0.31,
+"h": 2.41,
+"center": [
+-0.003,
+0.849,
+0.013
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_gate_fenr_big_r.p3d",
+"name": "wall_gate_fenr_big_r",
+"w": 0.48,
+"l": 2.38,
+"h": 2.41,
+"center": [
+2.141,
+0.849,
+1.056
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_gate_fenr_open.p3d",
+"name": "wall_gate_fenr_open",
+"w": 1.83,
+"l": 0.33,
+"h": 2.43,
+"center": [
+0.084,
+0.858,
+0.017
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_gate_ind1_l.p3d",
+"name": "wall_gate_ind1_l",
+"w": 8.22,
+"l": 5.51,
+"h": 2.41,
+"center": [
+-0.001,
+0.85,
+-1.263
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_gate_ind1_r.p3d",
+"name": "wall_gate_ind1_r",
+"w": 8.21,
+"l": 2.94,
+"h": 2.41,
+"center": [
+0.023,
+0.85,
+0.022
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_gate_ind2a_l.p3d",
+"name": "wall_gate_ind2a_l",
+"w": 8.27,
+"l": 2.94,
+"h": 2.49,
+"center": [
+0.003,
+0.956,
+0.022
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_gate_ind2a_r.p3d",
+"name": "wall_gate_ind2a_r",
+"w": 8.27,
+"l": 2.94,
+"h": 2.49,
+"center": [
+0.026,
+0.956,
+0.022
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_gate_ind2b_l.p3d",
+"name": "wall_gate_ind2b_l",
+"w": 8.27,
+"l": 2.94,
+"h": 2.49,
+"center": [
+0.003,
+0.956,
+0.022
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_gate_ind2b_r.p3d",
+"name": "wall_gate_ind2b_r",
+"w": 8.27,
+"l": 2.94,
+"h": 2.49,
+"center": [
+0.026,
+0.956,
+0.022
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_gate_ind2rail_l.p3d",
+"name": "wall_gate_ind2rail_l",
+"w": 8.27,
+"l": 2.94,
+"h": 2.49,
+"center": [
+0.003,
+0.956,
+0.022
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_gate_ind2rail_r.p3d",
+"name": "wall_gate_ind2rail_r",
+"w": 8.27,
+"l": 2.94,
+"h": 2.49,
+"center": [
+0.026,
+0.956,
+0.022
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_gate_kolchoz.p3d",
+"name": "wall_gate_kolchoz",
+"w": 9.1,
+"l": 3.42,
+"h": 6.27,
+"center": [
+0.0,
+2.129,
+-0.022
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_gate_opendam.p3d",
+"name": "wall_gate_opendam",
+"w": 11.68,
+"l": 4.08,
+"h": 2.5,
+"center": [
+-0.682,
+0.949,
+-1.66
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_gate_village.p3d",
+"name": "wall_gate_village",
+"w": 3.25,
+"l": 2.94,
+"h": 2.06,
+"center": [
+0.059,
+0.535,
+0.022
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_gate_wood1.p3d",
+"name": "wall_gate_wood1",
+"w": 1.22,
+"l": 0.24,
+"h": 2.36,
+"center": [
+-0.096,
+0.178,
+-0.012
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_gate_wood2.p3d",
+"name": "wall_gate_wood2",
+"w": 3.25,
+"l": 2.94,
+"h": 2.0,
+"center": [
+0.016,
+-0.001,
+0.022
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_gate_wood3.p3d",
+"name": "wall_gate_wood3",
+"w": 3.25,
+"l": 2.94,
+"h": 1.09,
+"center": [
+-0.003,
+0.543,
+0.022
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_gate_wood4.p3d",
+"name": "wall_gate_wood4",
+"w": 3.38,
+"l": 4.7,
+"h": 2.21,
+"center": [
+0.34,
+0.566,
+0.006
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_indcnc2_3.p3d",
+"name": "wall_indcnc2_3",
+"w": 3.0,
+"l": 0.4,
+"h": 4.0,
+"center": [
+0.0,
+1.001,
+0.0
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_indcnc_10.p3d",
+"name": "wall_indcnc_10",
+"w": 9.29,
+"l": 1.16,
+"h": 10.02,
+"center": [
+0.0,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_indcnc_4.p3d",
+"name": "wall_indcnc_4",
+"w": 6.0,
+"l": 0.27,
+"h": 3.5,
+"center": [
+1.0,
+0.75,
+0.006
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_indcnc_4_d.p3d",
+"name": "wall_indcnc_4_d",
+"w": 6.0,
+"l": 1.04,
+"h": 3.5,
+"center": [
+0.999,
+0.748,
+-0.017
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_indcnc_end_2.p3d",
+"name": "wall_indcnc_end_2",
+"w": 2.06,
+"l": 1.29,
+"h": 3.5,
+"center": [
+-0.972,
+0.75,
+-0.052
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_indcnc_end_3.p3d",
+"name": "wall_indcnc_end_3",
+"w": 2.37,
+"l": 1.93,
+"h": 1.47,
+"center": [
+-0.915,
+-0.266,
+-0.012
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_indcnc_pole.p3d",
+"name": "wall_indcnc_pole",
+"w": 0.24,
+"l": 0.26,
+"h": 3.5,
+"center": [
+0.001,
+0.75,
+0.002
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_indcnch_10.p3d",
+"name": "wall_indcnch_10",
+"w": 9.61,
+"l": 10.69,
+"h": 1.11,
+"center": [
+0.0,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_indcnch_5.p3d",
+"name": "wall_indcnch_5",
+"w": 9.5,
+"l": 5.47,
+"h": 1.12,
+"center": [
+-0.133,
+0.087,
+-0.053
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_indfnc_3.p3d",
+"name": "wall_indfnc_3",
+"w": 3.01,
+"l": 0.35,
+"h": 3.37,
+"center": [
+-0.002,
+0.687,
+0.08
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_indfnc_3_d.p3d",
+"name": "wall_indfnc_3_d",
+"w": 3.09,
+"l": 1.05,
+"h": 3.37,
+"center": [
+0.039,
+0.687,
+-0.205
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_indfnc_3_hole.p3d",
+"name": "wall_indfnc_3_hole",
+"w": 3.01,
+"l": 0.7,
+"h": 3.38,
+"center": [
+-0.002,
+0.684,
+0.116
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_indfnc_9.p3d",
+"name": "wall_indfnc_9",
+"w": 10.01,
+"l": 0.39,
+"h": 3.37,
+"center": [
+3.497,
+0.687,
+0.063
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_indfnc_corner.p3d",
+"name": "wall_indfnc_corner",
+"w": 3.16,
+"l": 0.35,
+"h": 3.37,
+"center": [
+-0.081,
+0.687,
+0.081
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_indfnc_pole.p3d",
+"name": "wall_indfnc_pole",
+"w": 0.14,
+"l": 0.32,
+"h": 3.37,
+"center": [
+0.001,
+0.687,
+0.095
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_indvar1_5.p3d",
+"name": "wall_indvar1_5",
+"w": 6.35,
+"l": 0.71,
+"h": 3.8,
+"center": [
+-0.018,
+0.738,
+-0.009
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_indvar1_5_2.p3d",
+"name": "wall_indvar1_5_2",
+"w": 6.35,
+"l": 0.71,
+"h": 3.79,
+"center": [
+-0.018,
+0.744,
+-0.009
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_indvar1_5_d.p3d",
+"name": "wall_indvar1_5_d",
+"w": 6.28,
+"l": 0.69,
+"h": 3.79,
+"center": [
+-0.016,
+0.744,
+-0.0
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_indvar1_5_d_2.p3d",
+"name": "wall_indvar1_5_d_2",
+"w": 6.26,
+"l": 0.5,
+"h": 3.51,
+"center": [
+0.003,
+0.607,
+0.0
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_indvar1_pole.p3d",
+"name": "wall_indvar1_pole",
+"w": 0.69,
+"l": 0.71,
+"h": 3.79,
+"center": [
+0.001,
+0.742,
+-0.013
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_indvar2_5.p3d",
+"name": "wall_indvar2_5",
+"w": 5.05,
+"l": 0.57,
+"h": 3.3,
+"center": [
+-0.027,
+0.647,
+-0.007
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_indvar2_5_d.p3d",
+"name": "wall_indvar2_5_d",
+"w": 5.03,
+"l": 0.55,
+"h": 3.3,
+"center": [
+-0.013,
+0.647,
+0.0
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_indvar2_pole.p3d",
+"name": "wall_indvar2_pole",
+"w": 0.55,
+"l": 0.57,
+"h": 3.3,
+"center": [
+-0.0,
+0.647,
+-0.01
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_railing_1.p3d",
+"name": "wall_railing_1",
+"w": 0.04,
+"l": 2.4,
+"h": 1.22,
+"center": [
+0.0,
+0.409,
+0.0
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_railing_1_endl.p3d",
+"name": "wall_railing_1_endl",
+"w": 0.04,
+"l": 2.27,
+"h": 1.22,
+"center": [
+0.0,
+0.409,
+0.0
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_railing_1_endr.p3d",
+"name": "wall_railing_1_endr",
+"w": 0.04,
+"l": 2.42,
+"h": 1.22,
+"center": [
+-0.0,
+0.409,
+0.0
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_railing_1_slope.p3d",
+"name": "wall_railing_1_slope",
+"w": 0.04,
+"l": 2.4,
+"h": 1.22,
+"center": [
+0.0,
+0.409,
+0.0
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_railing_2.p3d",
+"name": "wall_railing_2",
+"w": 0.04,
+"l": 2.4,
+"h": 1.22,
+"center": [
+0.0,
+0.409,
+0.0
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_railing_2_slope.p3d",
+"name": "wall_railing_2_slope",
+"w": 0.04,
+"l": 2.4,
+"h": 1.22,
+"center": [
+0.0,
+0.409,
+0.0
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_railing_endl.p3d",
+"name": "wall_railing_endl",
+"w": 0.04,
+"l": 2.27,
+"h": 1.22,
+"center": [
+0.0,
+0.409,
+0.0
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_railing_endr.p3d",
+"name": "wall_railing_endr",
+"w": 0.04,
+"l": 2.42,
+"h": 1.22,
+"center": [
+-0.0,
+0.409,
+0.0
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_stone.p3d",
+"name": "wall_stone",
+"w": 10.06,
+"l": 1.95,
+"h": 2.03,
+"center": [
+-0.027,
+0.131,
+0.607
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_stoned.p3d",
+"name": "wall_stoned",
+"w": 11.93,
+"l": 3.74,
+"h": 1.62,
+"center": [
+-1.152,
+0.025,
+0.376
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_tin_4.p3d",
+"name": "wall_tin_4",
+"w": 4.0,
+"l": 0.23,
+"h": 2.9,
+"center": [
+0.0,
+0.55,
+0.025
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_tin_4_2.p3d",
+"name": "wall_tin_4_2",
+"w": 4.0,
+"l": 0.31,
+"h": 2.9,
+"center": [
+0.0,
+0.549,
+-0.104
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_tin_5.p3d",
+"name": "wall_tin_5",
+"w": 5.3,
+"l": 0.3,
+"h": 2.65,
+"center": [
+-0.533,
+1.126,
+0.017
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_tin_pole.p3d",
+"name": "wall_tin_pole",
+"w": 0.05,
+"l": 0.05,
+"h": 2.9,
+"center": [
+-0.0,
+0.55,
+0.0
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_tincom_3.p3d",
+"name": "wall_tincom_3",
+"w": 3.08,
+"l": 0.36,
+"h": 3.0,
+"center": [
+0.006,
+0.5,
+-0.027
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_tincom_9.p3d",
+"name": "wall_tincom_9",
+"w": 9.08,
+"l": 0.41,
+"h": 3.0,
+"center": [
+3.006,
+0.5,
+-0.049
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_tincom_9_2.p3d",
+"name": "wall_tincom_9_2",
+"w": 9.08,
+"l": 0.79,
+"h": 3.0,
+"center": [
+3.006,
+0.501,
+-0.215
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_tincom_pole.p3d",
+"name": "wall_tincom_pole",
+"w": 0.1,
+"l": 0.36,
+"h": 3.0,
+"center": [
+0.002,
+0.5,
+-0.027
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_vilvar1_6.p3d",
+"name": "wall_vilvar1_6",
+"w": 6.0,
+"l": 0.23,
+"h": 2.02,
+"center": [
+0.0,
+0.008,
+0.013
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_vilvar1_pole.p3d",
+"name": "wall_vilvar1_pole",
+"w": 0.2,
+"l": 0.2,
+"h": 2.0,
+"center": [
+0.0,
+0.0,
+-0.0
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_vilvar2_4.p3d",
+"name": "wall_vilvar2_4",
+"w": 4.0,
+"l": 0.2,
+"h": 3.01,
+"center": [
+0.0,
+0.506,
+-0.055
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_vilvar2_4_2.p3d",
+"name": "wall_vilvar2_4_2",
+"w": 4.0,
+"l": 0.18,
+"h": 3.02,
+"center": [
+0.0,
+0.51,
+-0.048
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_vilvar2_4_d.p3d",
+"name": "wall_vilvar2_4_d",
+"w": 4.0,
+"l": 0.17,
+"h": 3.01,
+"center": [
+0.0,
+0.506,
+-0.045
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_vilvar2_4_end.p3d",
+"name": "wall_vilvar2_4_end",
+"w": 4.0,
+"l": 0.17,
+"h": 3.01,
+"center": [
+0.0,
+0.504,
+-0.045
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_vilvar2_pole.p3d",
+"name": "wall_vilvar2_pole",
+"w": 0.26,
+"l": 0.16,
+"h": 3.0,
+"center": [
+0.0,
+0.501,
+-0.035
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_wood1_5.p3d",
+"name": "wall_wood1_5",
+"w": 5.0,
+"l": 0.11,
+"h": 1.96,
+"center": [
+-0.0,
+-0.02,
+0.013
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_wood1_5_2.p3d",
+"name": "wall_wood1_5_2",
+"w": 5.0,
+"l": 0.13,
+"h": 1.96,
+"center": [
+-0.0,
+-0.02,
+0.025
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_wood1_5_pole.p3d",
+"name": "wall_wood1_5_pole",
+"w": 0.16,
+"l": 0.12,
+"h": 1.88,
+"center": [
+0.039,
+-0.059,
+-0.017
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_wood1d_5.p3d",
+"name": "wall_wood1d_5",
+"w": 5.0,
+"l": 0.15,
+"h": 1.96,
+"center": [
+0.0,
+-0.02,
+-0.011
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_wood1d_5_2.p3d",
+"name": "wall_wood1d_5_2",
+"w": 5.0,
+"l": 0.14,
+"h": 1.96,
+"center": [
+0.0,
+-0.019,
+0.026
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_wood1d_5_pole.p3d",
+"name": "wall_wood1d_5_pole",
+"w": 0.03,
+"l": 0.03,
+"h": 1.95,
+"center": [
+0.0,
+-0.027,
+0.04
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_wood2_5.p3d",
+"name": "wall_wood2_5",
+"w": 5.0,
+"l": 0.19,
+"h": 2.02,
+"center": [
+0.0,
+0.009,
+-0.041
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_wood2_5_d.p3d",
+"name": "wall_wood2_5_d",
+"w": 5.0,
+"l": 0.18,
+"h": 2.02,
+"center": [
+0.0,
+0.009,
+-0.037
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_wood2_5_end.p3d",
+"name": "wall_wood2_5_end",
+"w": 5.0,
+"l": 0.18,
+"h": 2.01,
+"center": [
+0.0,
+0.007,
+-0.037
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_wood2_5_end_2.p3d",
+"name": "wall_wood2_5_end_2",
+"w": 5.0,
+"l": 0.18,
+"h": 2.02,
+"center": [
+0.0,
+0.009,
+-0.033
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_wood2_5_nolc.p3d",
+"name": "wall_wood2_5_nolc",
+"w": 5.0,
+"l": 0.19,
+"h": 2.02,
+"center": [
+0.0,
+0.009,
+-0.041
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_wood2_5_pole.p3d",
+"name": "wall_wood2_5_pole",
+"w": 5.0,
+"l": 0.1,
+"h": 1.96,
+"center": [
+0.0,
+-0.021,
+-0.0
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_wood3_4.p3d",
+"name": "wall_wood3_4",
+"w": 3.6,
+"l": 0.29,
+"h": 1.87,
+"center": [
+0.086,
+0.58,
+-0.0
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_wood3_4_end.p3d",
+"name": "wall_wood3_4_end",
+"w": 3.7,
+"l": 0.29,
+"h": 1.87,
+"center": [
+0.006,
+0.58,
+0.0
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_wood4_4.p3d",
+"name": "wall_wood4_4",
+"w": 3.89,
+"l": 0.45,
+"h": 2.21,
+"center": [
+1.466,
+0.566,
+0.105
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_wood4_end1.p3d",
+"name": "wall_wood4_end1",
+"w": 3.46,
+"l": 0.61,
+"h": 2.21,
+"center": [
+1.25,
+0.567,
+0.117
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_wood4_end2.p3d",
+"name": "wall_wood4_end2",
+"w": 3.41,
+"l": 0.55,
+"h": 1.32,
+"center": [
+-1.708,
+0.093,
+0.116
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_wood4_pole.p3d",
+"name": "wall_wood4_pole",
+"w": 0.53,
+"l": 0.45,
+"h": 2.21,
+"center": [
+-0.211,
+0.566,
+0.105
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_woodf_5.p3d",
+"name": "wall_woodf_5",
+"w": 5.22,
+"l": 0.24,
+"h": 2.09,
+"center": [
+-2.511,
+0.057,
+0.019
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_woodf_5_2.p3d",
+"name": "wall_woodf_5_2",
+"w": 5.22,
+"l": 0.38,
+"h": 2.09,
+"center": [
+-2.513,
+0.057,
+0.108
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_woodf_5_end.p3d",
+"name": "wall_woodf_5_end",
+"w": 5.02,
+"l": 0.68,
+"h": 3.06,
+"center": [
+-2.407,
+-0.284,
+0.118
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_woodvil_4.p3d",
+"name": "wall_woodvil_4",
+"w": 4.0,
+"l": 0.18,
+"h": 2.02,
+"center": [
+0.0,
+0.009,
+-0.047
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_woodvil_4_2.p3d",
+"name": "wall_woodvil_4_2",
+"w": 4.0,
+"l": 0.16,
+"h": 2.02,
+"center": [
+0.0,
+0.009,
+-0.036
+]
+},
+{
+"path": "dz\\structures\\walls\\wall_woodvil_4_pole.p3d",
+"name": "wall_woodvil_4_pole",
+"w": 0.19,
+"l": 0.1,
+"h": 1.96,
+"center": [
+0.045,
+-0.021,
+-0.008
+]
+},
+{
+"path": "dz\\structures\\walls\\walls_end.p3d",
+"name": "walls_end",
+"w": 0.24,
+"l": 0.4,
+"h": 2.48,
+"center": [
+0.03,
+0.742,
+0.005
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_backalley_01_l_1m_f.p3d",
+"name": "wall_backalley_01_l_1m_f",
+"w": 1.31,
+"l": 0.24,
+"h": 3.55,
+"center": [
+-0.013,
+1.642,
+-0.051
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_backalley_01_l_gap_f.p3d",
+"name": "wall_backalley_01_l_gap_f",
+"w": 3.3,
+"l": 0.24,
+"h": 3.53,
+"center": [
+0.01,
+1.636,
+-0.051
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_backalley_01_l_gate_f.p3d",
+"name": "wall_backalley_01_l_gate_f",
+"w": 3.31,
+"l": 2.0,
+"h": 3.55,
+"center": [
+0.018,
+1.645,
+0.0
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_backalley_02_l_1m_f.p3d",
+"name": "wall_backalley_02_l_1m_f",
+"w": 1.12,
+"l": 0.15,
+"h": 3.56,
+"center": [
+0.019,
+1.649,
+0.014
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_barricade1_10.p3d",
+"name": "wall_barricade1_10",
+"w": 10.55,
+"l": 3.94,
+"h": 2.43,
+"center": [
+0.0,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_barricade1_4.p3d",
+"name": "wall_barricade1_4",
+"w": 4.02,
+"l": 3.03,
+"h": 1.65,
+"center": [
+0.0,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_canal_10.p3d",
+"name": "wall_canal_10",
+"w": 10.1,
+"l": 4.09,
+"h": 5.48,
+"center": [
+0.0,
+-2.263,
+-0.002
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_cncbarrier_4block.p3d",
+"name": "wall_cncbarrier_4block",
+"w": 7.59,
+"l": 1.83,
+"h": 1.97,
+"center": [
+0.024,
+0.846,
+-0.018
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_cncbarrier_block.p3d",
+"name": "wall_cncbarrier_block",
+"w": 1.84,
+"l": 1.83,
+"h": 1.97,
+"center": [
+0.0,
+0.846,
+-0.018
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_fen3_4.p3d",
+"name": "wall_fen3_4",
+"w": 4.03,
+"l": 0.2,
+"h": 2.56,
+"center": [
+-1.988,
+0.739,
+0.0
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_fen3_8.p3d",
+"name": "wall_fen3_8",
+"w": 8.03,
+"l": 0.2,
+"h": 2.53,
+"center": [
+-3.986,
+0.753,
+0.0
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_fen3_d.p3d",
+"name": "wall_fen3_d",
+"w": 8.04,
+"l": 0.44,
+"h": 2.54,
+"center": [
+-3.983,
+0.751,
+0.118
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_fen3_pole.p3d",
+"name": "wall_fen3_pole",
+"w": 0.06,
+"l": 0.06,
+"h": 2.53,
+"center": [
+-0.0,
+0.75,
+0.0
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_fen4_4.p3d",
+"name": "wall_fen4_4",
+"w": 4.04,
+"l": 0.21,
+"h": 3.4,
+"center": [
+0.007,
+0.049,
+-0.001
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_fen4_4_nolc.p3d",
+"name": "wall_fen4_4_nolc",
+"w": 4.03,
+"l": 0.21,
+"h": 3.4,
+"center": [
+0.001,
+0.049,
+-0.001
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_fen4_8.p3d",
+"name": "wall_fen4_8",
+"w": 8.04,
+"l": 0.23,
+"h": 3.4,
+"center": [
+0.03,
+0.049,
+0.008
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_fen4_d.p3d",
+"name": "wall_fen4_d",
+"w": 4.04,
+"l": 0.22,
+"h": 3.42,
+"center": [
+0.005,
+0.039,
+-0.001
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_fen4_d_nolc.p3d",
+"name": "wall_fen4_d_nolc",
+"w": 4.03,
+"l": 0.22,
+"h": 3.42,
+"center": [
+-0.001,
+0.039,
+-0.001
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_fen4_pole.p3d",
+"name": "wall_fen4_pole",
+"w": 0.31,
+"l": 0.22,
+"h": 3.41,
+"center": [
+-0.0,
+0.035,
+-0.004
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_fen5_10.p3d",
+"name": "wall_fen5_10",
+"w": 10.18,
+"l": 1.28,
+"h": 2.85,
+"center": [
+4.926,
+1.256,
+0.361
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_fen5_10_d.p3d",
+"name": "wall_fen5_10_d",
+"w": 10.34,
+"l": 2.77,
+"h": 2.86,
+"center": [
+4.998,
+1.256,
+0.652
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_fen5_10_d_nolc.p3d",
+"name": "wall_fen5_10_d_nolc",
+"w": 10.34,
+"l": 2.77,
+"h": 2.86,
+"center": [
+4.998,
+1.256,
+0.652
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_fen5_10_nolc.p3d",
+"name": "wall_fen5_10_nolc",
+"w": 10.18,
+"l": 1.28,
+"h": 2.85,
+"center": [
+4.926,
+1.256,
+0.361
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_fen5_5.p3d",
+"name": "wall_fen5_5",
+"w": 5.23,
+"l": 1.28,
+"h": 2.85,
+"center": [
+2.406,
+1.25,
+0.362
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_fen5_pole.p3d",
+"name": "wall_fen5_pole",
+"w": 0.33,
+"l": 0.44,
+"h": 2.55,
+"center": [
+0.0,
+1.085,
+-0.0
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_fen6_8.p3d",
+"name": "wall_fen6_8",
+"w": 8.34,
+"l": 0.5,
+"h": 2.25,
+"center": [
+0.146,
+0.525,
+-0.067
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_fen6_pole.p3d",
+"name": "wall_fen6_pole",
+"w": 0.4,
+"l": 0.34,
+"h": 2.04,
+"center": [
+-0.023,
+0.623,
+-0.03
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_fen7_4.p3d",
+"name": "wall_fen7_4",
+"w": 4.13,
+"l": 1.1,
+"h": 1.5,
+"center": [
+0.006,
+0.27,
+0.451
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_fen7_pole.p3d",
+"name": "wall_fen7_pole",
+"w": 0.14,
+"l": 0.12,
+"h": 1.46,
+"center": [
+0.001,
+0.244,
+-0.001
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_fenforest_5.p3d",
+"name": "wall_fenforest_5",
+"w": 5.03,
+"l": 1.01,
+"h": 2.57,
+"center": [
+-0.017,
+0.558,
+0.32
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_fenforest_5_d.p3d",
+"name": "wall_fenforest_5_d",
+"w": 5.04,
+"l": 0.99,
+"h": 2.58,
+"center": [
+-0.019,
+0.562,
+0.337
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_fenforest_gate.p3d",
+"name": "wall_fenforest_gate",
+"w": 1.51,
+"l": 3.0,
+"h": 2.8,
+"center": [
+0.0,
+0.772,
+0.033
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_fenforest_pole.p3d",
+"name": "wall_fenforest_pole",
+"w": 0.11,
+"l": 0.86,
+"h": 2.52,
+"center": [
+0.004,
+0.559,
+0.37
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_fenstadium.p3d",
+"name": "wall_fenstadium",
+"w": 5.12,
+"l": 0.33,
+"h": 4.81,
+"center": [
+0.013,
+1.209,
+-0.019
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_fenvineyard.p3d",
+"name": "wall_fenvineyard",
+"w": 8.32,
+"l": 0.3,
+"h": 2.06,
+"center": [
+0.003,
+0.605,
+-0.0
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_gate_fen3.p3d",
+"name": "wall_gate_fen3",
+"w": 6.16,
+"l": 6.09,
+"h": 3.15,
+"center": [
+-5.0,
+1.038,
+0.006
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_gate_fen4.p3d",
+"name": "wall_gate_fen4",
+"w": 4.1,
+"l": 4.0,
+"h": 2.62,
+"center": [
+-0.0,
+0.608,
+0.0
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_gate_ind3.p3d",
+"name": "wall_gate_ind3",
+"w": 10.46,
+"l": 0.63,
+"h": 3.64,
+"center": [
+-5.218,
+0.942,
+-0.341
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_gate_indcnc4.p3d",
+"name": "wall_gate_indcnc4",
+"w": 10.61,
+"l": 2.94,
+"h": 3.01,
+"center": [
+-0.298,
+0.895,
+-0.032
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_gate_indcnc4_low.p3d",
+"name": "wall_gate_indcnc4_low",
+"w": 10.58,
+"l": 2.94,
+"h": 2.12,
+"center": [
+-0.283,
+0.447,
+-0.034
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_gate_tin6_1.p3d",
+"name": "wall_gate_tin6_1",
+"w": 3.43,
+"l": 2.94,
+"h": 2.4,
+"center": [
+-0.132,
+0.599,
+0.007
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_gate_tin6_2.p3d",
+"name": "wall_gate_tin6_2",
+"w": 4.1,
+"l": 4.0,
+"h": 2.01,
+"center": [
+0.002,
+0.796,
+0.0
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_indcnc3_1_4.p3d",
+"name": "wall_indcnc3_1_4",
+"w": 6.03,
+"l": 0.32,
+"h": 3.61,
+"center": [
+1.014,
+0.803,
+0.0
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_indcnc3_1_d.p3d",
+"name": "wall_indcnc3_1_d",
+"w": 6.09,
+"l": 1.17,
+"h": 3.66,
+"center": [
+1.016,
+0.777,
+0.422
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_indcnc3_2_4.p3d",
+"name": "wall_indcnc3_2_4",
+"w": 6.03,
+"l": 0.32,
+"h": 3.61,
+"center": [
+1.014,
+0.803,
+0.0
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_indcnc3_2_d.p3d",
+"name": "wall_indcnc3_2_d",
+"w": 6.09,
+"l": 1.17,
+"h": 3.66,
+"center": [
+1.016,
+0.777,
+0.422
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_indcnc3_end.p3d",
+"name": "wall_indcnc3_end",
+"w": 2.58,
+"l": 1.52,
+"h": 3.52,
+"center": [
+-0.761,
+0.709,
+-0.122
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_indcnc3_pole.p3d",
+"name": "wall_indcnc3_pole",
+"w": 0.25,
+"l": 0.25,
+"h": 3.45,
+"center": [
+0.003,
+0.725,
+-0.001
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_indcnc4_4.p3d",
+"name": "wall_indcnc4_4",
+"w": 4.06,
+"l": 0.4,
+"h": 3.0,
+"center": [
+-0.002,
+0.9,
+0.0
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_indcnc4_8.p3d",
+"name": "wall_indcnc4_8",
+"w": 8.04,
+"l": 0.4,
+"h": 3.0,
+"center": [
+0.0,
+0.902,
+0.0
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_indcnc4_8_graffiti.p3d",
+"name": "wall_indcnc4_8_graffiti",
+"w": 8.04,
+"l": 0.4,
+"h": 3.0,
+"center": [
+0.0,
+0.902,
+0.0
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_indcnc4_d.p3d",
+"name": "wall_indcnc4_d",
+"w": 3.28,
+"l": 0.42,
+"h": 3.01,
+"center": [
+0.002,
+0.896,
+-0.0
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_indcnc4_low_4.p3d",
+"name": "wall_indcnc4_low_4",
+"w": 4.05,
+"l": 0.4,
+"h": 2.1,
+"center": [
+0.0,
+0.45,
+0.0
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_indcnc4_low_8.p3d",
+"name": "wall_indcnc4_low_8",
+"w": 8.04,
+"l": 0.4,
+"h": 2.1,
+"center": [
+0.0,
+0.45,
+0.0
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_indcnc4_low_d.p3d",
+"name": "wall_indcnc4_low_d",
+"w": 3.24,
+"l": 0.42,
+"h": 2.1,
+"center": [
+-0.005,
+0.45,
+-0.0
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_indcnc4_low_pole.p3d",
+"name": "wall_indcnc4_low_pole",
+"w": 0.51,
+"l": 0.51,
+"h": 2.27,
+"center": [
+0.0,
+0.535,
+0.0
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_indcnc4_pole.p3d",
+"name": "wall_indcnc4_pole",
+"w": 0.53,
+"l": 0.53,
+"h": 3.16,
+"center": [
+0.0,
+0.98,
+0.0
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_indfnc2_3.p3d",
+"name": "wall_indfnc2_3",
+"w": 3.04,
+"l": 0.52,
+"h": 3.38,
+"center": [
+-0.011,
+0.692,
+0.002
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_indfnc2_3_d.p3d",
+"name": "wall_indfnc2_3_d",
+"w": 3.11,
+"l": 0.94,
+"h": 3.38,
+"center": [
+0.025,
+0.692,
+-0.226
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_indfnc2_3_d_nolc.p3d",
+"name": "wall_indfnc2_3_d_nolc",
+"w": 3.11,
+"l": 0.94,
+"h": 3.38,
+"center": [
+0.025,
+0.692,
+-0.226
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_indfnc2_3_hole.p3d",
+"name": "wall_indfnc2_3_hole",
+"w": 3.04,
+"l": 0.58,
+"h": 3.39,
+"center": [
+-0.01,
+0.69,
+0.032
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_indfnc2_3_nolc.p3d",
+"name": "wall_indfnc2_3_nolc",
+"w": 3.04,
+"l": 0.52,
+"h": 3.38,
+"center": [
+-0.011,
+0.692,
+0.002
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_indfnc2_9.p3d",
+"name": "wall_indfnc2_9",
+"w": 9.04,
+"l": 0.41,
+"h": 3.38,
+"center": [
+2.989,
+0.692,
+0.053
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_indfnc2_9_nolc.p3d",
+"name": "wall_indfnc2_9_nolc",
+"w": 9.04,
+"l": 0.41,
+"h": 3.38,
+"center": [
+2.989,
+0.692,
+0.053
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_indfnc2_corner.p3d",
+"name": "wall_indfnc2_corner",
+"w": 3.17,
+"l": 0.52,
+"h": 3.38,
+"center": [
+-0.077,
+0.692,
+0.002
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_indfnc2_pole.p3d",
+"name": "wall_indfnc2_pole",
+"w": 0.16,
+"l": 0.32,
+"h": 3.38,
+"center": [
+-0.016,
+0.692,
+0.094
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_indfnc2_pole_nolc.p3d",
+"name": "wall_indfnc2_pole_nolc",
+"w": 0.16,
+"l": 0.32,
+"h": 3.38,
+"center": [
+-0.016,
+0.692,
+0.094
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_indvar3_5.p3d",
+"name": "wall_indvar3_5",
+"w": 5.05,
+"l": 0.57,
+"h": 3.3,
+"center": [
+-0.027,
+0.647,
+-0.007
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_indvar3_5_d.p3d",
+"name": "wall_indvar3_5_d",
+"w": 3.77,
+"l": 0.55,
+"h": 3.3,
+"center": [
+-0.641,
+0.647,
+0.0
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_indvar3_pole.p3d",
+"name": "wall_indvar3_pole",
+"w": 0.55,
+"l": 0.57,
+"h": 3.3,
+"center": [
+-0.0,
+0.647,
+-0.01
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_milcnc_4.p3d",
+"name": "wall_milcnc_4",
+"w": 4.05,
+"l": 1.1,
+"h": 4.74,
+"center": [
+-0.011,
+1.7,
+0.479
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_milcnc_corner.p3d",
+"name": "wall_milcnc_corner",
+"w": 1.54,
+"l": 1.53,
+"h": 4.73,
+"center": [
+0.755,
+1.7,
+0.758
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_milcncbarrier.p3d",
+"name": "wall_milcncbarrier",
+"w": 4.01,
+"l": 0.49,
+"h": 0.8,
+"center": [
+0.004,
+0.402,
+0.0
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_pipefence_4.p3d",
+"name": "wall_pipefence_4",
+"w": 4.12,
+"l": 0.13,
+"h": 1.41,
+"center": [
+0.007,
+0.305,
+-0.002
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_pipefence_4_nolc.p3d",
+"name": "wall_pipefence_4_nolc",
+"w": 4.16,
+"l": 0.18,
+"h": 1.7,
+"center": [
+-0.0,
+0.523,
+-0.002
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_pipefence_8.p3d",
+"name": "wall_pipefence_8",
+"w": 8.12,
+"l": 0.14,
+"h": 1.41,
+"center": [
+0.006,
+0.298,
+-0.006
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_pipefencewall_8.p3d",
+"name": "wall_pipefencewall_8",
+"w": 8.03,
+"l": 0.72,
+"h": 4.49,
+"center": [
+0.0,
+0.744,
+0.0
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_polewall_5_1.p3d",
+"name": "wall_polewall_5_1",
+"w": 5.22,
+"l": 0.24,
+"h": 2.09,
+"center": [
+-2.511,
+0.057,
+0.019
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_polewall_5_2.p3d",
+"name": "wall_polewall_5_2",
+"w": 5.22,
+"l": 0.38,
+"h": 2.09,
+"center": [
+-2.513,
+0.057,
+0.108
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_polewall_end.p3d",
+"name": "wall_polewall_end",
+"w": 5.02,
+"l": 0.68,
+"h": 3.06,
+"center": [
+-2.407,
+-0.284,
+0.118
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_railing_1_pole.p3d",
+"name": "wall_railing_1_pole",
+"w": 0.04,
+"l": 0.04,
+"h": 2.25,
+"center": [
+0.0,
+0.395,
+0.0
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_silagewall_5.p3d",
+"name": "wall_silagewall_5",
+"w": 5.11,
+"l": 2.34,
+"h": 4.1,
+"center": [
+2.554,
+1.03,
+1.062
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_silagewall_5_d.p3d",
+"name": "wall_silagewall_5_d",
+"w": 5.11,
+"l": 2.35,
+"h": 4.1,
+"center": [
+2.554,
+1.029,
+1.061
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_silagewall_pole.p3d",
+"name": "wall_silagewall_pole",
+"w": 0.18,
+"l": 2.32,
+"h": 4.1,
+"center": [
+0.001,
+1.03,
+1.076
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_stone2.p3d",
+"name": "wall_stone2",
+"w": 9.41,
+"l": 1.45,
+"h": 1.57,
+"center": [
+0.042,
+0.146,
+0.017
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_stone2d.p3d",
+"name": "wall_stone2d",
+"w": 11.14,
+"l": 2.86,
+"h": 1.42,
+"center": [
+0.013,
+-0.191,
+0.197
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_tin6_1_4.p3d",
+"name": "wall_tin6_1_4",
+"w": 4.11,
+"l": 0.22,
+"h": 2.3,
+"center": [
+-0.01,
+0.666,
+-0.001
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_tin6_1_pole.p3d",
+"name": "wall_tin6_1_pole",
+"w": 0.1,
+"l": 0.1,
+"h": 2.01,
+"center": [
+0.0,
+0.796,
+0.0
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_tin6_2_4.p3d",
+"name": "wall_tin6_2_4",
+"w": 4.1,
+"l": 0.2,
+"h": 2.06,
+"center": [
+-0.01,
+0.786,
+0.01
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_tin7_4.p3d",
+"name": "wall_tin7_4",
+"w": 4.13,
+"l": 0.18,
+"h": 3.63,
+"center": [
+0.0,
+1.24,
+0.025
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_tin7_8.p3d",
+"name": "wall_tin7_8",
+"w": 8.07,
+"l": 0.18,
+"h": 3.63,
+"center": [
+-0.002,
+1.24,
+0.025
+]
+},
+{
+"path": "dz\\structures_bliss\\walls\\wall_tin7_pole.p3d",
+"name": "wall_tin7_pole",
+"w": 0.11,
+"l": 0.11,
+"h": 3.28,
+"center": [
+0.0,
+1.13,
+0.0
+]
+},
+{
+"path": "dz\\structures_bliss\\residential\\bus\\busstop_village2.p3d",
+"name": "busstop_village2",
+"w": 6.08,
+"l": 2.8,
+"h": 3.16,
+"center": [
+0.05,
+1.011,
+-1.27
+]
+},
+{
+"path": "dz\\structures_bliss\\residential\\bus\\busstop_village2_sign.p3d",
+"name": "busstop_village2_sign",
+"w": 0.58,
+"l": 0.4,
+"h": 3.07,
+"center": [
+-0.267,
+1.179,
+0.002
+]
+},
+{
+"path": "dz\\structures_bliss\\residential\\houses\\house_1w13_dam.p3d",
+"name": "house_1w13_dam",
+"w": 9.9,
+"l": 16.08,
+"h": 8.13,
+"center": [
+-0.897,
+2.112,
+0.732
+]
+},
+{
+"path": "dz\\structures_bliss\\residential\\houses\\proxy\\house_1w13_dam_proxy_overgrowth.p3d",
+"name": "house_1w13_dam_proxy_overgrowth",
+"w": 11.12,
+"l": 8.19,
+"h": 7.65,
+"center": [
+0.0,
+0.0,
+0.0
+]
+},
+{
+"path": "dz\\structures_bliss\\residential\\medical\\village_healthcare_enoch.p3d",
+"name": "village_healthcare_enoch",
+"w": 24.45,
+"l": 20.07,
+"h": 11.03,
+"center": [
+-0.115,
+3.647,
+-1.529
+]
+},
+{
+"path": "dz\\structures_bliss\\residential\\misc\\garbage_bin2.p3d",
+"name": "garbage_bin2",
+"w": 0.49,
+"l": 0.47,
+"h": 1.43,
+"center": [
+0.005,
+0.514,
+0.051
+]
+},
+{
+"path": "dz\\structures_bliss\\residential\\misc\\garbage_container2_closed.p3d",
+"name": "garbage_container2_closed",
+"w": 1.81,
+"l": 1.26,
+"h": 1.56,
+"center": [
+0.0,
+0.777,
+-0.01
+]
+},
+{
+"path": "dz\\structures_bliss\\residential\\misc\\garbage_container2_open.p3d",
+"name": "garbage_container2_open",
+"w": 1.81,
+"l": 1.29,
+"h": 1.47,
+"center": [
+0.0,
+0.733,
+-0.023
+]
+},
+{
+"path": "dz\\structures_bliss\\residential\\misc\\garbage_pile7.p3d",
+"name": "garbage_pile7",
+"w": 4.87,
+"l": 2.15,
+"h": 1.2,
+"center": [
+-0.373,
+0.527,
+-0.116
+]
+},
+{
+"path": "dz\\structures_bliss\\residential\\misc\\garbage_pile7_nolc.p3d",
+"name": "garbage_pile7_nolc",
+"w": 4.87,
+"l": 2.15,
+"h": 1.2,
+"center": [
+-0.373,
+0.527,
+-0.116
+]
+},
+{
+"path": "dz\\structures_bliss\\residential\\misc\\garbage_pile8.p3d",
+"name": "garbage_pile8",
+"w": 3.05,
+"l": 1.54,
+"h": 1.07,
+"center": [
+-0.148,
+0.512,
+-0.047
+]
+},
+{
+"path": "dz\\structures_bliss\\residential\\misc\\garbage_pile8_nolc.p3d",
+"name": "garbage_pile8_nolc",
+"w": 3.05,
+"l": 1.54,
+"h": 1.07,
+"center": [
+-0.148,
+0.512,
+-0.047
+]
+},
+{
+"path": "dz\\structures_bliss\\residential\\misc\\lamp_decorative.p3d",
+"name": "lamp_decorative",
+"w": 1.2,
+"l": 1.33,
+"h": 4.85,
+"center": [
+0.131,
+2.167,
+-0.003
+]
+},
+{
+"path": "dz\\structures_bliss\\residential\\misc\\lamp_halogen.p3d",
+"name": "lamp_halogen",
+"w": 1.02,
+"l": 1.57,
+"h": 13.72,
+"center": [
+0.0,
+5.982,
+0.019
+]
+},
+{
+"path": "dz\\structures_bliss\\residential\\misc\\lamp_harbour.p3d",
+"name": "lamp_harbour",
+"w": 0.47,
+"l": 0.8,
+"h": 6.65,
+"center": [
+-0.0,
+2.898,
+0.172
+]
+},
+{
+"path": "dz\\structures_bliss\\residential\\misc\\lamp_stadium.p3d",
+"name": "lamp_stadium",
+"w": 1.64,
+"l": 2.67,
+"h": 31.23,
+"center": [
+-0.119,
+14.487,
+-0.041
+]
+},
+{
+"path": "dz\\structures_bliss\\residential\\misc\\misc_bench6.p3d",
+"name": "misc_bench6",
+"w": 1.99,
+"l": 0.66,
+"h": 1.12,
+"center": [
+0.002,
+0.511,
+0.077
+]
+},
+{
+"path": "dz\\structures_bliss\\residential\\misc\\misc_bench7.p3d",
+"name": "misc_bench7",
+"w": 1.99,
+"l": 0.66,
+"h": 1.12,
+"center": [
+0.002,
+0.511,
+0.077
+]
+},
+{
+"path": "dz\\structures_bliss\\residential\\misc\\misc_bench8.p3d",
+"name": "misc_bench8",
+"w": 1.94,
+"l": 0.74,
+"h": 1.31,
+"center": [
+0.007,
+0.428,
+0.081
+]
+},
+{
+"path": "dz\\structures_bliss\\residential\\misc\\misc_bench9.p3d",
+"name": "misc_bench9",
+"w": 2.23,
+"l": 0.4,
+"h": 0.68,
+"center": [
+0.005,
+0.191,
+-0.0
+]
+},
+{
+"path": "dz\\structures_bliss\\residential\\misc\\misc_gasmetercabinet.p3d",
+"name": "misc_gasmetercabinet",
+"w": 1.48,
+"l": 0.65,
+"h": 1.72,
+"center": [
+0.016,
+0.658,
+0.006
+]
+},
+{
+"path": "dz\\structures_bliss\\residential\\misc\\misc_mysteriousbell.p3d",
+"name": "misc_mysteriousbell",
+"w": 0.3,
+"l": 0.4,
+"h": 1.85,
+"center": [
+-0.056,
+0.694,
+-0.081
+]
+},
+{
+"path": "dz\\structures_bliss\\residential\\misc\\misc_sewercover.p3d",
+"name": "misc_sewercover",
+"w": 0.83,
+"l": 0.83,
+"h": 0.24,
+"center": [
+0.0,
+0.022,
+0.0
+]
+},
+{
+"path": "dz\\structures_bliss\\residential\\misc\\misc_table_large.p3d",
+"name": "misc_table_large",
+"w": 1.17,
+"l": 2.21,
+"h": 0.86,
+"center": [
+0.005,
+0.427,
+0.001
+]
+},
+{
+"path": "dz\\structures_bliss\\residential\\misc\\misc_table_large_spawn.p3d",
+"name": "misc_table_large_spawn",
+"w": 1.17,
+"l": 2.21,
+"h": 0.86,
+"center": [
+0.005,
+0.427,
+0.001
+]
+},
+{
+"path": "dz\\structures_bliss\\residential\\misc\\misc_table_market.p3d",
+"name": "misc_table_market",
+"w": 2.43,
+"l": 0.82,
+"h": 0.97,
+"center": [
+0.007,
+0.476,
+-0.102
+]
+},
+{
+"path": "dz\\structures_bliss\\residential\\misc\\misc_table_market_spawn.p3d",
+"name": "misc_table_market_spawn",
+"w": 2.43,
+"l": 0.82,
+"h": 0.97,
+"center": [
+0.007,
+0.476,
+-0.102
+]
+},
+{
+"path": "dz\\structures_bliss\\residential\\misc\\misc_woodencrate.p3d",
+"name": "misc_woodencrate",
+"w": 0.81,
+"l": 1.43,
+"h": 0.7,
+"center": [
+0.0,
+0.298,
+-0.001
+]
+},
+{
+"path": "dz\\structures_bliss\\residential\\misc\\misc_woodencrate_3x.p3d",
+"name": "misc_woodencrate_3x",
+"w": 1.77,
+"l": 1.63,
+"h": 1.42,
+"center": [
+0.054,
+0.708,
+-0.006
+]
+},
+{
+"path": "dz\\structures_bliss\\residential\\misc\\misc_woodencrate_5x.p3d",
+"name": "misc_woodencrate_5x",
+"w": 1.68,
+"l": 1.59,
+"h": 1.94,
+"center": [
+0.001,
+0.962,
+0.03
+]
+},
+{
+"path": "dz\\structures_bliss\\residential\\police\\city_policestation_enoch.p3d",
+"name": "city_policestation_enoch",
+"w": 21.28,
+"l": 14.84,
+"h": 15.38,
+"center": [
+-0.299,
+6.69,
+-1.557
+]
+},
+{
+"path": "dz\\structures_bliss\\residential\\police\\village_policestation_enoch.p3d",
+"name": "village_policestation_enoch",
+"w": 23.78,
+"l": 16.19,
+"h": 17.62,
+"center": [
+2.981,
+7.03,
+-1.49
+]
+},
+{
+"path": "dz\\structures_bliss\\residential\\slums\\slum_house1.p3d",
+"name": "slum_house1",
+"w": 7.28,
+"l": 6.77,
+"h": 4.45,
+"center": [
+0.021,
+1.084,
+0.629
+]
+},
+{
+"path": "dz\\structures_bliss\\residential\\slums\\slum_house2.p3d",
+"name": "slum_house2",
+"w": 5.86,
+"l": 7.96,
+"h": 4.02,
+"center": [
+-0.042,
+1.158,
+-0.78
+]
+},
+{
+"path": "dz\\structures_bliss\\residential\\slums\\slum_house3.p3d",
+"name": "slum_house3",
+"w": 7.97,
+"l": 9.05,
+"h": 5.64,
+"center": [
+-0.998,
+1.487,
+-0.958
+]
+},
+{
+"path": "dz\\structures_bliss\\residential\\slums\\slum_house4.p3d",
+"name": "slum_house4",
+"w": 9.51,
+"l": 7.23,
+"h": 5.21,
+"center": [
+-0.863,
+1.232,
+-1.059
+]
+},
+{
+"path": "dz\\structures_bliss\\residential\\slums\\slum_house5.p3d",
+"name": "slum_house5",
+"w": 8.26,
+"l": 6.36,
+"h": 4.07,
+"center": [
+0.356,
+0.952,
+-1.795
+]
+},
+{
+"path": "dz\\structures_bliss\\residential\\slums\\slum_house6.p3d",
+"name": "slum_house6",
+"w": 5.13,
+"l": 6.17,
+"h": 4.43,
+"center": [
+0.119,
+1.069,
+-0.71
+]
+},
+{
+"path": "dz\\structures_bliss\\residential\\slums\\slum_house7.p3d",
+"name": "slum_house7",
+"w": 6.92,
+"l": 4.52,
+"h": 3.8,
+"center": [
+-0.32,
+0.86,
+-0.177
+]
+},
+{
+"path": "dz\\structures_bliss\\residential\\slums\\slum_roof1.p3d",
+"name": "slum_roof1",
+"w": 4.17,
+"l": 2.94,
+"h": 4.42,
+"center": [
+0.025,
+0.616,
+-0.012
+]
+},
+{
+"path": "dz\\structures_bliss\\residential\\slums\\slum_roof2.p3d",
+"name": "slum_roof2",
+"w": 4.23,
+"l": 2.94,
+"h": 4.35,
+"center": [
+0.099,
+0.441,
+-0.013
+]
+},
+{
+"path": "dz\\structures_bliss\\residential\\slums\\slum_roof3.p3d",
+"name": "slum_roof3",
+"w": 6.24,
+"l": 4.44,
+"h": 4.37,
+"center": [
+-0.095,
+0.674,
+-0.104
+]
+},
+{
+"path": "dz\\structures_bliss\\residential\\slums\\slum_roof4.p3d",
+"name": "slum_roof4",
+"w": 6.14,
+"l": 4.48,
+"h": 4.26,
+"center": [
+-0.145,
+0.544,
+-0.176
+]
+},
+{
+"path": "dz\\structures_bliss\\residential\\slums\\slum_roof5.p3d",
+"name": "slum_roof5",
+"w": 7.62,
+"l": 10.57,
+"h": 4.9,
+"center": [
+-0.015,
+1.416,
+-0.018
+]
+},
+{
+"path": "dz\\structures_bliss\\residential\\slums\\slum_roof6.p3d",
+"name": "slum_roof6",
+"w": 7.0,
+"l": 8.07,
+"h": 6.07,
+"center": [
+0.375,
+0.875,
+1.237
+]
+},
+{
+"path": "dz\\structures_bliss\\residential\\stores\\village_store_enoch.p3d",
+"name": "village_store_enoch",
+"w": 11.32,
+"l": 14.7,
+"h": 7.46,
+"center": [
+-0.826,
+2.986,
+0.344
+]
+},
+{
+"path": "dz\\structures_bliss\\industrial\\sheds\\shed_closed2.p3d",
+"name": "shed_closed2",
+"w": 33.23,
+"l": 19.67,
+"h": 9.0,
+"center": [
+-1.926,
+1.54,
+-1.473
+]
+},
+{
+"path": "dz\\structures_bliss\\industrial\\sheds\\shed_closed_small1.p3d",
+"name": "shed_closed_small1",
+"w": 10.48,
+"l": 9.03,
+"h": 5.56,
+"center": [
+-0.005,
+1.344,
+1.49
+]
+},
+{
+"path": "dz\\structures_bliss\\industrial\\sheds\\shed_closed_small2.p3d",
+"name": "shed_closed_small2",
+"w": 10.5,
+"l": 5.92,
+"h": 5.56,
+"center": [
+-0.013,
+1.344,
+-0.064
+]
+},
+{
+"path": "dz\\structures_bliss\\industrial\\sheds\\shed_open_big2_complete.p3d",
+"name": "shed_open_big2_complete",
+"w": 21.67,
+"l": 36.71,
+"h": 18.82,
+"center": [
+-0.053,
+7.232,
+0.133
+]
+},
+{
+"path": "dz\\structures_bliss\\industrial\\sheds\\shed_open_big_complete.p3d",
+"name": "shed_open_big_complete",
+"w": 16.21,
+"l": 24.35,
+"h": 9.54,
+"center": [
+0.0,
+3.378,
+10.054
+]
+},
+{
+"path": "dz\\structures_bliss\\industrial\\sheds\\shed_open_small_complete.p3d",
+"name": "shed_open_small_complete",
+"w": 8.2,
+"l": 24.36,
+"h": 7.06,
+"center": [
+4.006,
+2.131,
+10.059
+]
+},
+{
+"path": "dz\\structures_bliss\\industrial\\farms\\farm_hopper2.p3d",
+"name": "farm_hopper2",
+"w": 2.94,
+"l": 4.19,
+"h": 11.31,
+"center": [
+0.014,
+4.534,
+0.169
+]
+},
+{
+"path": "dz\\structures_bliss\\industrial\\farms\\farm_manurepile.p3d",
+"name": "farm_manurepile",
+"w": 5.5,
+"l": 9.08,
+"h": 2.34,
+"center": [
+0.058,
+0.382,
+0.328
+]
+},
+{
+"path": "dz\\structures_bliss\\industrial\\farms\\farm_silagestorage.p3d",
+"name": "farm_silagestorage",
+"w": 10.18,
+"l": 20.84,
+"h": 3.42,
+"center": [
+0.154,
+0.715,
+-1.099
+]
+},
+{
+"path": "dz\\structures_bliss\\industrial\\garages\\garage_medium.p3d",
+"name": "garage_medium",
+"w": 11.45,
+"l": 21.6,
+"h": 7.05,
+"center": [
+0.024,
+1.732,
+-0.03
+]
+},
+{
+"path": "dz\\structures_bliss\\industrial\\garages\\garage_tall.p3d",
+"name": "garage_tall",
+"w": 11.61,
+"l": 7.65,
+"h": 11.96,
+"center": [
+-0.099,
+3.598,
+-0.049
+]
+}
+]

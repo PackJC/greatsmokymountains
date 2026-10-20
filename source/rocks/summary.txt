@@ -1,0 +1,40 @@
+Rocks placed from the terrain's slopes, plus mapped cliffs and rocky ridges/peaks
+(c) OpenStreetMap contributors, ODbL.
+
+cliff faces    5951
+outcrops      16759
+boulders      24754
+named spots     171  (at mapped cliffs, rocky ridges and peaks, included above)
+total         47464
+
+  rock_apart1        2452
+  rock_apart2        2411
+  rock_monolith1      680
+  rock_monolith2      661
+  rock_monolith3     2365
+  rock_monolith4     2309
+  rock_spike1        2368
+  rock_spike2        2401
+  rock_spike3        2453
+  rock_wallh1         530
+  rock_wallh2         548
+  rock_wallh3         650
+  rock_wallh4         737
+  rock_wallh5         735
+  rock_wallh6         707
+  rock_wallv          703
+  stone1             1615
+  stone10            1660
+  stone10_moss       1718
+  stone2             1570
+  stone3             1696
+  stone4             1557
+  stone5             1697
+  stone6             1662
+  stone6_moss        1657
+  stone7             1612
+  stone7_moss        1722
+  stone8             1669
+  stone8_moss        1643
+  stone9             1626
+  stone9_moss        1650

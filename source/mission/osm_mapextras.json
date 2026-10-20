@@ -1,0 +1,405 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-15T23:27:20Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 153875748,
+  "lat": 35.3737293,
+  "lon": -83.2259222,
+  "tags": {
+    "capital": "6",
+    "ele": "624",
+    "gnis:feature_id": "995798",
+    "name": "Sylva",
+    "name:chr": "ᏏᎳᏉ",
+    "place": "town",
+    "population": "2578",
+    "population:date": "2020",
+    "source:population": "US Census",
+    "wikidata": "Q2043861",
+    "wikipedia": "en:Sylva, North Carolina"
+  }
+},
+{
+  "type": "node",
+  "id": 153895139,
+  "lat": 35.7884241,
+  "lon": -83.5543329,
+  "tags": {
+    "ele": "305",
+    "gnis:feature_id": "1297439",
+    "name": "Pigeon Forge",
+    "place": "town",
+    "population": "6343",
+    "wikidata": "Q2078145",
+    "wikipedia": "en:Pigeon Forge, Tennessee"
+  }
+},
+{
+  "type": "node",
+  "id": 153921135,
+  "lat": 35.7142590,
+  "lon": -83.5101638,
+  "tags": {
+    "ele": "394",
+    "gnis:feature_id": "1647737",
+    "name": "Gatlinburg",
+    "place": "town",
+    "population": "3577",
+    "population:date": "2020",
+    "source:population": "US Census",
+    "wikidata": "Q1008520",
+    "wikipedia": "en:Gatlinburg, Tennessee"
+  }
+},
+{
+  "type": "node",
+  "id": 153963345,
+  "lat": 35.4766377,
+  "lon": -83.3189781,
+  "tags": {
+    "alt_name:chr": "ᎡᎳᏬᏗ",
+    "ele": "606",
+    "gnis:feature_id": "1019613",
+    "name": "Cherokee;ᏣᎳᎩ",
+    "name:chr": "ᏣᎳᎩ",
+    "name:en": "Cherokee",
+    "place": "town",
+    "population": "2138",
+    "wikidata": "Q471385",
+    "wikipedia": "en:Cherokee, North Carolina"
+  }
+},
+{
+  "type": "node",
+  "id": 154010361,
+  "lat": 35.7847143,
+  "lon": -83.9865990,
+  "tags": {
+    "ele": "257",
+    "gnis:feature_id": "1304784",
+    "name": "Alcoa",
+    "name:en": "Alcoa",
+    "old_name": "North Maryville",
+    "place": "town",
+    "population": "9316",
+    "population:date": "2010",
+    "wikidata": "Q2327969",
+    "wikipedia": "en:Alcoa, Tennessee"
+  }
+},
+{
+  "type": "node",
+  "id": 154076634,
+  "lat": 35.7564719,
+  "lon": -83.9704593,
+  "tags": {
+    "admin_level": "8",
+    "capital": "6",
+    "ele": "285",
+    "gnis:feature_id": "1292868",
+    "name": "Maryville",
+    "name:chr": "ᎤᎾᏆᎸ",
+    "place": "city",
+    "population": "31907",
+    "population:date": "2020",
+    "source:population": "US Census",
+    "website": "https://www.maryvillegov.com/",
+    "wikidata": "Q1094500"
+  }
+},
+{
+  "type": "node",
+  "id": 154106534,
+  "lat": 35.4309291,
+  "lon": -83.4473810,
+  "tags": {
+    "capital": "6",
+    "ele": "534",
+    "gnis:feature_id": "1019348",
+    "name": "Bryson City",
+    "name:chr": "ᏣᎵᏍᏙᏂ",
+    "place": "town",
+    "population": "1388",
+    "population:date": "2006",
+    "source:population": "US Census",
+    "wikidata": "Q2028904",
+    "wikipedia": "en:Bryson City, North Carolina"
+  }
+},
+{
+  "type": "node",
+  "id": 154166914,
+  "lat": 35.8672932,
+  "lon": -83.5657167,
+  "tags": {
+    "admin_level": "8",
+    "capital": "6",
+    "ele": "275",
+    "gnis:feature_id": "1307042",
+    "name": "Sevierville",
+    "name:chr": "ᏏᏈᏲ",
+    "place": "city",
+    "population": "19010",
+    "population:date": "2025",
+    "source:population": "US Census",
+    "website": "https://www.seviervilletn.org/",
+    "wikidata": "Q2168431",
+    "wikipedia": "en:Sevierville, Tennessee"
+  }
+},
+{
+  "type": "node",
+  "id": 154210472,
+  "lat": 35.4887476,
+  "lon": -82.9888725,
+  "tags": {
+    "capital": "6",
+    "ele": "834",
+    "gnis:feature_id": "1023138",
+    "name": "Waynesville",
+    "name:chr": "ᏐᎩ",
+    "place": "town",
+    "population": "9432",
+    "population:date": "2006",
+    "source:population": "US Census",
+    "wikidata": "Q2022289",
+    "wikipedia": "en:Waynesville, North Carolina"
+  }
+},
+{
+  "type": "node",
+  "id": 5371472401,
+  "lat": 35.3700615,
+  "lon": -83.2506638,
+  "tags": {
+    "ele": "603",
+    "gnis:feature_id": "1019975",
+    "name": "Dillsboro",
+    "place": "town",
+    "population": "205",
+    "population:date": "2006",
+    "source:population": "US Census",
+    "wikidata": "Q2025785",
+    "wikipedia": "en:Dillsboro, North Carolina"
+  }
+},
+{
+  "type": "way",
+  "id": 19606014,
+  "bounds": {
+    "minlat": 35.7033411,
+    "minlon": -83.5572100,
+    "maxlat": 35.7091190,
+    "maxlon": -83.5216784
+  },
+  "geometry": [
+    { "lat": 35.7091190, "lon": -83.5216784 },
+    { "lat": 35.7090614, "lon": -83.5220190 },
+    { "lat": 35.7078471, "lon": -83.5293961 },
+    { "lat": 35.7069605, "lon": -83.5348023 },
+    { "lat": 35.7054454, "lon": -83.5443122 },
+    { "lat": 35.7041911, "lon": -83.5519178 },
+    { "lat": 35.7036797, "lon": -83.5551195 },
+    { "lat": 35.7033411, "lon": -83.5572100 }
+  ],
+  "tags": {
+    "aerialway": "cable_car",
+    "aerialway:occupancy": "120",
+    "name": "Ober Mountain Aerial Tramway",
+    "tiger:cfcc": "C31",
+    "tiger:county": "Sevier, TN",
+    "tiger:reviewed": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 263695671,
+  "bounds": {
+    "minlat": 35.7119934,
+    "minlon": -83.5199014,
+    "maxlat": 35.7153274,
+    "maxlon": -83.5184453
+  },
+  "geometry": [
+    { "lat": 35.7119934, "lon": -83.5184453 },
+    { "lat": 35.7120545, "lon": -83.5184731 },
+    { "lat": 35.7120817, "lon": -83.5184854 },
+    { "lat": 35.7124083, "lon": -83.5186342 },
+    { "lat": 35.7126746, "lon": -83.5187554 },
+    { "lat": 35.7135075, "lon": -83.5191310 },
+    { "lat": 35.7138954, "lon": -83.5193091 },
+    { "lat": 35.7143185, "lon": -83.5194776 },
+    { "lat": 35.7146923, "lon": -83.5196370 },
+    { "lat": 35.7151271, "lon": -83.5198153 },
+    { "lat": 35.7151845, "lon": -83.5198384 },
+    { "lat": 35.7153274, "lon": -83.5199014 }
+  ],
+  "tags": {
+    "aerialway": "chair_lift",
+    "aerialway:occupancy": "3",
+    "name": "Gatlinburg Sky Lift"
+  }
+},
+{
+  "type": "way",
+  "id": 1019730912,
+  "bounds": {
+    "minlat": 35.7097091,
+    "minlon": -83.5119555,
+    "maxlat": 35.7131238,
+    "maxlon": -83.5060412
+  },
+  "geometry": [
+    { "lat": 35.7131238, "lon": -83.5119555 },
+    { "lat": 35.7128679, "lon": -83.5114904 },
+    { "lat": 35.7127269, "lon": -83.5112390 },
+    { "lat": 35.7123249, "lon": -83.5105642 },
+    { "lat": 35.7120539, "lon": -83.5100942 },
+    { "lat": 35.7118105, "lon": -83.5096970 },
+    { "lat": 35.7114028, "lon": -83.5089624 },
+    { "lat": 35.7111084, "lon": -83.5085047 },
+    { "lat": 35.7106230, "lon": -83.5076780 },
+    { "lat": 35.7102988, "lon": -83.5071339 },
+    { "lat": 35.7098446, "lon": -83.5062998 },
+    { "lat": 35.7097928, "lon": -83.5062007 },
+    { "lat": 35.7097091, "lon": -83.5060412 }
+  ],
+  "tags": {
+    "aerialway": "gondola",
+    "aerialway:occupancy": "4",
+    "name": "Crystal Express",
+    "oneway": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 1069100479,
+  "bounds": {
+    "minlat": 35.7701135,
+    "minlon": -83.3270050,
+    "maxlat": 35.7727360,
+    "maxlon": -83.3254802
+  },
+  "geometry": [
+    { "lat": 35.7727360, "lon": -83.3263705 },
+    { "lat": 35.7709498, "lon": -83.3254802 },
+    { "lat": 35.7701135, "lon": -83.3270050 }
+  ],
+  "tags": {
+    "aerialway": "zip_line"
+  }
+},
+{
+  "type": "way",
+  "id": 1069100480,
+  "bounds": {
+    "minlat": 35.7683687,
+    "minlon": -83.3335455,
+    "maxlat": 35.7701735,
+    "maxlon": -83.3271860
+  },
+  "geometry": [
+    { "lat": 35.7701735, "lon": -83.3271860 },
+    { "lat": 35.7683687, "lon": -83.3305106 },
+    { "lat": 35.7685611, "lon": -83.3335455 }
+  ],
+  "tags": {
+    "aerialway": "zip_line"
+  }
+},
+{
+  "type": "way",
+  "id": 1069100482,
+  "bounds": {
+    "minlat": 35.7650253,
+    "minlon": -83.3336623,
+    "maxlat": 35.7691246,
+    "maxlon": -83.3277863
+  },
+  "geometry": [
+    { "lat": 35.7691246, "lon": -83.3336623 },
+    { "lat": 35.7653778, "lon": -83.3311238 },
+    { "lat": 35.7650253, "lon": -83.3277863 }
+  ],
+  "tags": {
+    "aerialway": "zip_line"
+  }
+},
+{
+  "type": "way",
+  "id": 1449558631,
+  "bounds": {
+    "minlat": 35.7134242,
+    "minlon": -83.5088387,
+    "maxlat": 35.7141882,
+    "maxlon": -83.5037213
+  },
+  "geometry": [
+    { "lat": 35.7141882, "lon": -83.5088387 },
+    { "lat": 35.7134242, "lon": -83.5037213 }
+  ],
+  "tags": {
+    "abandoned": "yes",
+    "aerialway": "chair_lift",
+    "name": "Fun Mountain Chair Lift"
+  }
+},
+{
+  "type": "relation",
+  "id": 2131838,
+  "bounds": {
+    "minlat": 35.4269005,
+    "minlon": -84.0138923,
+    "maxlat": 35.8413927,
+    "maxlon": -82.9980412
+  },
+  "tags": {
+    "boundary": "protected_area",
+    "contact:facebook": "https://www.facebook.com/GreatSmokyMountainsNPS",
+    "contact:instagram": "https://www.instagram.com/GreatSmokyNPS/",
+    "contact:twitter": "https://twitter.com/GreatSmokyNPS",
+    "heritage": "1",
+    "heritage:operator": "whc",
+    "leisure": "nature_reserve",
+    "name": "Great Smoky Mountains National Park",
+    "name:ar": "المنتزه الوطني لجبال غرايت سموكي العظيمة",
+    "name:en": "Great Smoky Mountains National Park",
+    "name:es": "Parque Nacional de Great Smoky Mountains",
+    "name:fr": "Parc national des Great Smoky Mountains",
+    "name:ja": "グレート・スモーキー山脈国立公園",
+    "name:nl": "Nationaal park Great Smoky Mountains",
+    "name:ru": "Национальный парк Грейт-Смоки-Маунтинс",
+    "name:zh": "大烟雾山国家公园",
+    "network": "National Parks of the United States",
+    "network:wikidata": "Q34918903",
+    "operator": "National Park Service",
+    "operator:short": "NPS",
+    "operator:type": "public",
+    "operator:wikidata": "Q308439",
+    "operator:wikipedia": "en:National Park Service",
+    "ownership": "national",
+    "phone": "+1-865-436-1200",
+    "protect_class": "2",
+    "protected": "perpetuity",
+    "protected_area": "national_park",
+    "protection_title": "National Park",
+    "ref:whc": "259",
+    "source": "NPS",
+    "type": "boundary",
+    "website": "https://www.nps.gov/grsm",
+    "whc:criteria": "(vii)(viii)(ix)(x)",
+    "whc:inscription_date": "1983",
+    "wikidata": "Q464004",
+    "wikipedia": "en:Great Smoky Mountains National Park"
+  }
+}
+
+  ]
+}

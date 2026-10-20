@@ -1,0 +1,57 @@
+{
+ "bridge_concrete1_left": {
+  "deck": 2.89,
+  "joins": 4,
+  "spread": 0.21
+ },
+ "bridge_concrete1_right": {
+  "deck": 2.9,
+  "joins": 4,
+  "spread": 0.27
+ },
+ "bridge_concrete2_25": {
+  "deck": 2.61,
+  "joins": 2,
+  "spread": 0.15
+ },
+ "bridge_concrete2_left": {
+  "deck": 3.11,
+  "joins": 3,
+  "spread": 0.1
+ },
+ "bridge_concrete2_right": {
+  "deck": 3.17,
+  "joins": 3,
+  "spread": 0.21
+ },
+ "bridge_metal_25": {
+  "deck": 8.03,
+  "joins": 8,
+  "spread": 0.12
+ },
+ "bridge_metal_25_1": {
+  "deck": 8.05,
+  "joins": 8,
+  "spread": 0.1
+ },
+ "bridge_stone_25": {
+  "deck": 7.94,
+  "joins": 26,
+  "spread": 4.73
+ },
+ "bridge_wood_25": {
+  "deck": 1.77,
+  "joins": 45,
+  "spread": 0.92
+ },
+ "bridge_wood_50": {
+  "deck": 3.2,
+  "joins": 4,
+  "spread": 0.78
+ },
+ "bridge_wood_50_1": {
+  "deck": 3.54,
+  "joins": 1,
+  "spread": null
+ }
+}

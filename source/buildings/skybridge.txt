@@ -1,0 +1,7 @@
+Gatlinburg SkyBridge (OSM way 1051412381)
+span 211.6 m (the real bridge: 680 ft, 207 m), heading 66.7 deg
+deck ends at 575.4 m and 563.8 m (ground at the OSM end points 572.6 and 561.1), 6 m ramps down to the ground beyond; sags 3.0 m at mid-span
+deck stands 19.3 m over the valley at its deepest (the real one: about 140 ft, 43 m)
+lowest clearance between the towers: 1.5 m
+model: data/skybridge\skybridge.p3d, 3156 visual faces, 223 collision components
+cleared from the corridor (7 m either side): forest/tb_trees.txt 8, forest/tb_bushes.txt 5, forest/tb_deadwood.txt 1

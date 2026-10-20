@@ -1,0 +1,8780 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-15T22:57:33Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 153440289,
+  "lat": 35.6381184,
+  "lon": -83.3699960,
+  "tags": {
+    "ele": "1579.12",
+    "name": "Dry Sluice Gap",
+    "natural": "saddle",
+    "official_name": "Dry Sluice Gap",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 153832385,
+  "lat": 35.7481493,
+  "lon": -83.4140486,
+  "tags": {
+    "ele": "408",
+    "gnis:feature_id": "1297676",
+    "name": "Pinnacle",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 153903255,
+  "lat": 35.7712022,
+  "lon": -83.5426655,
+  "tags": {
+    "ele": "349",
+    "gnis:feature_id": "1281095",
+    "name": "Conner Heights",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 153921135,
+  "lat": 35.7142590,
+  "lon": -83.5101638,
+  "tags": {
+    "ele": "394",
+    "gnis:feature_id": "1647737",
+    "name": "Gatlinburg",
+    "place": "town",
+    "population": "3577",
+    "population:date": "2020",
+    "source:population": "US Census",
+    "wikidata": "Q1008520",
+    "wikipedia": "en:Gatlinburg, Tennessee"
+  }
+},
+{
+  "type": "node",
+  "id": 154051253,
+  "lat": 35.6388264,
+  "lon": -83.4742024,
+  "tags": {
+    "ele": "1006",
+    "fixme": "confirm location if possible.",
+    "gnis:feature_id": "1315069",
+    "historic": "fort",
+    "name": "Fort Harry",
+    "source": "NPS",
+    "wikidata": "Q122594941"
+  }
+},
+{
+  "type": "node",
+  "id": 154151655,
+  "lat": 35.7592606,
+  "lon": -83.3959924,
+  "tags": {
+    "ele": "393",
+    "gnis:feature_id": "1297748",
+    "name": "Pittman Center",
+    "place": "village",
+    "population": "603",
+    "population:date": "2006",
+    "source:population": "US Census"
+  }
+},
+{
+  "type": "node",
+  "id": 154175431,
+  "lat": 35.7373147,
+  "lon": -83.4848850,
+  "tags": {
+    "ele": "473",
+    "gnis:feature_id": "1279826",
+    "name": "Cartertown",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 154303064,
+  "lat": 35.7400929,
+  "lon": -83.4621062,
+  "tags": {
+    "ele": "500",
+    "gnis:feature_id": "1285470",
+    "name": "Glade",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 154326123,
+  "lat": 35.7625930,
+  "lon": -83.4421057,
+  "tags": {
+    "ele": "474",
+    "gnis:feature_id": "1647684",
+    "name": "Zion Grove",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 356773528,
+  "lat": 35.6645405,
+  "lon": -83.3409887,
+  "tags": {
+    "ele": "1798",
+    "gnis:feature_id": "1000704",
+    "name": "Laurel Top",
+    "natural": "peak"
+  }
+},
+{
+  "type": "node",
+  "id": 356773874,
+  "lat": 35.6247801,
+  "lon": -83.3930197,
+  "tags": {
+    "ele": "1865.34",
+    "gnis:feature_id": "1023656",
+    "name": "Mount Ambler",
+    "natural": "peak",
+    "official_name": "Mount Ambler",
+    "source": "NPS",
+    "wikidata": "Q31660264"
+  }
+},
+{
+  "type": "node",
+  "id": 356777939,
+  "lat": 35.7614799,
+  "lon": -83.5537768,
+  "tags": {
+    "ele": "492",
+    "gnis:feature_id": "1271656",
+    "name": "Sugar Camp Knob",
+    "natural": "peak",
+    "wikidata": "Q31688977"
+  }
+},
+{
+  "type": "node",
+  "id": 356777960,
+  "lat": 35.6092734,
+  "lon": -83.4779627,
+  "tags": {
+    "ele": "1673.66",
+    "gnis:feature_id": "1271723",
+    "name": "Sugarland Mountain",
+    "natural": "peak",
+    "official_name": "Sugarland Mountain",
+    "source": "NPS",
+    "wikidata": "Q31689003"
+  }
+},
+{
+  "type": "node",
+  "id": 356785257,
+  "lat": 35.6340665,
+  "lon": -83.4137459,
+  "tags": {
+    "ele": "1826.86",
+    "gnis:feature_id": "1275671",
+    "name": "Anakeesta Knob",
+    "natural": "peak",
+    "official_name": "Anakeesta Knob",
+    "source": "NPS",
+    "wikidata": "Q31660635"
+  }
+},
+{
+  "type": "node",
+  "id": 356789999,
+  "lat": 35.7195367,
+  "lon": -83.5073859,
+  "tags": {
+    "ele": "463",
+    "gnis:feature_id": "1278312",
+    "name": "Briar Knob",
+    "natural": "peak",
+    "wikidata": "Q31663775"
+  }
+},
+{
+  "type": "node",
+  "id": 356790617,
+  "lat": 35.6780072,
+  "lon": -83.4304031,
+  "tags": {
+    "ele": "1498.69",
+    "gnis:feature_id": "1278710",
+    "name": "Brushy Mountain",
+    "natural": "peak",
+    "official_name": "Brushy Mountain",
+    "source": "NPS",
+    "wikidata": "Q31664146"
+  }
+},
+{
+  "type": "node",
+  "id": 356794386,
+  "lat": 35.6294910,
+  "lon": -83.4777766,
+  "tags": {
+    "ele": "1440.18",
+    "gnis:feature_id": "1280482",
+    "name": "Chimney Tops",
+    "name:chr": "ᏚᏂᏍᏆᎫᏂ",
+    "natural": "peak",
+    "official_name": "Chimney Tops",
+    "reg_name:chr": "ᏚᏂᏍᏆᎫᏂ",
+    "source": "NPS",
+    "website": "https://www.nps.gov/grsm/planyourvisit/chimney-tops.htm",
+    "wikidata": "Q5099418",
+    "wikipedia": "en:Chimney Tops"
+  }
+},
+{
+  "type": "node",
+  "id": 356798220,
+  "lat": 35.7114841,
+  "lon": -83.3534899,
+  "tags": {
+    "ele": "1026",
+    "gnis:feature_id": "1282392",
+    "name": "Devils Den",
+    "natural": "peak"
+  }
+},
+{
+  "type": "node",
+  "id": 356810924,
+  "lat": 35.6542611,
+  "lon": -83.4368267,
+  "tags": {
+    "ele": "2009.55",
+    "gnis:feature_id": "1287723",
+    "name": "Mount le Conte - High Top",
+    "natural": "peak",
+    "official_name": "High Top",
+    "source": "NPS",
+    "wikidata": "Q31674143"
+  }
+},
+{
+  "type": "node",
+  "id": 356811569,
+  "lat": 35.6986481,
+  "lon": -83.5517319,
+  "tags": {
+    "ele": "898.149",
+    "gnis:feature_id": "1288180",
+    "name": "Holy Butt",
+    "natural": "peak",
+    "official_name": "Holy Butt",
+    "source": "NPS",
+    "wikidata": "Q31674439"
+  }
+},
+{
+  "type": "node",
+  "id": 356811898,
+  "lat": 35.6453285,
+  "lon": -83.3875876,
+  "tags": {
+    "ele": "1608.43",
+    "gnis:feature_id": "1288452",
+    "name": "Horseshoe Mountain",
+    "natural": "peak",
+    "official_name": "Horseshoe Mountain",
+    "source": "NPS",
+    "wikidata": "Q31674739"
+  }
+},
+{
+  "type": "node",
+  "id": 356816885,
+  "lat": 35.6072854,
+  "lon": -83.5417894,
+  "tags": {
+    "ele": "1108.21",
+    "gnis:feature_id": "1291515",
+    "name": "Little Goshen",
+    "natural": "peak",
+    "official_name": "Little Goshen",
+    "source": "NPS",
+    "wikidata": "Q31677640"
+  }
+},
+{
+  "type": "node",
+  "id": 356817640,
+  "lat": 35.6882580,
+  "lon": -83.4339977,
+  "tags": {
+    "ele": "1354.1",
+    "gnis:feature_id": "1292040",
+    "name": "Lookout Rock",
+    "natural": "peak",
+    "official_name": "Lookout Rock",
+    "source": "NPS",
+    "wikidata": "Q31678979"
+  }
+},
+{
+  "type": "node",
+  "id": 356826477,
+  "lat": 35.6401137,
+  "lon": -83.4445916,
+  "tags": {
+    "ele": "1629.46",
+    "gnis:feature_id": "1297181",
+    "name": "Peregrine Peak",
+    "natural": "peak",
+    "official_name": "Peregrine Peak",
+    "source": "NPS",
+    "wikidata": "Q31682628"
+  }
+},
+{
+  "type": "node",
+  "id": 356827125,
+  "lat": 35.7228696,
+  "lon": -83.5346091,
+  "tags": {
+    "ele": "688",
+    "gnis:feature_id": "1297614",
+    "name": "Piney Butt",
+    "natural": "peak",
+    "wikidata": "Q31683513"
+  }
+},
+{
+  "type": "node",
+  "id": 356827175,
+  "lat": 35.6791142,
+  "lon": -83.4674287,
+  "tags": {
+    "ele": "1088.92",
+    "gnis:feature_id": "1297644",
+    "name": "Piney Mountain",
+    "natural": "peak",
+    "official_name": "Piney Mountain",
+    "source": "NPS",
+    "wikidata": "Q31683568"
+  }
+},
+{
+  "type": "node",
+  "id": 356828087,
+  "lat": 35.6537271,
+  "lon": -83.3662093,
+  "tags": {
+    "ele": "1565.05",
+    "gnis:feature_id": "1298280",
+    "name": "Porters Mountain",
+    "natural": "peak",
+    "official_name": "Porters Mountain",
+    "source": "NPS",
+    "wikidata": "Q31684073"
+  }
+},
+{
+  "type": "node",
+  "id": 356841596,
+  "lat": 35.6546618,
+  "lon": -83.4532074,
+  "tags": {
+    "ele": "1937.31",
+    "gnis:feature_id": "1304484",
+    "name": "West Point",
+    "natural": "peak",
+    "official_name": "West Point",
+    "source": "NPS",
+    "wikidata": "Q31691192"
+  }
+},
+{
+  "type": "node",
+  "id": 356841917,
+  "lat": 35.6888965,
+  "lon": -83.4417723,
+  "tags": {
+    "ele": "1305.86",
+    "gnis:feature_id": "1304638",
+    "name": "Mount Winnesoka",
+    "natural": "peak",
+    "official_name": "Mount Winnesoka",
+    "source": "NPS",
+    "wikidata": "Q31691889"
+  }
+},
+{
+  "type": "node",
+  "id": 356842123,
+  "lat": 35.6770403,
+  "lon": -83.3395999,
+  "tags": {
+    "ele": "1671",
+    "gnis:feature_id": "1304679",
+    "name": "Woolly Tops Mountain",
+    "natural": "peak",
+    "wikidata": "Q31692095"
+  }
+},
+{
+  "type": "node",
+  "id": 356842780,
+  "lat": 35.6531893,
+  "lon": -83.4727625,
+  "tags": {
+    "ele": "1773.94",
+    "gnis:feature_id": "1304946",
+    "name": "Balsam Point",
+    "natural": "peak",
+    "official_name": "Balsam Point",
+    "source": "NPS",
+    "wikidata": "Q31661395"
+  }
+},
+{
+  "type": "node",
+  "id": 356843691,
+  "lat": 35.6624687,
+  "lon": -83.4877756,
+  "tags": {
+    "ele": "1310.94",
+    "gnis:feature_id": "1305514",
+    "name": "Bull Head",
+    "natural": "peak",
+    "official_name": "Bull Head",
+    "source": "NPS",
+    "wikidata": "Q31664508"
+  }
+},
+{
+  "type": "node",
+  "id": 356844321,
+  "lat": 35.6544613,
+  "lon": -83.4443020,
+  "tags": {
+    "ele": "1996.55",
+    "gnis:feature_id": "1305970",
+    "name": "Cliff Top",
+    "natural": "peak",
+    "official_name": "Cliff Top",
+    "source": "NPS",
+    "wikidata": "Q31667173"
+  }
+},
+{
+  "type": "node",
+  "id": 356845423,
+  "lat": 35.6178982,
+  "lon": -83.4590298,
+  "tags": {
+    "ele": "1763.88",
+    "gnis:feature_id": "1306757",
+    "name": "Mount Mingus",
+    "natural": "peak",
+    "official_name": "Mount Mingus",
+    "source": "NPS",
+    "wikidata": "Q31680591"
+  }
+},
+{
+  "type": "node",
+  "id": 356845538,
+  "lat": 35.6532914,
+  "lon": -83.4318089,
+  "tags": {
+    "ele": "1991.56",
+    "gnis:feature_id": "1306809",
+    "name": "Myrtle Point",
+    "natural": "peak",
+    "official_name": "Myrtle Point",
+    "source": "NPS",
+    "wikidata": "Q31681169"
+  }
+},
+{
+  "type": "node",
+  "id": 356894868,
+  "lat": 35.6542611,
+  "lon": -83.4368267,
+  "tags": {
+    "ele": "2004",
+    "gnis:feature_id": "1646824",
+    "name": "Mount Le Conte",
+    "natural": "peak",
+    "wikidata": "Q6921794",
+    "wikipedia": "en:Mount Le Conte (Tennessee)"
+  }
+},
+{
+  "type": "node",
+  "id": 357783530,
+  "lat": 35.6076398,
+  "lon": -83.3531558,
+  "tags": {
+    "ele": "1491.01",
+    "gnis:feature_id": "993321",
+    "name": "Richland Mountain",
+    "natural": "peak",
+    "official_name": "Richland Mountain",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 357798726,
+  "lat": 35.6055737,
+  "lon": -83.4366255,
+  "tags": {
+    "ele": "1589.23",
+    "gnis:feature_id": "1004642",
+    "name": "Mount Weaver",
+    "natural": "peak",
+    "official_name": "Mount Weaver",
+    "source": "NPS",
+    "wikidata": "Q31643550"
+  }
+},
+{
+  "type": "node",
+  "id": 357811183,
+  "lat": 35.6433516,
+  "lon": -83.3623105,
+  "tags": {
+    "ele": "1662.44",
+    "gnis:feature_id": "1272437",
+    "name": "The Sawteeth",
+    "natural": "peak",
+    "official_name": "The Sawteeth",
+    "source": "NPS",
+    "wikidata": "Q31614691"
+  }
+},
+{
+  "type": "node",
+  "id": 357811197,
+  "lat": 35.5865541,
+  "lon": -83.4724471,
+  "tags": {
+    "ele": "1888.71",
+    "gnis:feature_id": "1281017",
+    "name": "Mount Collins",
+    "natural": "peak",
+    "official_name": "Mount Collins",
+    "source": "NPS",
+    "wikidata": "Q6920210"
+  }
+},
+{
+  "type": "node",
+  "id": 357811214,
+  "lat": 35.6346337,
+  "lon": -83.3777786,
+  "tags": {
+    "ele": "1733.54",
+    "gnis:feature_id": "1292871",
+    "name": "Masa Knob",
+    "natural": "peak",
+    "official_name": "Masa Knob",
+    "source": "NPS",
+    "wikidata": "Q31632449"
+  }
+},
+{
+  "type": "node",
+  "id": 1223760921,
+  "lat": 35.6541670,
+  "lon": -83.4443217,
+  "tags": {
+    "source": "NPS",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 1223760934,
+  "lat": 35.6548034,
+  "lon": -83.4413767,
+  "tags": {
+    "addr:state": "TN",
+    "contact:tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g143031-d260218-Reviews-LeConte_Lodge-Great_Smoky_Mountains_National_Park_Tennessee.html",
+    "email": "reservations@lecontelodge.com",
+    "fax": "+1-865-774-0045",
+    "name": "LeConte Lodge",
+    "operator": "National Park Service",
+    "phone": "+1-865-429-5704",
+    "tourism": "alpine_hut",
+    "website": "https://www.lecontelodge.com/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1788106313,
+  "lat": 35.5857447,
+  "lon": -83.3583331,
+  "tags": {
+    "highway": "trailhead",
+    "name": "Kephart Prong Trail Trailhead",
+    "operator": "National Park Service"
+  }
+},
+{
+  "type": "node",
+  "id": 1788106323,
+  "lat": 35.5858334,
+  "lon": -83.3989752,
+  "tags": {
+    "highway": "trailhead",
+    "name": "Thomas Divide Trailhead",
+    "operator": "National Park Service",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 1788107100,
+  "lat": 35.5879108,
+  "lon": -83.3638541,
+  "tags": {
+    "highway": "trailhead",
+    "name": "Kanati Fork Trail Trailhead",
+    "operator": "National Park Service"
+  }
+},
+{
+  "type": "node",
+  "id": 1788110294,
+  "lat": 35.5948666,
+  "lon": -83.4165521,
+  "tags": {
+    "amenity": "parking",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 1788129327,
+  "lat": 35.6155854,
+  "lon": -83.3284208,
+  "tags": {
+    "backcountry": "yes",
+    "ele": "935",
+    "fee": "yes",
+    "horse": "yes",
+    "name": "Cabin Flats #49",
+    "official_name": "Backcountry Camp 49, CabinFlats",
+    "operator": "National Park Service",
+    "source": "NPS",
+    "tourism": "camp_site",
+    "website": "https://smokiespermits.nps.gov/"
+  }
+},
+{
+  "type": "node",
+  "id": 1788129826,
+  "lat": 35.6160114,
+  "lon": -83.5300634,
+  "tags": {
+    "backcountry": "yes",
+    "capacity": "15",
+    "ele": "870",
+    "fee": "yes",
+    "horse": "no",
+    "name": "Rough Creek #24",
+    "official_name": "Backcountry Camp 24, RoughCreek",
+    "operator": "National Park Service",
+    "source": "NPS",
+    "tourism": "camp_site",
+    "website": "https://smokiespermits.nps.gov/"
+  }
+},
+{
+  "type": "node",
+  "id": 1788195700,
+  "lat": 35.6354384,
+  "lon": -83.4697583,
+  "tags": {
+    "highway": "trailhead",
+    "name": "Chimney Tops Trailhead",
+    "operator": "National Park Service"
+  }
+},
+{
+  "type": "node",
+  "id": 1788220444,
+  "lat": 35.6606331,
+  "lon": -83.3816099,
+  "tags": {
+    "backcountry": "yes",
+    "ele": "781",
+    "fee": "yes",
+    "horse": "no",
+    "name": "Porters Flat #31",
+    "official_name": "Backcountry Camp 31, Porters Flat",
+    "operator": "National Park Service",
+    "source": "NPS",
+    "tourism": "camp_site",
+    "website": "https://smokiespermits.nps.gov/"
+  }
+},
+{
+  "type": "node",
+  "id": 1788234718,
+  "lat": 35.6774456,
+  "lon": -83.4785422,
+  "tags": {
+    "highway": "trailhead",
+    "kerb": "no",
+    "name": "Baskins Creek Trail Trailhead",
+    "operator": "National Park Service"
+  }
+},
+{
+  "type": "node",
+  "id": 1788235272,
+  "lat": 35.6795831,
+  "lon": -83.5312648,
+  "tags": {
+    "amenity": "parking",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 1788235749,
+  "lat": 35.6802594,
+  "lon": -83.4626653,
+  "tags": {
+    "highway": "trailhead",
+    "name": "Trillium Gap Trail Trailhead",
+    "operator": "National Park Service"
+  }
+},
+{
+  "type": "node",
+  "id": 1788238868,
+  "lat": 35.6814846,
+  "lon": -83.5504393,
+  "tags": {
+    "amenity": "parking",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 1788242215,
+  "lat": 35.6883050,
+  "lon": -83.5349221,
+  "tags": {
+    "highway": "trailhead",
+    "name": "Old Sugarlands Trail Trailhead",
+    "operator": "National Park Service"
+  }
+},
+{
+  "type": "node",
+  "id": 1788248054,
+  "lat": 35.6968287,
+  "lon": -83.3879937,
+  "tags": {
+    "amenity": "parking",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 1788253569,
+  "lat": 35.7026600,
+  "lon": -83.3575140,
+  "tags": {
+    "amenity": "parking",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 1788256431,
+  "lat": 35.7079747,
+  "lon": -83.3826602,
+  "tags": {
+    "access": "yes",
+    "highway": "trailhead",
+    "name": "Grapeyard Ridge Trail",
+    "operator": "National Park Service"
+  }
+},
+{
+  "type": "node",
+  "id": 1788256519,
+  "lat": 35.7079300,
+  "lon": -83.3827116,
+  "tags": {
+    "information": "guidepost",
+    "name": "Grapeyard Ridge Trail - east trailhead",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 2312163873,
+  "lat": 35.6888999,
+  "lon": -83.5375449,
+  "tags": {
+    "amenity": "parking",
+    "parking": "street_side",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2312163926,
+  "lat": 35.6893505,
+  "lon": -83.5378092,
+  "tags": {
+    "amenity": "parking",
+    "parking": "street_side",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2312163973,
+  "lat": 35.6915452,
+  "lon": -83.5347274,
+  "tags": {
+    "amenity": "parking",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2312163996,
+  "lat": 35.6918413,
+  "lon": -83.5350456,
+  "tags": {
+    "amenity": "parking",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2313687866,
+  "lat": 35.6904325,
+  "lon": -83.5316366,
+  "tags": {
+    "highway": "trailhead",
+    "name": "Two Mile Lead Concession Horse Trail Trailhead",
+    "operator": "National Park Service"
+  }
+},
+{
+  "type": "node",
+  "id": 2350123060,
+  "lat": 35.6757032,
+  "lon": -83.4856738,
+  "tags": {
+    "highway": "trailhead",
+    "name": "Rainbow Falls Trail Trailhead"
+  }
+},
+{
+  "type": "node",
+  "id": 2350124348,
+  "lat": 35.6872704,
+  "lon": -83.4995490,
+  "tags": {
+    "amenity": "parking",
+    "capacity:disabled": "2",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2350124414,
+  "lat": 35.6876320,
+  "lon": -83.5010347,
+  "tags": {
+    "amenity": "parking",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2350124766,
+  "lat": 35.6966609,
+  "lon": -83.5071496,
+  "tags": {
+    "highway": "trailhead",
+    "name": "Grassy Branch Trail Trailhead",
+    "operator": "National Park Service"
+  }
+},
+{
+  "type": "node",
+  "id": 2350125192,
+  "lat": 35.7096210,
+  "lon": -83.4726838,
+  "tags": {
+    "amenity": "parking",
+    "name": "Roaring Fork Motor Tour Parking #13",
+    "official_name": "Roaring Fork Motor Tour Parking #13",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2350125349,
+  "lat": 35.7141427,
+  "lon": -83.4851101,
+  "tags": {
+    "amenity": "parking",
+    "name": "Roaring Fork Motor Tour Parking #14",
+    "official_name": "Roaring Fork Motor Tour Parking #14",
+    "source": "NPS",
+    "surface": "paved"
+  }
+},
+{
+  "type": "node",
+  "id": 2361010290,
+  "lat": 35.6369913,
+  "lon": -83.5452757,
+  "tags": {
+    "backcountry": "yes",
+    "capacity": "12",
+    "ele": "805",
+    "fee": "yes",
+    "horse": "no",
+    "name": "Mile 53 #21",
+    "official_name": "Backcountry Camp 21, Mile53",
+    "operator": "National Park Service",
+    "source": "NPS",
+    "tourism": "camp_site",
+    "website": "https://smokiespermits.nps.gov/"
+  }
+},
+{
+  "type": "node",
+  "id": 2361010296,
+  "lat": 35.5949183,
+  "lon": -83.5146219,
+  "tags": {
+    "backcountry": "yes",
+    "capacity": "12",
+    "ele": "1036",
+    "fee": "yes",
+    "horse": "no",
+    "name": "Three Forks #30",
+    "official_name": "Backcountry Camp 30, Three Forks",
+    "operator": "National Park Service",
+    "tourism": "camp_site",
+    "website": "https://smokiespermits.nps.gov/"
+  }
+},
+{
+  "type": "node",
+  "id": 2361010297,
+  "lat": 35.7068293,
+  "lon": -83.4199968,
+  "tags": {
+    "backcountry": "yes",
+    "ele": "781",
+    "fee": "yes",
+    "horse": "no",
+    "name": "Engine Creek #32",
+    "official_name": "Backcountry Camp 32, Injun Creek",
+    "operator": "National Park Service",
+    "source": "NPS",
+    "tourism": "camp_site",
+    "website": "https://smokiespermits.nps.gov/"
+  }
+},
+{
+  "type": "node",
+  "id": 2361010298,
+  "lat": 35.7487924,
+  "lon": -83.3443731,
+  "tags": {
+    "backcountry": "yes",
+    "ele": "601",
+    "fee": "yes",
+    "horse": "no",
+    "name": "Settlers Camp #33",
+    "official_name": "Backcountry Camp 33, Settlers Camp",
+    "operator": "National Park Service",
+    "source": "NPS",
+    "tourism": "camp_site",
+    "website": "https://smokiespermits.nps.gov/"
+  }
+},
+{
+  "type": "node",
+  "id": 2361063284,
+  "lat": 35.7043497,
+  "lon": -83.5291989,
+  "tags": {
+    "source": "NPS",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 2361063302,
+  "lat": 35.7056641,
+  "lon": -83.5237260,
+  "tags": {
+    "access": "permit",
+    "amenity": "parking",
+    "fee": "no",
+    "operator": "Sugarlands Trailhead Parking A",
+    "orientation": "perpendicular",
+    "parking": "street_side"
+  }
+},
+{
+  "type": "node",
+  "id": 2361063417,
+  "lat": 35.7114288,
+  "lon": -83.5301063,
+  "tags": {
+    "source": "NPS",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 2361063590,
+  "lat": 35.7204444,
+  "lon": -83.5216708,
+  "tags": {
+    "amenity": "parking",
+    "parking": "street_side",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2361063945,
+  "lat": 35.7406768,
+  "lon": -83.5224894,
+  "tags": {
+    "amenity": "parking",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2361064311,
+  "lat": 35.7542624,
+  "lon": -83.5239055,
+  "tags": {
+    "amenity": "parking",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2361064616,
+  "lat": 35.7704613,
+  "lon": -83.5318332,
+  "tags": {
+    "amenity": "parking",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2361073818,
+  "lat": 35.7119827,
+  "lon": -83.3837138,
+  "tags": {
+    "addr:city": "Gatlinburg",
+    "addr:housenumber": "483",
+    "addr:postcode": "37738",
+    "addr:state": "TN",
+    "addr:street": "Greenbrier Cove",
+    "name": "Greenbrier Picnic Area",
+    "official_name": "Greenbriar Picnic Area",
+    "operator": "National Park Service",
+    "source": "NPS",
+    "tourism": "picnic_site",
+    "website": "https://www.nps.gov/places/greenbrier-picnic-area.htm"
+  }
+},
+{
+  "type": "node",
+  "id": 2361074012,
+  "lat": 35.7032860,
+  "lon": -83.3865283,
+  "tags": {
+    "access": "yes",
+    "capacity": "70",
+    "mobile_reception": "no",
+    "name": "Greenbrier Picnic Pavilion",
+    "official_name": "Greenbrier Picnic Pavillion",
+    "operator": "National Parks Service",
+    "reservation": "yes",
+    "source": "NPS",
+    "tourism": "picnic_site"
+  }
+},
+{
+  "type": "node",
+  "id": 2361074217,
+  "lat": 35.7080576,
+  "lon": -83.3826304,
+  "tags": {
+    "amenity": "parking",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2361074400,
+  "lat": 35.7296177,
+  "lon": -83.4057784,
+  "tags": {
+    "amenity": "parking",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2361074459,
+  "lat": 35.7329100,
+  "lon": -83.4106593,
+  "tags": {
+    "amenity": "parking",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2361074500,
+  "lat": 35.7352570,
+  "lon": -83.4134262,
+  "tags": {
+    "amenity": "parking",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2361074536,
+  "lat": 35.7378794,
+  "lon": -83.4161191,
+  "tags": {
+    "amenity": "parking",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2454582131,
+  "lat": 35.7010049,
+  "lon": -83.4205169,
+  "tags": {
+    "ele": "775.39",
+    "name": "James Gap",
+    "natural": "saddle",
+    "official_name": "James Gap",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2454879679,
+  "lat": 35.6378728,
+  "lon": -83.4165479,
+  "tags": {
+    "ele": "1742.27",
+    "gnis:feature_id": "1275652",
+    "name": "Alum Gap",
+    "natural": "saddle",
+    "official_name": "Alum Gap",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2454879689,
+  "lat": 35.7342617,
+  "lon": -83.5519260,
+  "tags": {
+    "ele": "0.0",
+    "name": "Bearwallow Gap",
+    "natural": "saddle",
+    "official_name": "Bearwallow Gap",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2454879699,
+  "lat": 35.7659254,
+  "lon": -83.4943303,
+  "tags": {
+    "ele": "447.428",
+    "name": "Boogertown Gap",
+    "natural": "saddle",
+    "official_name": "Boogertown Gap",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2454879719,
+  "lat": 35.6366754,
+  "lon": -83.4899655,
+  "tags": {
+    "name": "Chimneys Picnic Area",
+    "official_name": "Chinmeys Picnic Area",
+    "source": "NPS",
+    "tourism": "picnic_site"
+  }
+},
+{
+  "type": "node",
+  "id": 2454879761,
+  "lat": 35.6571236,
+  "lon": -83.3537979,
+  "tags": {
+    "ele": "1595.17",
+    "name": "False Gap",
+    "natural": "saddle",
+    "official_name": "False Gap",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2454879793,
+  "lat": 35.6541219,
+  "lon": -83.5462744,
+  "tags": {
+    "ele": "964.85",
+    "name": "Husky Gap",
+    "natural": "saddle",
+    "official_name": "Husky Gap",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2454879795,
+  "lat": 35.6109282,
+  "lon": -83.4384932,
+  "tags": {
+    "ele": "1641.22",
+    "gnis:feature_id": "1000703",
+    "name": "Indian Gap",
+    "natural": "saddle",
+    "official_name": "Indian Gap",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2454879803,
+  "lat": 35.6645330,
+  "lon": -83.3409897,
+  "tags": {
+    "ele": "1803.84",
+    "name": "Laurel Top",
+    "natural": "peak",
+    "official_name": "Laurel Top",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2454879813,
+  "lat": 35.6848761,
+  "lon": -83.4319021,
+  "tags": {
+    "ele": "1248.08",
+    "name": "Long Branch Gap",
+    "natural": "saddle",
+    "official_name": "Long Branch Gap",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2454879818,
+  "lat": 35.6081345,
+  "lon": -83.4405215,
+  "tags": {
+    "ele": "1556.37",
+    "name": "Luftee Gap",
+    "natural": "saddle",
+    "official_name": "Luftee Gap",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2454879838,
+  "lat": 35.6110345,
+  "lon": -83.4253287,
+  "tags": {
+    "contact:tripadvisor": "https://www.tripadvisor.com/Attraction_Review-g143031-d609303-Reviews-Newfound_Gap_Road-Great_Smoky_Mountains_National_Park_Tennessee.htm",
+    "ele": "1538.63",
+    "gnis:feature_id": "1000706",
+    "mountain_pass": "yes",
+    "name": "Newfound Gap",
+    "natural": "saddle",
+    "official_name": "Newfound Gap",
+    "source": "NPS",
+    "website": "https://www.nps.gov/grsm/planyourvisit/nfg.htm",
+    "wikidata": "Q7017800",
+    "wikipedia": "en:Newfound Gap"
+  }
+},
+{
+  "type": "node",
+  "id": 2454879850,
+  "lat": 35.6461553,
+  "lon": -83.3596474,
+  "tags": {
+    "ele": "1634.43",
+    "name": "Porters Gap",
+    "natural": "saddle",
+    "official_name": "Porters Gap",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2454879860,
+  "lat": 35.6915882,
+  "lon": -83.4458440,
+  "tags": {
+    "ele": "1314.3",
+    "name": "Round Top",
+    "natural": "peak",
+    "official_name": "Round Top",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2454879879,
+  "lat": 35.6256306,
+  "lon": -83.4915533,
+  "tags": {
+    "ele": "1538.33",
+    "name": "Sugarland Mountain",
+    "natural": "peak",
+    "official_name": "Sugarland Mountain",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2454879890,
+  "lat": 35.6739765,
+  "lon": -83.4329036,
+  "tags": {
+    "ele": "1438.39",
+    "name": "Trillium Gap",
+    "natural": "saddle",
+    "official_name": "Trillium Gap",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2454916250,
+  "lat": 35.5813843,
+  "lon": -83.3508178,
+  "tags": {
+    "amenity": "parking",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2454916711,
+  "lat": 35.5824673,
+  "lon": -83.3517191,
+  "tags": {
+    "amenity": "parking",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2454917928,
+  "lat": 35.5853478,
+  "lon": -83.3576259,
+  "tags": {
+    "amenity": "parking",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2454918020,
+  "lat": 35.5856923,
+  "lon": -83.3581531,
+  "tags": {
+    "amenity": "parking",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2454918084,
+  "lat": 35.5858435,
+  "lon": -83.3989050,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 2454918903,
+  "lat": 35.5878492,
+  "lon": -83.3634685,
+  "tags": {
+    "amenity": "parking",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2454919122,
+  "lat": 35.5885016,
+  "lon": -83.4054064,
+  "tags": {
+    "amenity": "parking",
+    "parking": "street_side",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2454919509,
+  "lat": 35.5896415,
+  "lon": -83.3992904,
+  "tags": {
+    "amenity": "parking",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2454919516,
+  "lat": 35.5896659,
+  "lon": -83.3705729,
+  "tags": {
+    "amenity": "parking",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2454919745,
+  "lat": 35.5903526,
+  "lon": -83.4694010,
+  "tags": {
+    "amenity": "parking",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2454920240,
+  "lat": 35.5920887,
+  "lon": -83.3809516,
+  "tags": {
+    "amenity": "parking",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2454920360,
+  "lat": 35.5924792,
+  "lon": -83.4090444,
+  "tags": {
+    "amenity": "parking",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2454920768,
+  "lat": 35.5932235,
+  "lon": -83.3845791,
+  "tags": {
+    "amenity": "parking",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2454921073,
+  "lat": 35.5934895,
+  "lon": -83.3876256,
+  "tags": {
+    "amenity": "parking",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2454921425,
+  "lat": 35.5942321,
+  "lon": -83.4123281,
+  "tags": {
+    "amenity": "parking",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2454921937,
+  "lat": 35.5956253,
+  "lon": -83.4586235,
+  "tags": {
+    "amenity": "parking",
+    "fee": "yes",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2454921947,
+  "lat": 35.5956640,
+  "lon": -83.3958358,
+  "tags": {
+    "amenity": "parking",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2454922035,
+  "lat": 35.5959251,
+  "lon": -83.4603224,
+  "tags": {
+    "amenity": "parking",
+    "fee": "yes",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2454922835,
+  "lat": 35.5978085,
+  "lon": -83.4529121,
+  "tags": {
+    "amenity": "parking",
+    "fee": "yes",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2454923271,
+  "lat": 35.5990510,
+  "lon": -83.4126951,
+  "tags": {
+    "amenity": "parking",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2454923759,
+  "lat": 35.5999838,
+  "lon": -83.4089863,
+  "tags": {
+    "amenity": "parking",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2454924533,
+  "lat": 35.6020408,
+  "lon": -83.4264365,
+  "tags": {
+    "amenity": "parking",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2454924963,
+  "lat": 35.6038663,
+  "lon": -83.4287330,
+  "tags": {
+    "amenity": "parking",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2454926398,
+  "lat": 35.6088951,
+  "lon": -83.4394351,
+  "tags": {
+    "amenity": "parking",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2454926473,
+  "lat": 35.6089944,
+  "lon": -83.4342285,
+  "tags": {
+    "amenity": "parking",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2454926589,
+  "lat": 35.6090807,
+  "lon": -83.4373269,
+  "tags": {
+    "amenity": "parking",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2455611224,
+  "lat": 35.6295483,
+  "lon": -83.4515379,
+  "tags": {
+    "highway": "trailhead",
+    "name": "Alum Cave Trailhead",
+    "operator": "National Park Service"
+  }
+},
+{
+  "type": "node",
+  "id": 2693389626,
+  "lat": 35.7128145,
+  "lon": -83.5155113,
+  "tags": {
+    "name": "Earthquake: The Ride",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 2693389628,
+  "lat": 35.7128334,
+  "lon": -83.5153908,
+  "tags": {
+    "name": "Treasure Quest Miniature Golf",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 2921270626,
+  "lat": 35.6290613,
+  "lon": -83.4509373,
+  "tags": {
+    "information": "guidepost",
+    "name": "Alum Cave Trail",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 2921271103,
+  "lat": 35.6390800,
+  "lon": -83.4383128,
+  "tags": {
+    "ele": "1278",
+    "gnis:feature_id": "1275841",
+    "name": "Arch Rock",
+    "natural": "arch",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 2939513961,
+  "lat": 35.6110905,
+  "lon": -83.4246012,
+  "tags": {
+    "name": "Newfound Gap Overlook",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 3449491276,
+  "lat": 35.6830000,
+  "lon": -83.5366581,
+  "tags": {
+    "name": "Sugarlands",
+    "place": "hamlet",
+    "wikidata": "Q7767201",
+    "wikipedia": "en:The Sugarlands"
+  }
+},
+{
+  "type": "node",
+  "id": 3449491277,
+  "lat": 35.6882280,
+  "lon": -83.5011859,
+  "tags": {
+    "name": "Twin Creeks",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3611148369,
+  "lat": 35.6309131,
+  "lon": -83.3896422,
+  "tags": {
+    "ele": "1895.27",
+    "gnis:feature_id": "1023663",
+    "name": "Mount Kephart",
+    "natural": "peak",
+    "official_name": "Mount Kephart",
+    "source": "NPS",
+    "wikidata": "Q8524591"
+  }
+},
+{
+  "type": "node",
+  "id": 3645298423,
+  "lat": 35.6093633,
+  "lon": -83.4465428,
+  "tags": {
+    "amenity": "parking",
+    "fee": "yes",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 4639365814,
+  "lat": 35.6948645,
+  "lon": -83.4660121,
+  "tags": {
+    "historic": "farm",
+    "name": "Jim Bales' Place"
+  }
+},
+{
+  "type": "node",
+  "id": 4639365832,
+  "lat": 35.6964822,
+  "lon": -83.4696063,
+  "tags": {
+    "ele": "704",
+    "fixme": "Is this the exact location, because there is something of the same name just Southeast.",
+    "gnis:feature_id": "1315023",
+    "historic": "house",
+    "name": "EEphraim Reagan's Place",
+    "wikipedia": "en:Roaring Fork (Great Smoky Mountains)"
+  }
+},
+{
+  "type": "node",
+  "id": 4639365895,
+  "lat": 35.6973738,
+  "lon": -83.4696666,
+  "tags": {
+    "fixme": "Is this the exact location?",
+    "historic": "house",
+    "name": "Alfred Reagan's Place",
+    "wikidata": "Q7339861",
+    "wikipedia": "en:Roaring Fork (Great Smoky Mountains)"
+  }
+},
+{
+  "type": "node",
+  "id": 5065372156,
+  "lat": 35.7077784,
+  "lon": -83.3799547,
+  "tags": {
+    "highway": "trailhead",
+    "information": "guidepost",
+    "operator": "Old Settlers Trail - trailhead",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 5065374458,
+  "lat": 35.7045630,
+  "lon": -83.3855755,
+  "tags": {
+    "amenity": "parking",
+    "capacity": "2"
+  }
+},
+{
+  "type": "node",
+  "id": 5065374459,
+  "lat": 35.7075603,
+  "lon": -83.3815030,
+  "tags": {
+    "amenity": "parking",
+    "capacity": "2"
+  }
+},
+{
+  "type": "node",
+  "id": 5067105231,
+  "lat": 35.7475996,
+  "lon": -83.4506261,
+  "tags": {
+    "board_type": "map",
+    "information": "board",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 5071918694,
+  "lat": 35.7295919,
+  "lon": -83.4518968,
+  "tags": {
+    "highway": "trailhead",
+    "name": "Little-Big Dudley Trailhead"
+  }
+},
+{
+  "type": "node",
+  "id": 5087327834,
+  "lat": 35.6834614,
+  "lon": -83.4903395,
+  "tags": {
+    "highway": "trailhead",
+    "information": "guidepost",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 5087352233,
+  "lat": 35.7026588,
+  "lon": -83.3574966,
+  "tags": {
+    "highway": "trailhead",
+    "information": "guidepost",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 5659680741,
+  "lat": 35.6263082,
+  "lon": -83.4780310,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5659682206,
+  "lat": 35.5944954,
+  "lon": -83.4134882,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6090880540,
+  "lat": 35.6251079,
+  "lon": -83.4703460,
+  "tags": {
+    "information": "guidepost",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 6904172977,
+  "lat": 35.6550864,
+  "lon": -83.4422708,
+  "tags": {
+    "information": "guidepost",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 7644249124,
+  "lat": 35.7170059,
+  "lon": -83.4912350,
+  "tags": {
+    "leisure": "pitch",
+    "sport": "shuffleboard"
+  }
+},
+{
+  "type": "node",
+  "id": 8931112929,
+  "lat": 35.6575813,
+  "lon": -83.5120850,
+  "tags": {
+    "description": "Located in the southern vicinity of the Sugarlands in the Great Smoky Mountains National Park are the well hidden remains of a stone dwelling.",
+    "historic": "ruins",
+    "name": "Sugarlands Stone Cabin",
+    "website": "http://www.wildlifesouth.com/Locations/Tennessee/Sugarlands_Stone_Cabin_Ruins.html"
+  }
+},
+{
+  "type": "node",
+  "id": 8978585154,
+  "lat": 35.6879702,
+  "lon": -83.5381621,
+  "tags": {
+    "highway": "trailhead",
+    "name": "Cove Mountain Trail Trailhead",
+    "operator": "National Park Service"
+  }
+},
+{
+  "type": "node",
+  "id": 9004508284,
+  "lat": 35.6109802,
+  "lon": -83.4248663,
+  "tags": {
+    "highway": "trailhead",
+    "name": "Appalachian Trail Trailhead",
+    "operator": "National Park Service"
+  }
+},
+{
+  "type": "node",
+  "id": 9004568522,
+  "lat": 35.6110850,
+  "lon": -83.4246327,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "plaque"
+  }
+},
+{
+  "type": "node",
+  "id": 9020238520,
+  "lat": 35.5999059,
+  "lon": -83.4740983,
+  "tags": {
+    "name": "Sugarland Mountain",
+    "natural": "peak"
+  }
+},
+{
+  "type": "node",
+  "id": 9029287225,
+  "lat": 35.5947459,
+  "lon": -83.4156094,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 9029287249,
+  "lat": 35.5980309,
+  "lon": -83.4211762,
+  "tags": {
+    "name": "Deep Creek Valley Overlook #1",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 9029287250,
+  "lat": 35.5947476,
+  "lon": -83.4165642,
+  "tags": {
+    "name": "Deep Creek Valley Overlook #2",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 9029287251,
+  "lat": 35.5993276,
+  "lon": -83.4225539,
+  "tags": {
+    "highway": "trailhead",
+    "name": "Deep Creek Trailhead",
+    "operator": "National Park Service"
+  }
+},
+{
+  "type": "node",
+  "id": 9050622759,
+  "lat": 35.6791217,
+  "lon": -83.4883100,
+  "tags": {
+    "amenity": "parking",
+    "parking": "surface"
+  }
+},
+{
+  "type": "node",
+  "id": 9050622782,
+  "lat": 35.7009725,
+  "lon": -83.5112429,
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "fee": "no",
+    "parking": "surface"
+  }
+},
+{
+  "type": "node",
+  "id": 9050650538,
+  "lat": 35.7060904,
+  "lon": -83.5237791,
+  "tags": {
+    "highway": "trailhead",
+    "name": "Gatlinburg Trail Trailhead",
+    "operator": "National Park Service"
+  }
+},
+{
+  "type": "node",
+  "id": 9053232445,
+  "lat": 35.6784189,
+  "lon": -83.4715574,
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "fee": "no",
+    "parking": "surface"
+  }
+},
+{
+  "type": "node",
+  "id": 9053232457,
+  "lat": 35.6776879,
+  "lon": -83.4780448,
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "fee": "no",
+    "parking": "surface"
+  }
+},
+{
+  "type": "node",
+  "id": 9053232458,
+  "lat": 35.6774712,
+  "lon": -83.4784944,
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "fee": "no",
+    "parking": "surface"
+  }
+},
+{
+  "type": "node",
+  "id": 9053232459,
+  "lat": 35.6810468,
+  "lon": -83.4842726,
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "fee": "no",
+    "parking": "surface"
+  }
+},
+{
+  "type": "node",
+  "id": 9053232460,
+  "lat": 35.6774921,
+  "lon": -83.4822830,
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "fee": "no",
+    "parking": "surface"
+  }
+},
+{
+  "type": "node",
+  "id": 9053232461,
+  "lat": 35.6768654,
+  "lon": -83.4831956,
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "fee": "no",
+    "parking": "surface"
+  }
+},
+{
+  "type": "node",
+  "id": 9053232462,
+  "lat": 35.6766607,
+  "lon": -83.4837987,
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "fee": "no",
+    "parking": "surface"
+  }
+},
+{
+  "type": "node",
+  "id": 9053232466,
+  "lat": 35.6763458,
+  "lon": -83.4849170,
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "fee": "no",
+    "parking": "surface"
+  }
+},
+{
+  "type": "node",
+  "id": 9055869453,
+  "lat": 35.6959501,
+  "lon": -83.4687290,
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "fee": "no",
+    "parking": "surface"
+  }
+},
+{
+  "type": "node",
+  "id": 9055869454,
+  "lat": 35.6950983,
+  "lon": -83.4674663,
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "fee": "no",
+    "parking": "surface"
+  }
+},
+{
+  "type": "node",
+  "id": 9055869455,
+  "lat": 35.6950538,
+  "lon": -83.4668816,
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "fee": "no",
+    "parking": "surface"
+  }
+},
+{
+  "type": "node",
+  "id": 9055869456,
+  "lat": 35.6947827,
+  "lon": -83.4665998,
+  "tags": {
+    "highway": "trailhead",
+    "information": "guidepost",
+    "name": "Grapeyard Ridge Trailhead",
+    "operator": "Grapeyard Ridge Trail - West Traiilhead",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 9055869468,
+  "lat": 35.6899838,
+  "lon": -83.4631422,
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "fee": "no",
+    "parking": "surface"
+  }
+},
+{
+  "type": "node",
+  "id": 9055869471,
+  "lat": 35.6860241,
+  "lon": -83.4617880,
+  "tags": {
+    "amenity": "parking",
+    "parking": "surface"
+  }
+},
+{
+  "type": "node",
+  "id": 9055869472,
+  "lat": 35.6827316,
+  "lon": -83.4613526,
+  "tags": {
+    "amenity": "parking",
+    "parking": "surface"
+  }
+},
+{
+  "type": "node",
+  "id": 9055869473,
+  "lat": 35.6816214,
+  "lon": -83.4624626,
+  "tags": {
+    "amenity": "parking",
+    "parking": "surface"
+  }
+},
+{
+  "type": "node",
+  "id": 9055869474,
+  "lat": 35.6812610,
+  "lon": -83.4624382,
+  "tags": {
+    "amenity": "parking",
+    "parking": "surface"
+  }
+},
+{
+  "type": "node",
+  "id": 9055869475,
+  "lat": 35.6810050,
+  "lon": -83.4624605,
+  "tags": {
+    "amenity": "parking",
+    "parking": "surface"
+  }
+},
+{
+  "type": "node",
+  "id": 9061104708,
+  "lat": 35.7115160,
+  "lon": -83.4828690,
+  "tags": {
+    "amenity": "parking",
+    "parking": "surface"
+  }
+},
+{
+  "type": "node",
+  "id": 9061104714,
+  "lat": 35.7096622,
+  "lon": -83.4735787,
+  "tags": {
+    "amenity": "parking",
+    "parking": "surface"
+  }
+},
+{
+  "type": "node",
+  "id": 9061108624,
+  "lat": 35.7026133,
+  "lon": -83.4702318,
+  "tags": {
+    "amenity": "parking",
+    "name": "Alfred Regan Place Parking C",
+    "official_name": "Alfred Regan Place Parking C",
+    "parking": "surface",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 9061108627,
+  "lat": 35.7020403,
+  "lon": -83.4704555,
+  "tags": {
+    "amenity": "parking",
+    "name": "Alfred Regan Place Parking A",
+    "official_name": "Alfred Regan Place Parking A",
+    "parking": "surface",
+    "source": "NPS"
+  }
+},
+{
+  "type": "node",
+  "id": 9061108628,
+  "lat": 35.7010581,
+  "lon": -83.4709873,
+  "tags": {
+    "amenity": "parking",
+    "parking": "surface"
+  }
+},
+{
+  "type": "node",
+  "id": 9061108629,
+  "lat": 35.7007953,
+  "lon": -83.4712936,
+  "tags": {
+    "amenity": "parking",
+    "parking": "surface"
+  }
+},
+{
+  "type": "node",
+  "id": 9061108635,
+  "lat": 35.6977537,
+  "lon": -83.4699295,
+  "tags": {
+    "amenity": "parking",
+    "parking": "surface"
+  }
+},
+{
+  "type": "node",
+  "id": 9657044706,
+  "lat": 35.7099266,
+  "lon": -83.5044980,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 9657074448,
+  "lat": 35.7103683,
+  "lon": -83.5057346,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 9662017709,
+  "lat": 35.7105349,
+  "lon": -83.5190382,
+  "tags": {
+    "addr:city": "Gatlinburg",
+    "addr:housenumber": "914",
+    "addr:postcode": "37738",
+    "addr:state": "TN",
+    "addr:street": "Parkway",
+    "fee": "yes",
+    "museum": "transport",
+    "name": "Hollywood Star Cars Museum",
+    "opening_hours": "Mo-Su 09:00-21:00",
+    "phone": "+1-865-430-7900",
+    "tourism": "museum",
+    "website": "https://www.starcarstn.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 9662022290,
+  "lat": 35.7134831,
+  "lon": -83.5179301,
+  "tags": {
+    "name": "Mysterious Mansion",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9902312820,
+  "lat": 35.7118583,
+  "lon": -83.5131641,
+  "tags": {
+    "amenity": "shelter",
+    "shelter_type": "gazebo"
+  }
+},
+{
+  "type": "node",
+  "id": 10144863320,
+  "lat": 35.7129653,
+  "lon": -83.5143592,
+  "tags": {
+    "name": "Breakout",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 10145120087,
+  "lat": 35.7261761,
+  "lon": -83.5126084,
+  "tags": {
+    "historic": "monument"
+  }
+},
+{
+  "type": "node",
+  "id": 10650859244,
+  "lat": 35.7236840,
+  "lon": -83.5093376,
+  "tags": {
+    "addr:housenumber": "188",
+    "addr:postcode": "37738",
+    "addr:street": "Parkway",
+    "name": "Ripley's Davy Crockett Mini-Golf",
+    "phone": "+1-865-430-8851",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 11038145130,
+  "lat": 35.7621251,
+  "lon": -83.3999871,
+  "tags": {
+    "access": "yes",
+    "description": "Site with stone benches around a tree, small garden, and a very small artificial pond.",
+    "tourism": "picnic_site"
+  }
+},
+{
+  "type": "node",
+  "id": 11979171128,
+  "lat": 35.6967862,
+  "lon": -83.3882187,
+  "tags": {
+    "access": "yes",
+    "highway": "trailhead",
+    "name": "Porters Creek Trail",
+    "operator": "National Park Service"
+  }
+},
+{
+  "type": "node",
+  "id": 11979171129,
+  "lat": 35.7077448,
+  "lon": -83.3800194,
+  "tags": {
+    "access": "yes",
+    "highway": "trailhead",
+    "name": "Old Settlers Trailhead",
+    "operator": "National Park Service"
+  }
+},
+{
+  "type": "node",
+  "id": 12034049213,
+  "lat": 35.7149384,
+  "lon": -83.5126396,
+  "tags": {
+    "amenity": "parking",
+    "parking": "surface"
+  }
+},
+{
+  "type": "node",
+  "id": 12107504331,
+  "lat": 35.6109071,
+  "lon": -83.4255603,
+  "tags": {
+    "historic": "memorial",
+    "information": "his",
+    "memorial": "plaque"
+  }
+},
+{
+  "type": "node",
+  "id": 12156857529,
+  "lat": 35.6374940,
+  "lon": -83.3765511,
+  "tags": {
+    "ele": "1685",
+    "name": "Charlies Bunyon",
+    "natural": "peak"
+  }
+},
+{
+  "type": "node",
+  "id": 12456923274,
+  "lat": 35.6980257,
+  "lon": -83.5286656,
+  "tags": {
+    "historic": "ruins"
+  }
+},
+{
+  "type": "node",
+  "id": 12697058565,
+  "lat": 35.6170515,
+  "lon": -83.4226513,
+  "tags": {
+    "name": "Ben Morton Overlook",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12909622441,
+  "lat": 35.7450014,
+  "lon": -83.4282968,
+  "tags": {
+    "board_type": "hiking",
+    "information": "board",
+    "name": "Nature Trail Map",
+    "operator": "Buckhorn Inn",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 13101633318,
+  "lat": 35.7336265,
+  "lon": -83.4484781,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 13101633319,
+  "lat": 35.7329058,
+  "lon": -83.4470559,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 13121684442,
+  "lat": 35.7009431,
+  "lon": -83.5112465,
+  "tags": {
+    "highway": "trailhead",
+    "name": "Twin Creeks Trail Trailhead",
+    "operator": "National Park Service"
+  }
+},
+{
+  "type": "node",
+  "id": 13121955629,
+  "lat": 35.5903373,
+  "lon": -83.4694510,
+  "tags": {
+    "highway": "trailhead",
+    "name": "Fork Ridge Trail Trailhead",
+    "operator": "National Park Service"
+  }
+},
+{
+  "type": "node",
+  "id": 13191319214,
+  "lat": 35.7011552,
+  "lon": -83.5162287,
+  "tags": {
+    "leisure": "pitch",
+    "name": "Don Watson Tennis Center"
+  }
+},
+{
+  "type": "node",
+  "id": 13206740137,
+  "lat": 35.5882598,
+  "lon": -83.4054378,
+  "tags": {
+    "board_type": "history",
+    "information": "board",
+    "name": "Measure of Men",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 13206740138,
+  "lat": 35.5884844,
+  "lon": -83.4055328,
+  "tags": {
+    "name": "Charles A Webb Overlook",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 13207119109,
+  "lat": 35.6075272,
+  "lon": -83.4361281,
+  "tags": {
+    "board_type": "plants",
+    "information": "board",
+    "name": "Hardwood Below, Evergreen Above",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 13675862147,
+  "lat": 35.6632545,
+  "lon": -83.5265396,
+  "tags": {
+    "highway": "trailhead",
+    "name": "Husky Gap Trailhead",
+    "operator": "National Park Service"
+  }
+},
+{
+  "type": "node",
+  "id": 13973279395,
+  "lat": 35.7100854,
+  "lon": -83.5035067,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 13973630256,
+  "lat": 35.7100227,
+  "lon": -83.5045562,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 13973630325,
+  "lat": 35.7106451,
+  "lon": -83.5030535,
+  "tags": {
+    "attraction": "slide",
+    "name": "Birdventure",
+    "operator": "Anakeesta",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 13979082919,
+  "lat": 35.7200774,
+  "lon": -83.5098672,
+  "tags": {
+    "addr:city": "Gatlinburg",
+    "addr:housenumber": "306",
+    "addr:postcode": "37738",
+    "addr:state": "TN",
+    "addr:street": "Parkway",
+    "attraction": "alpine_coaster",
+    "name": "Moonshine Mountain Coaster",
+    "opening_hours": "Su-Sa 10:00-23:00",
+    "tourism": "attraction",
+    "website": "https://www.moonshinemountaincoaster.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 13988688302,
+  "lat": 35.7167065,
+  "lon": -83.5206432,
+  "tags": {
+    "man_made": "tower",
+    "name": "Tulip Tower",
+    "tourism": "attraction",
+    "tower:construction": "freestanding",
+    "tower:type": "observation"
+  }
+},
+{
+  "type": "node",
+  "id": 13992773430,
+  "lat": 35.7151771,
+  "lon": -83.5200485,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 14041481101,
+  "lat": 35.6076469,
+  "lon": -83.4362082,
+  "tags": {
+    "name": "Luftee Overlook",
+    "name:nl": "Luftee Uitzichtpunt",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 14058826390,
+  "lat": 35.5861729,
+  "lon": -83.4728970,
+  "tags": {
+    "name": "Mount Collins Viewpoint",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 14075411002,
+  "lat": 35.6263749,
+  "lon": -83.4781326,
+  "tags": {
+    "name": "Chimney point",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 14166806102,
+  "lat": 35.6361330,
+  "lon": -83.4423800,
+  "tags": {
+    "check_date": "2026-09-09",
+    "name": "Inspiration Point",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "way",
+  "id": 19605462,
+  "center": {
+    "lat": 35.6602390,
+    "lon": -83.5209769
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Carlos Campbell (north)",
+    "official_name": "Carlos Campbell (north)",
+    "parking": "surface",
+    "source": "NPS",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 19605477,
+  "center": {
+    "lat": 35.6460103,
+    "lon": -83.5102514
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Quiet Walkway Parking # 4",
+    "official_name": "Quiet Walkway Parking # 4",
+    "parking": "surface",
+    "source": "NPS",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 167457336,
+  "center": {
+    "lat": 35.5779226,
+    "lon": -83.4799218
+  },
+  "tags": {
+    "amenity": "parking",
+    "fee": "yes",
+    "name": "Clingmans Dome Road Parking #1",
+    "parking": "surface",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 167457735,
+  "center": {
+    "lat": 35.6106257,
+    "lon": -83.4257640
+  },
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "capacity": "150+",
+    "fee": "yes",
+    "parking": "surface",
+    "source": "NPS",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 222398817,
+  "center": {
+    "lat": 35.6889301,
+    "lon": -83.5378606
+  },
+  "tags": {
+    "amenity": "ranger_station",
+    "building": "yes",
+    "name": "Little River Ranger Station",
+    "official_name": "Little River Ranger Station",
+    "source": "NPS"
+  }
+},
+{
+  "type": "way",
+  "id": 222398827,
+  "center": {
+    "lat": 35.6856478,
+    "lon": -83.5365448
+  },
+  "tags": {
+    "building": "yes",
+    "information": "office",
+    "mobile_reception": "yes",
+    "mobile_reception:strength": "good",
+    "name": "Sugarlands Visitor Center",
+    "official_name": "Sugarlands Visitor Center",
+    "source": "NPS",
+    "tourism": "information",
+    "vending": "drinks",
+    "wikidata": "Q36012589"
+  }
+},
+{
+  "type": "way",
+  "id": 226158263,
+  "center": {
+    "lat": 35.6949457,
+    "lon": -83.4662618
+  },
+  "tags": {
+    "building": "cabin",
+    "historic": "yes",
+    "name": "Alex Cole Cabin",
+    "official_name": "Alex Cole Cabin",
+    "source": "NPS"
+  }
+},
+{
+  "type": "way",
+  "id": 226158265,
+  "center": {
+    "lat": 35.7026019,
+    "lon": -83.4712185
+  },
+  "tags": {
+    "building": "cabin",
+    "gnis:feature_id": "1314577",
+    "historic": "yes",
+    "name": "Alf Reagan House",
+    "official_name": "Alf Reagan House",
+    "source": "NPS"
+  }
+},
+{
+  "type": "way",
+  "id": 226158267,
+  "center": {
+    "lat": 35.7022548,
+    "lon": -83.4702240
+  },
+  "tags": {
+    "building": "yes",
+    "historic": "yes",
+    "name": "Alf Reagan Tub Mill",
+    "official_name": "Alf Reagan Tub Mill",
+    "source": "NPS"
+  }
+},
+{
+  "type": "way",
+  "id": 226158281,
+  "center": {
+    "lat": 35.6973121,
+    "lon": -83.4698276
+  },
+  "tags": {
+    "building": "cabin",
+    "historic": "yes",
+    "name": "Ephraim Bales Cabin",
+    "official_name": "Ephraim Bales Cabin",
+    "source": "NPS",
+    "wikidata": "Q97062255"
+  }
+},
+{
+  "type": "way",
+  "id": 226158302,
+  "center": {
+    "lat": 35.6828248,
+    "lon": -83.4897538
+  },
+  "tags": {
+    "building": "cabin",
+    "historic": "yes",
+    "name": "Noah Bud Ogle House",
+    "official_name": "Noah Bud Ogle House",
+    "source": "NPS"
+  }
+},
+{
+  "type": "way",
+  "id": 226158315,
+  "center": {
+    "lat": 35.7073914,
+    "lon": -83.4715274
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Roaring Fork Motor Tour Parking #11",
+    "official_name": "Roaring Fork Motor Tour Parking #11",
+    "parking": "surface",
+    "source": "NPS"
+  }
+},
+{
+  "type": "way",
+  "id": 226158346,
+  "center": {
+    "lat": 35.6875371,
+    "lon": -83.5023547
+  },
+  "tags": {
+    "amenity": "shelter",
+    "building": "yes",
+    "fireplace": "yes",
+    "mobile_reception": "yes",
+    "mobile_reception:strength": "good",
+    "name": "Twin Creeks Picnic Pavilion",
+    "operator": "National Parks Service",
+    "shelter_type": "picnic_shelter"
+  }
+},
+{
+  "type": "way",
+  "id": 226158364,
+  "center": {
+    "lat": 35.6968048,
+    "lon": -83.4699492
+  },
+  "tags": {
+    "barn": "cattle_barn",
+    "building": "barn",
+    "historic": "yes",
+    "source": "NPS"
+  }
+},
+{
+  "type": "way",
+  "id": 226158366,
+  "center": {
+    "lat": 35.6947044,
+    "lon": -83.4657173
+  },
+  "tags": {
+    "building": "barn",
+    "historic": "yes",
+    "name": "Homer / Jim Bales Barn",
+    "official_name": "Homer / Jim Bales Barn",
+    "source": "NPS"
+  }
+},
+{
+  "type": "way",
+  "id": 226158369,
+  "center": {
+    "lat": 35.6969821,
+    "lon": -83.4700134
+  },
+  "tags": {
+    "building": "hog_barn",
+    "historic": "yes",
+    "source": "NPS"
+  }
+},
+{
+  "type": "way",
+  "id": 226158371,
+  "center": {
+    "lat": 35.6947966,
+    "lon": -83.4660926
+  },
+  "tags": {
+    "building": "farm_auxiliary",
+    "historic": "yes",
+    "name": "corn crib",
+    "source": "NPS"
+  }
+},
+{
+  "type": "way",
+  "id": 226158372,
+  "center": {
+    "lat": 35.6971479,
+    "lon": -83.4696244
+  },
+  "tags": {
+    "building": "farm_auxiliary",
+    "description": "corn_crib",
+    "historic": "yes",
+    "source": "NPS"
+  }
+},
+{
+  "type": "way",
+  "id": 226158379,
+  "center": {
+    "lat": 35.6823934,
+    "lon": -83.4894872
+  },
+  "tags": {
+    "building": "barn",
+    "historic": "yes",
+    "source": "NPS"
+  }
+},
+{
+  "type": "way",
+  "id": 227445566,
+  "center": {
+    "lat": 35.7036541,
+    "lon": -83.3863941
+  },
+  "tags": {
+    "amenity": "shelter",
+    "building": "roof",
+    "fireplace": "yes",
+    "mobile_reception": "no",
+    "name": "Greenbrier Picnic Pavilion",
+    "shelter_type": "picnic_shelter"
+  }
+},
+{
+  "type": "way",
+  "id": 227445567,
+  "center": {
+    "lat": 35.7295691,
+    "lon": -83.4061631
+  },
+  "tags": {
+    "addr:city": "Gatlinburg",
+    "addr:housenumber": "336",
+    "addr:postcode": "37738",
+    "addr:state": "TN",
+    "addr:street": "Greenbrier Cove",
+    "amenity": "ranger_station",
+    "building": "yes",
+    "name": "Greenbrier Quarters & Ranger Station",
+    "official_name": "Greenbrier Quarters & Ranger Station",
+    "source": "NPS"
+  }
+},
+{
+  "type": "way",
+  "id": 237614156,
+  "center": {
+    "lat": 35.6571498,
+    "lon": -83.5190741
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Balsam Point Quiet Walkway Parking",
+    "official_name": "Balsam Point Quiet Walkway Parking",
+    "parking": "surface",
+    "source": "NPS",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 237614259,
+  "center": {
+    "lat": 35.6110006,
+    "lon": -83.4291609
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Cd Pullout Parking At Mp 0.08",
+    "official_name": "Cd Pullout Parking At Mp 0.08",
+    "parking": "surface",
+    "source": "NPS",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 237614273,
+  "center": {
+    "lat": 35.6349515,
+    "lon": -83.4678262
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Chimney Tops Trailhead Overflow Pullout Parkng",
+    "official_name": "Chimney Tops Trailhead Overflow Pullout Parkng",
+    "parking": "surface",
+    "source": "NPS",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 237614408,
+  "center": {
+    "lat": 35.6298205,
+    "lon": -83.3863279
+  },
+  "tags": {
+    "amenity": "shelter",
+    "backcountry": "yes",
+    "building": "hut",
+    "capacity": "12",
+    "ele": "1804",
+    "fee": "yes",
+    "name": "Icewater Spring Shelter",
+    "official_name": "Icewater Springs Trail Shelter",
+    "reservation": "yes",
+    "shelter_type": "lean_to",
+    "source": "NPS",
+    "tourism": "camp_site"
+  }
+},
+{
+  "type": "way",
+  "id": 237614435,
+  "center": {
+    "lat": 35.6101543,
+    "lon": -83.3685435
+  },
+  "tags": {
+    "amenity": "shelter",
+    "backcountry": "yes",
+    "building": "hut",
+    "capacity": "12",
+    "ele": "1096",
+    "fee": "yes",
+    "horse": "yes",
+    "name": "Kephart Shelter",
+    "official_name": "Kephart Shelter",
+    "reservation": "yes",
+    "shelter_type": "lean_to",
+    "source": "NPS",
+    "tourism": "camp_site"
+  }
+},
+{
+  "type": "way",
+  "id": 237614447,
+  "center": {
+    "lat": 35.6547206,
+    "lon": -83.4413626
+  },
+  "tags": {
+    "building": "yes",
+    "name": "LeConte Lodge",
+    "official_name": "LeConte Lodge",
+    "source": "NPS",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 237614519,
+  "center": {
+    "lat": 35.6177349,
+    "lon": -83.4191941
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Morton Mountain Tunnel North Parking",
+    "official_name": "Morton Mountain Tunnel North Parking",
+    "parking": "surface",
+    "source": "NPS",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 237614520,
+  "center": {
+    "lat": 35.6172990,
+    "lon": -83.4216458
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Morton Overlook Pullout Parking North",
+    "official_name": "Morton Overlook Pullout Parking North",
+    "parking": "surface",
+    "source": "NPS",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 237614521,
+  "center": {
+    "lat": 35.6168965,
+    "lon": -83.4226635
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Morton Overlook Pullout Parking South",
+    "official_name": "Morton Overlook Pullout Parking South",
+    "parking": "surface",
+    "source": "NPS",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 237614524,
+  "center": {
+    "lat": 35.5940905,
+    "lon": -83.4710611
+  },
+  "tags": {
+    "amenity": "shelter",
+    "backcountry": "yes",
+    "building": "hut",
+    "capacity": "12",
+    "ele": "1781",
+    "fee": "yes",
+    "horse": "no",
+    "name": "Mount Collins Shelter",
+    "reservation": "yes",
+    "tourism": "camp_site"
+  }
+},
+{
+  "type": "way",
+  "id": 237614526,
+  "center": {
+    "lat": 35.6531766,
+    "lon": -83.4388507
+  },
+  "tags": {
+    "amenity": "shelter",
+    "backcountry": "yes",
+    "building": "hut",
+    "capacity": "0",
+    "ele": "1968",
+    "fee": "yes",
+    "horse": "no",
+    "name": "Mount LeConte Shelter",
+    "official_name": "Mount Leconte Shelter",
+    "reservation": "yes",
+    "shelter_type": "lean_to",
+    "source": "NPS",
+    "tourism": "camp_site"
+  }
+},
+{
+  "type": "way",
+  "id": 237614540,
+  "center": {
+    "lat": 35.6148622,
+    "lon": -83.4235408
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Nfg Pullout Parking @ 14.407",
+    "official_name": "Nfg Pullout Parking @ 14.407",
+    "parking": "surface",
+    "source": "NPS",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 237614541,
+  "center": {
+    "lat": 35.6546738,
+    "lon": -83.5166775
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Nfg Pullout Parking @ Mp 4.283",
+    "official_name": "Nfg Pullout Parking @ Mp 4.283",
+    "parking": "surface",
+    "source": "NPS",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 237614542,
+  "center": {
+    "lat": 35.6258430,
+    "lon": -83.4483464
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Nfg Pullout Parking @ Mp 10.709",
+    "official_name": "Nfg Pullout Parking @ Mp 10.709",
+    "parking": "surface",
+    "source": "NPS",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 237614543,
+  "center": {
+    "lat": 35.6215505,
+    "lon": -83.4388805
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Nfg Pullout Parking @ Mp 11.388",
+    "official_name": "Nfg Pullout Parking @ Mp 11.388",
+    "parking": "surface",
+    "source": "NPS",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 237614544,
+  "center": {
+    "lat": 35.6158934,
+    "lon": -83.4244669
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Nfg Pullout Parking @ Mp 14.214",
+    "official_name": "Nfg Pullout Parking @ Mp 14.214",
+    "parking": "surface",
+    "source": "NPS",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 237614545,
+  "center": {
+    "lat": 35.6116419,
+    "lon": -83.4264828
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Nfg Pullout Parking @ Mp 14.866",
+    "official_name": "Nfg Pullout Parking @ Mp 14.866",
+    "parking": "surface",
+    "source": "NPS",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 237614548,
+  "center": {
+    "lat": 35.6311654,
+    "lon": -83.4554558
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Nfg Pullout Parking At Mp 10.18",
+    "official_name": "Nfg Pullout Parking At Mp 10.18",
+    "parking": "surface",
+    "source": "NPS",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 237614549,
+  "center": {
+    "lat": 35.6231507,
+    "lon": -83.4433957
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Nfg Pullout Parking At Mp 11.08",
+    "official_name": "Nfg Pullout Parking At Mp 11.08",
+    "parking": "surface",
+    "source": "NPS",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 237614550,
+  "center": {
+    "lat": 35.6223932,
+    "lon": -83.4417885
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Nfg Pullout Parking At Mp 11.22",
+    "official_name": "Nfg Pullout Parking At Mp 11.22",
+    "parking": "surface",
+    "source": "NPS",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 237614552,
+  "center": {
+    "lat": 35.6212416,
+    "lon": -83.4384827
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Nfg Pullout Parking At Mp 11.43",
+    "official_name": "Nfg Pullout Parking At Mp 11.43",
+    "parking": "surface",
+    "source": "NPS",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 237614553,
+  "center": {
+    "lat": 35.6196295,
+    "lon": -83.4257893
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Nfg Pullout Parking At Mp 12.26",
+    "official_name": "Nfg Pullout Parking At Mp 12.26",
+    "parking": "surface",
+    "source": "NPS",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 237614554,
+  "center": {
+    "lat": 35.6203242,
+    "lon": -83.4247582
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Nfg Pullout Parking At Mp 12.35",
+    "official_name": "Nfg Pullout Parking At Mp 12.35",
+    "parking": "surface",
+    "source": "NPS",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 237614555,
+  "center": {
+    "lat": 35.6211974,
+    "lon": -83.4235803
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Nfg Pullout Parking At Mp 12.44",
+    "official_name": "Nfg Pullout Parking At Mp 12.44",
+    "parking": "surface",
+    "source": "NPS",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 237614556,
+  "center": {
+    "lat": 35.6242764,
+    "lon": -83.4207383
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Nfg Pullout Parking At Mp 12.72",
+    "official_name": "Nfg Pullout Parking At Mp 12.72",
+    "parking": "surface",
+    "source": "NPS",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 237614557,
+  "center": {
+    "lat": 35.6243814,
+    "lon": -83.4204160
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Nfg Pullout Parking At Mp 12.74",
+    "official_name": "Nfg Pullout Parking At Mp 12.74",
+    "parking": "surface",
+    "source": "NPS",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 237614558,
+  "center": {
+    "lat": 35.6243693,
+    "lon": -83.4173474
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Nfg Pullout Parking At Mp 12.96",
+    "official_name": "Nfg Pullout Parking At Mp 12.96",
+    "parking": "surface",
+    "source": "NPS",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 237614559,
+  "center": {
+    "lat": 35.6242607,
+    "lon": -83.4171899
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Nfg Pullout Parking At Mp 12.98",
+    "official_name": "Nfg Pullout Parking At Mp 12.98",
+    "parking": "surface",
+    "source": "NPS",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 237614560,
+  "center": {
+    "lat": 35.6228130,
+    "lon": -83.4199682
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Nfg Pullout Parking At Mp 13.27",
+    "official_name": "Nfg Pullout Parking At Mp 13.27",
+    "parking": "surface",
+    "source": "NPS",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 237614561,
+  "center": {
+    "lat": 35.6195896,
+    "lon": -83.4205600
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Nfg Pullout Parking At Mp 13.68",
+    "official_name": "Nfg Pullout Parking At Mp 13.68",
+    "parking": "surface",
+    "source": "NPS",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 237614573,
+  "center": {
+    "lat": 35.6499594,
+    "lon": -83.5128943
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Nfg Pullout Parking At Mp 4.7",
+    "official_name": "Nfg Pullout Parking At Mp 4.7",
+    "parking": "surface",
+    "source": "NPS",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 237614574,
+  "center": {
+    "lat": 35.6429743,
+    "lon": -83.5061357
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Nfg Pullout Parking At Mp 5.3",
+    "official_name": "Nfg Pullout Parking At Mp 5.3",
+    "parking": "surface",
+    "source": "NPS"
+  }
+},
+{
+  "type": "way",
+  "id": 237614575,
+  "center": {
+    "lat": 35.6386667,
+    "lon": -83.4952772
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Nfg Pullout Parking At Mp 6.38",
+    "official_name": "Nfg Pullout Parking At Mp 6.38",
+    "parking": "surface",
+    "source": "NPS",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 237614576,
+  "center": {
+    "lat": 35.6401880,
+    "lon": -83.4958654
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Nfg Pullout Parking At Mp 6.49",
+    "official_name": "Nfg Pullout Parking At Mp 6.49",
+    "parking": "surface",
+    "source": "NPS",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 237614577,
+  "center": {
+    "lat": 35.6399250,
+    "lon": -83.4948017
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Nfg Pullout Parking At Mp 6.9",
+    "official_name": "Nfg Pullout Parking At Mp 6.9",
+    "parking": "surface",
+    "source": "NPS",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 237614578,
+  "center": {
+    "lat": 35.6389706,
+    "lon": -83.4945197
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Nfg Pullout Parking At Mp 7.05",
+    "official_name": "Nfg Pullout Parking At Mp 7.05",
+    "parking": "surface",
+    "source": "NPS",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 237614579,
+  "center": {
+    "lat": 35.6387320,
+    "lon": -83.4939975
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Nfg Pullout Parking At Mp 7.09",
+    "official_name": "Nfg Pullout Parking At Mp 7.09",
+    "parking": "surface",
+    "source": "NPS",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 237614580,
+  "center": {
+    "lat": 35.6386086,
+    "lon": -83.4918342
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Nfg Pullout Parking At Mp 7.21",
+    "official_name": "Nfg Pullout Parking At Mp 7.21",
+    "parking": "surface",
+    "source": "NPS",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 237614581,
+  "center": {
+    "lat": 35.6387446,
+    "lon": -83.4903805
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Nfg Pullout Parking At Mp 7.29",
+    "official_name": "Nfg Pullout Parking At Mp 7.29",
+    "parking": "surface",
+    "source": "NPS",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 237614582,
+  "center": {
+    "lat": 35.6386809,
+    "lon": -83.4876507
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Nfg Pullout Parking At Mp 7.45",
+    "official_name": "Nfg Pullout Parking At Mp 7.45",
+    "parking": "surface",
+    "source": "NPS",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 237614583,
+  "center": {
+    "lat": 35.6393069,
+    "lon": -83.4852230
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Nfg Pullout Parking At Mp 7.6",
+    "official_name": "Nfg Pullout Parking At Mp 7.6",
+    "parking": "surface",
+    "source": "NPS",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 237614584,
+  "center": {
+    "lat": 35.6384712,
+    "lon": -83.4741830
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Nfg Pullout Parking At Mp 8.34",
+    "official_name": "Nfg Pullout Parking At Mp 8.34",
+    "parking": "surface",
+    "source": "NPS",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 237614585,
+  "center": {
+    "lat": 35.6367651,
+    "lon": -83.4635207
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Nfg Pullout Parking At Mp 9.39",
+    "official_name": "Nfg Pullout Parking At Mp 9.39",
+    "parking": "surface",
+    "source": "NPS",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 237614586,
+  "center": {
+    "lat": 35.6365799,
+    "lon": -83.4624702
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Nfg Pullout Parking At Mp 9.48",
+    "official_name": "Nfg Pullout Parking At Mp 9.48",
+    "parking": "surface",
+    "source": "NPS",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 237614587,
+  "center": {
+    "lat": 35.6325140,
+    "lon": -83.4611388
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Nfg Pullout Parking At Mp 9.78",
+    "official_name": "Nfg Pullout Parking At Mp 9.78",
+    "parking": "surface",
+    "source": "NPS",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 237614654,
+  "center": {
+    "lat": 35.6186987,
+    "lon": -83.4288589
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Pullout Parking At Mp 11.88",
+    "official_name": "Pullout Parking At Mp 11.88",
+    "parking": "surface",
+    "source": "NPS",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 237614655,
+  "center": {
+    "lat": 35.6411332,
+    "lon": -83.4822731
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Pullout Parking At Mp 7.72",
+    "official_name": "Pullout Parking At Mp 7.72",
+    "parking": "surface",
+    "source": "NPS",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 237614656,
+  "center": {
+    "lat": 35.6827386,
+    "lon": -83.5338565
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Pullout Parking At Route 0013 Intersection",
+    "official_name": "Pullout Parking At Route 0013 Intersection",
+    "parking": "surface",
+    "source": "NPS"
+  }
+},
+{
+  "type": "way",
+  "id": 237614964,
+  "center": {
+    "lat": 35.6386528,
+    "lon": -83.4930169
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "The Chimney Tops Pullout Parking",
+    "official_name": "The Chimney Tops Pullout Parking",
+    "parking": "surface",
+    "source": "NPS",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 237614992,
+  "center": {
+    "lat": 35.6338843,
+    "lon": -83.4615502
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Walker Camp Prong Parking",
+    "official_name": "Walker Camp Prong Parking",
+    "parking": "surface",
+    "source": "NPS",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 263705692,
+  "center": {
+    "lat": 35.7139910,
+    "lon": -83.5099537
+  },
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "building": "parking",
+    "fee": "yes",
+    "name": "Public Parking Garage",
+    "parking": "multi-storey"
+  }
+},
+{
+  "type": "way",
+  "id": 263705701,
+  "center": {
+    "lat": 35.7149150,
+    "lon": -83.5136275
+  },
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "building": "yes",
+    "fee": "yes",
+    "parking": "multi-storey"
+  }
+},
+{
+  "type": "way",
+  "id": 263705704,
+  "center": {
+    "lat": 35.7131519,
+    "lon": -83.5142375
+  },
+  "tags": {
+    "addr:housenumber": "623",
+    "addr:street": "Parkway",
+    "building": "retail",
+    "name": "Ripley's Marvelous Mirror Maze",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 263705712,
+  "center": {
+    "lat": 35.7112251,
+    "lon": -83.5183691
+  },
+  "tags": {
+    "addr:city": "Gatlinburg",
+    "addr:housenumber": "800",
+    "addr:postcode": "37738",
+    "addr:state": "TN",
+    "addr:street": "Parkway",
+    "building": "commercial",
+    "museum": "technology",
+    "name": "Ripley's Believe It Or Not!",
+    "opening_hours": "Su-Th 09:00-22:00; Fr-Sa 09:00-23:00",
+    "operator": "Ripley's",
+    "tourism": "museum",
+    "website": "https://www.ripleys.com/attractions/ripleys-believe-it-or-not-gatlinburg",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 263858013,
+  "center": {
+    "lat": 35.7147201,
+    "lon": -83.5107137
+  },
+  "tags": {
+    "addr:city": "Gatlinburg",
+    "addr:housenumber": "467",
+    "addr:postcode": "37738",
+    "addr:state": "TN",
+    "addr:street": "Parkway",
+    "building": "museum",
+    "fee": "yes",
+    "museum": "transport",
+    "name": "Speedwerkz Exotic Car Experience",
+    "opening_hours": "Mo-Su 10:00-20:00",
+    "tourism": "museum",
+    "website": "https://www.speedwerkz.com/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 263858029,
+  "center": {
+    "lat": 35.7159555,
+    "lon": -83.5114165
+  },
+  "tags": {
+    "access": "customers",
+    "amenity": "parking",
+    "fee": "yes",
+    "name": "Public Parking",
+    "parking": "surface"
+  }
+},
+{
+  "type": "way",
+  "id": 263858038,
+  "center": {
+    "lat": 35.7132413,
+    "lon": -83.5112980
+  },
+  "tags": {
+    "addr:city": "Gatlinburg",
+    "addr:housenumber": "542",
+    "addr:postcode": "37738",
+    "addr:state": "TN",
+    "addr:street": "Parkway",
+    "alt_name": "Cooter's Place",
+    "alt_name_1": "Cooter’s Gatlinburg",
+    "building": "retail",
+    "contact:website": "http://www.cootersplace.com/museum/gatlinburg/",
+    "name": "Ripley's Super Fun Zone",
+    "official_name": "Cooter’s Museum and Store Gatlinburg",
+    "phone": "+1-865-430-9909",
+    "tourism": "attraction",
+    "website": "http://www.cootersplace.com/museum/gatlinburg/"
+  }
+},
+{
+  "type": "way",
+  "id": 263859664,
+  "center": {
+    "lat": 35.7123492,
+    "lon": -83.5154103
+  },
+  "tags": {
+    "addr:city": "Gatlinburg",
+    "addr:housenumber": "656",
+    "addr:postcode": "37738",
+    "addr:state": "TN",
+    "addr:street": "Parkway",
+    "building": "retail",
+    "name": "Fannie Farkie's Family Fun Parlor",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 263859670,
+  "center": {
+    "lat": 35.7120784,
+    "lon": -83.5164942
+  },
+  "tags": {
+    "building": "retail",
+    "name": "Ghostly Adventure Motion Theater",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 263859672,
+  "center": {
+    "lat": 35.7117493,
+    "lon": -83.5166284
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Fort Fun Family Entertainment Center",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 263859673,
+  "center": {
+    "lat": 35.7116787,
+    "lon": -83.5158761
+  },
+  "tags": {
+    "leisure": "miniature_golf",
+    "name": "Old Gatlinburg Golf & Game",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 279163565,
+  "center": {
+    "lat": 35.7476281,
+    "lon": -83.4160150
+  },
+  "tags": {
+    "bridge": "covered",
+    "bridge:name": "Emerts Cove Covered Bridge",
+    "highway": "residential",
+    "historic": "bridge",
+    "layer": "1",
+    "maxheight": "9'6\"",
+    "maxweight": "6 st",
+    "maxweight:hgv_articulated": "11 st",
+    "name": "Hills Creek Road",
+    "tiger:cfcc": "A41",
+    "tiger:county": "Sevier, TN",
+    "tiger:name_base": "Hills Creek",
+    "tiger:name_type": "Rd",
+    "tiger:reviewed": "no",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 279169910,
+  "center": {
+    "lat": 35.7105441,
+    "lon": -83.5198403
+  },
+  "tags": {
+    "addr:city": "Gatlinburg",
+    "addr:housenumber": "919",
+    "addr:postcode": "37738",
+    "addr:state": "TN",
+    "addr:street": "Parkway",
+    "building": "retail",
+    "name": "Amazing Mirror Maze",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 279169913,
+  "center": {
+    "lat": 35.7102727,
+    "lon": -83.5206346
+  },
+  "tags": {
+    "access": "yes",
+    "addr:housenumber": "955",
+    "addr:street": "Parkway",
+    "amenity": "parking",
+    "building": "parking",
+    "fee": "yes",
+    "name": "Bear Skin Parking Lot",
+    "parking": "multi-storey"
+  }
+},
+{
+  "type": "way",
+  "id": 279169937,
+  "center": {
+    "lat": 35.7066242,
+    "lon": -83.5185228
+  },
+  "tags": {
+    "access": "customers",
+    "amenity": "parking",
+    "building": "parking",
+    "parking": "multi-storey"
+  }
+},
+{
+  "type": "way",
+  "id": 279172555,
+  "center": {
+    "lat": 35.7162327,
+    "lon": -83.5023902
+  },
+  "tags": {
+    "addr:city": "Gatlinburg",
+    "addr:housenumber": "461",
+    "addr:postcode": "37738",
+    "addr:state": "TN",
+    "addr:street": "Brookside Village Way",
+    "check_date:currency:XBT": "2026-02-11",
+    "contact:facebook": "https://www.facebook.com/SPMuseum/wall/",
+    "currency:XBT": "yes",
+    "email": "spmuseumtn@gmail.com",
+    "museum": "attraction",
+    "name": "The Salt and Pepper Shaker Museum;The Salt & Pepper Shaker Museum",
+    "payment:lightning": "yes",
+    "payment:lightning_contactless": "no",
+    "payment:onchain": "no",
+    "phone": "+1-888-778-1802",
+    "tourism": "museum",
+    "website": "https://www.thesaltandpeppershakermuseum.com",
+    "wikidata": "Q55075349"
+  }
+},
+{
+  "type": "way",
+  "id": 294423059,
+  "center": {
+    "lat": 35.6167545,
+    "lon": -83.4202028
+  },
+  "tags": {
+    "amenity": "parking",
+    "parking": "surface"
+  }
+},
+{
+  "type": "way",
+  "id": 302164793,
+  "center": {
+    "lat": 35.6864075,
+    "lon": -83.5365939
+  },
+  "tags": {
+    "landuse": "grass",
+    "source": "NPS"
+  }
+},
+{
+  "type": "way",
+  "id": 302164794,
+  "center": {
+    "lat": 35.6850282,
+    "lon": -83.5360445
+  },
+  "tags": {
+    "landuse": "grass",
+    "source": "NPS"
+  }
+},
+{
+  "type": "way",
+  "id": 329019816,
+  "center": {
+    "lat": 35.7238216,
+    "lon": -83.5087108
+  },
+  "tags": {
+    "amenity": "parking",
+    "parking": "surface"
+  }
+},
+{
+  "type": "way",
+  "id": 329019817,
+  "center": {
+    "lat": 35.7234573,
+    "lon": -83.5086237
+  },
+  "tags": {
+    "amenity": "parking",
+    "parking": "surface"
+  }
+},
+{
+  "type": "way",
+  "id": 329019821,
+  "center": {
+    "lat": 35.7251444,
+    "lon": -83.5100369
+  },
+  "tags": {
+    "access": "customers",
+    "amenity": "parking",
+    "fee": "no",
+    "parking": "surface"
+  }
+},
+{
+  "type": "way",
+  "id": 372357435,
+  "center": {
+    "lat": 35.6076093,
+    "lon": -83.4365040
+  },
+  "tags": {
+    "amenity": "parking",
+    "bus": "yes",
+    "caravan": "yes",
+    "fee": "yes",
+    "motorcar": "no",
+    "parking": "surface",
+    "source": "Bing",
+    "surface": "asphalt",
+    "trailer": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 372357444,
+  "center": {
+    "lat": 35.6075527,
+    "lon": -83.4362091
+  },
+  "tags": {
+    "amenity": "parking",
+    "bus": "no",
+    "caravan": "no",
+    "fee": "yes",
+    "motorcar": "yes",
+    "parking": "surface",
+    "source": "Bing",
+    "surface": "asphalt",
+    "trailer": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 469638155,
+  "center": {
+    "lat": 35.6948035,
+    "lon": -83.4672271
+  },
+  "tags": {
+    "building": "yes",
+    "historic": "building",
+    "name": "Ephraim Reagan's Place",
+    "wikidata": "Q7339861",
+    "wikipedia": "en:Roaring Fork (Great Smoky Mountains)"
+  }
+},
+{
+  "type": "way",
+  "id": 519471980,
+  "center": {
+    "lat": 35.7118307,
+    "lon": -83.3838981
+  },
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "way",
+  "id": 519482714,
+  "center": {
+    "lat": 35.7430218,
+    "lon": -83.4574877
+  },
+  "tags": {
+    "access": "customers",
+    "amenity": "parking",
+    "parking": "surface",
+    "surface": "gravel"
+  }
+},
+{
+  "type": "way",
+  "id": 519482715,
+  "center": {
+    "lat": 35.7433630,
+    "lon": -83.4558154
+  },
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "way",
+  "id": 519482717,
+  "center": {
+    "lat": 35.7433288,
+    "lon": -83.4566380
+  },
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "way",
+  "id": 519486168,
+  "center": {
+    "lat": 35.7437250,
+    "lon": -83.4561184
+  },
+  "tags": {
+    "access": "customers",
+    "amenity": "parking"
+  }
+},
+{
+  "type": "way",
+  "id": 519489182,
+  "center": {
+    "lat": 35.7265596,
+    "lon": -83.4799219
+  },
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "fee": "no",
+    "parking": "surface"
+  }
+},
+{
+  "type": "way",
+  "id": 519489183,
+  "center": {
+    "lat": 35.7254930,
+    "lon": -83.4807323
+  },
+  "tags": {
+    "amenity": "parking",
+    "parking": "surface"
+  }
+},
+{
+  "type": "way",
+  "id": 519490366,
+  "center": {
+    "lat": 35.7213900,
+    "lon": -83.4979296
+  },
+  "tags": {
+    "access": "customers",
+    "amenity": "parking",
+    "parking": "surface"
+  }
+},
+{
+  "type": "way",
+  "id": 519707594,
+  "center": {
+    "lat": 35.7474630,
+    "lon": -83.4501992
+  },
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "way",
+  "id": 519707595,
+  "center": {
+    "lat": 35.7479874,
+    "lon": -83.4509264
+  },
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "way",
+  "id": 519707596,
+  "center": {
+    "lat": 35.7488204,
+    "lon": -83.4497597
+  },
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "way",
+  "id": 520155793,
+  "center": {
+    "lat": 35.6856680,
+    "lon": -83.5373753
+  },
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "fee": "yes",
+    "operator": "Sugarlands Visitor Center Parking B",
+    "parking": "surface"
+  }
+},
+{
+  "type": "way",
+  "id": 520155794,
+  "center": {
+    "lat": 35.6850241,
+    "lon": -83.5361898
+  },
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "fee": "yes",
+    "name": "Sugarlands Visitor Center Parking A",
+    "parking": "surface"
+  }
+},
+{
+  "type": "way",
+  "id": 520155795,
+  "center": {
+    "lat": 35.6852006,
+    "lon": -83.5376766
+  },
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "way",
+  "id": 520155796,
+  "center": {
+    "lat": 35.6859237,
+    "lon": -83.5383490
+  },
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "fee": "yes",
+    "parking": "surface"
+  }
+},
+{
+  "type": "way",
+  "id": 520361102,
+  "center": {
+    "lat": 35.7133124,
+    "lon": -83.5156732
+  },
+  "tags": {
+    "amenity": "parking",
+    "parking": "surface"
+  }
+},
+{
+  "type": "way",
+  "id": 520361103,
+  "center": {
+    "lat": 35.7132441,
+    "lon": -83.5149445
+  },
+  "tags": {
+    "amenity": "parking",
+    "parking": "surface"
+  }
+},
+{
+  "type": "way",
+  "id": 520362791,
+  "center": {
+    "lat": 35.7296163,
+    "lon": -83.4522523
+  },
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "way",
+  "id": 543180213,
+  "center": {
+    "lat": 35.7128730,
+    "lon": -83.5181281
+  },
+  "tags": {
+    "leisure": "pitch",
+    "sport": "tennis"
+  }
+},
+{
+  "type": "way",
+  "id": 543180220,
+  "center": {
+    "lat": 35.7064830,
+    "lon": -83.5538725
+  },
+  "tags": {
+    "leisure": "pitch",
+    "sport": "tennis"
+  }
+},
+{
+  "type": "way",
+  "id": 543180221,
+  "center": {
+    "lat": 35.7064871,
+    "lon": -83.5537150
+  },
+  "tags": {
+    "leisure": "pitch",
+    "sport": "tennis"
+  }
+},
+{
+  "type": "way",
+  "id": 543222527,
+  "center": {
+    "lat": 35.7116878,
+    "lon": -83.5201431
+  },
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "way",
+  "id": 543222543,
+  "center": {
+    "lat": 35.7121721,
+    "lon": -83.5193132
+  },
+  "tags": {
+    "addr:city": "Gatlinburg",
+    "addr:housenumber": "805",
+    "addr:postcode": "37738",
+    "addr:state": "TN",
+    "addr:street": "Parkway",
+    "addr:unit": "1",
+    "amenity": "parking",
+    "building": "parking",
+    "building:levels": "1",
+    "parking": "multi-storey",
+    "roof:levels": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 543222561,
+  "center": {
+    "lat": 35.7109897,
+    "lon": -83.5199148
+  },
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "way",
+  "id": 543222570,
+  "center": {
+    "lat": 35.7082546,
+    "lon": -83.5220831
+  },
+  "tags": {
+    "access": "yes",
+    "addr:city": "Gatlinburg",
+    "addr:housenumber": "120",
+    "addr:postcode": "37738",
+    "addr:state": "TN",
+    "addr:street": "M and O Street",
+    "amenity": "parking",
+    "capacity": "58",
+    "motorcycle": "yes",
+    "name": "M & O Parking Lot",
+    "opening_hours": "sunrise-sunset",
+    "parking": "surface",
+    "surface": "asphalt",
+    "trailer": "no",
+    "website": "https://www.gatlinburg.com/listing/m-%26-o-parking-lot/4143/"
+  }
+},
+{
+  "type": "way",
+  "id": 543222574,
+  "center": {
+    "lat": 35.7065010,
+    "lon": -83.5194431
+  },
+  "tags": {
+    "access": "customers",
+    "amenity": "parking",
+    "fee": "yes",
+    "parking": "surface"
+  }
+},
+{
+  "type": "way",
+  "id": 543222586,
+  "center": {
+    "lat": 35.7121614,
+    "lon": -83.5179722
+  },
+  "tags": {
+    "amenity": "parking",
+    "parking": "surface"
+  }
+},
+{
+  "type": "way",
+  "id": 543222590,
+  "center": {
+    "lat": 35.7128310,
+    "lon": -83.5172532
+  },
+  "tags": {
+    "amenity": "parking",
+    "parking": "surface"
+  }
+},
+{
+  "type": "way",
+  "id": 543222596,
+  "center": {
+    "lat": 35.7129411,
+    "lon": -83.5161949
+  },
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "fee": "yes",
+    "parking": "surface"
+  }
+},
+{
+  "type": "way",
+  "id": 648859822,
+  "center": {
+    "lat": 35.6355104,
+    "lon": -83.4697117
+  },
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "fee": "no",
+    "name": "Chimney Tops Trailhead Parking",
+    "official_name": "Chimney Tops Trailhead Parking",
+    "park_ride": "no",
+    "parking": "surface",
+    "supervised": "no",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 818557357,
+  "center": {
+    "lat": 35.7009827,
+    "lon": -83.5159340
+  },
+  "tags": {
+    "leisure": "pitch",
+    "sport": "tennis"
+  }
+},
+{
+  "type": "way",
+  "id": 818557358,
+  "center": {
+    "lat": 35.7008948,
+    "lon": -83.5160721
+  },
+  "tags": {
+    "leisure": "pitch",
+    "sport": "tennis"
+  }
+},
+{
+  "type": "way",
+  "id": 818557359,
+  "center": {
+    "lat": 35.7007166,
+    "lon": -83.5156892
+  },
+  "tags": {
+    "leisure": "pitch",
+    "sport": "tennis"
+  }
+},
+{
+  "type": "way",
+  "id": 818557360,
+  "center": {
+    "lat": 35.7006288,
+    "lon": -83.5158273
+  },
+  "tags": {
+    "leisure": "pitch",
+    "sport": "tennis"
+  }
+},
+{
+  "type": "way",
+  "id": 818557361,
+  "center": {
+    "lat": 35.7014571,
+    "lon": -83.5163678
+  },
+  "tags": {
+    "leisure": "pitch",
+    "sport": "tennis"
+  }
+},
+{
+  "type": "way",
+  "id": 818557362,
+  "center": {
+    "lat": 35.7013694,
+    "lon": -83.5165059
+  },
+  "tags": {
+    "leisure": "pitch",
+    "sport": "tennis"
+  }
+},
+{
+  "type": "way",
+  "id": 818557429,
+  "center": {
+    "lat": 35.7014747,
+    "lon": -83.5145943
+  },
+  "tags": {
+    "leisure": "pitch",
+    "sport": "basketball"
+  }
+},
+{
+  "type": "way",
+  "id": 818557486,
+  "center": {
+    "lat": 35.7017775,
+    "lon": -83.5155741
+  },
+  "tags": {
+    "access": "yes",
+    "leisure": "pitch",
+    "name": "Bruce Branam Field",
+    "sport": "baseball;softball"
+  }
+},
+{
+  "type": "way",
+  "id": 818558744,
+  "center": {
+    "lat": 35.7017839,
+    "lon": -83.5142498
+  },
+  "tags": {
+    "tourism": "picnic_site"
+  }
+},
+{
+  "type": "way",
+  "id": 818558750,
+  "center": {
+    "lat": 35.7016213,
+    "lon": -83.5166617
+  },
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "way",
+  "id": 818559024,
+  "center": {
+    "lat": 35.7011494,
+    "lon": -83.5152869
+  },
+  "tags": {
+    "addr:city": "Gatlinburg",
+    "addr:housenumber": "634",
+    "addr:postcode": "37738",
+    "addr:state": "TN",
+    "addr:street": "Asbury Lane",
+    "ele": "463",
+    "gnis:feature_id": "1295192",
+    "leisure": "park",
+    "name": "Mynatt Park",
+    "note": "approximate area",
+    "website": "https://www.gatlinburgtn.gov/page/city-parks",
+    "wikidata": "Q49530070"
+  }
+},
+{
+  "type": "way",
+  "id": 842912152,
+  "center": {
+    "lat": 35.6776130,
+    "lon": -83.4817859
+  },
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "fee": "no",
+    "name": "Rainbow Falls, Bull Head Parking B",
+    "official_name": "Rainbow Falls, Bull Head Parking B",
+    "parking": "surface",
+    "source": "NPS"
+  }
+},
+{
+  "type": "way",
+  "id": 847326479,
+  "center": {
+    "lat": 35.7092943,
+    "lon": -83.5164218
+  },
+  "tags": {
+    "amenity": "parking",
+    "parking": "surface",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 847326486,
+  "center": {
+    "lat": 35.7094531,
+    "lon": -83.5158001
+  },
+  "tags": {
+    "amenity": "parking",
+    "parking": "surface"
+  }
+},
+{
+  "type": "way",
+  "id": 847326500,
+  "center": {
+    "lat": 35.7098839,
+    "lon": -83.5177469
+  },
+  "tags": {
+    "access": "yes",
+    "addr:city": "Gatlinburg",
+    "addr:housenumber": "130",
+    "addr:postcode": "37738",
+    "addr:state": "TN",
+    "addr:street": "Reagan Drive",
+    "amenity": "parking",
+    "capacity": "93",
+    "name": "Holiday Lot",
+    "opening_hours": "sunrise-sunset",
+    "parking": "surface",
+    "surface": "asphalt",
+    "website": "https://www.gatlinburg.com/listing/holiday-lot/3428/"
+  }
+},
+{
+  "type": "way",
+  "id": 906656115,
+  "center": {
+    "lat": 35.7644284,
+    "lon": -83.3502761
+  },
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "way",
+  "id": 906656116,
+  "center": {
+    "lat": 35.7649886,
+    "lon": -83.3517825
+  },
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "way",
+  "id": 906656117,
+  "center": {
+    "lat": 35.7643198,
+    "lon": -83.3517873
+  },
+  "tags": {
+    "leisure": "pitch",
+    "lit": "yes",
+    "sport": "tennis",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 907393219,
+  "center": {
+    "lat": 35.7615274,
+    "lon": -83.3390720
+  },
+  "tags": {
+    "golf": "tee",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907393220,
+  "center": {
+    "lat": 35.7623191,
+    "lon": -83.3377487
+  },
+  "tags": {
+    "golf": "green",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907393221,
+  "center": {
+    "lat": 35.7627157,
+    "lon": -83.3377087
+  },
+  "tags": {
+    "golf": "tee",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907393222,
+  "center": {
+    "lat": 35.7627409,
+    "lon": -83.3380462
+  },
+  "tags": {
+    "golf": "tee",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907393223,
+  "center": {
+    "lat": 35.7628400,
+    "lon": -83.3405866
+  },
+  "tags": {
+    "golf": "fairway",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907393224,
+  "center": {
+    "lat": 35.7622035,
+    "lon": -83.3388145
+  },
+  "tags": {
+    "golf": "green",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907393227,
+  "center": {
+    "lat": 35.7622324,
+    "lon": -83.3402886
+  },
+  "tags": {
+    "golf": "fairway",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907393229,
+  "center": {
+    "lat": 35.7615549,
+    "lon": -83.3426250
+  },
+  "tags": {
+    "golf": "tee",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907393230,
+  "center": {
+    "lat": 35.7622780,
+    "lon": -83.3422271
+  },
+  "tags": {
+    "golf": "green",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907393232,
+  "center": {
+    "lat": 35.7617855,
+    "lon": -83.3391812
+  },
+  "tags": {
+    "golf": "tee",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907393233,
+  "center": {
+    "lat": 35.7616633,
+    "lon": -83.3409648
+  },
+  "tags": {
+    "golf": "fairway",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907393236,
+  "center": {
+    "lat": 35.7611394,
+    "lon": -83.3420386
+  },
+  "tags": {
+    "golf": "green",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907393237,
+  "center": {
+    "lat": 35.7608840,
+    "lon": -83.3387315
+  },
+  "tags": {
+    "golf": "green",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907393240,
+  "center": {
+    "lat": 35.7608030,
+    "lon": -83.3398021
+  },
+  "tags": {
+    "golf": "fairway",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907393241,
+  "center": {
+    "lat": 35.7604640,
+    "lon": -83.3417597
+  },
+  "tags": {
+    "golf": "tee",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907393242,
+  "center": {
+    "lat": 35.7629159,
+    "lon": -83.3426756
+  },
+  "tags": {
+    "golf": "green",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907393245,
+  "center": {
+    "lat": 35.7619551,
+    "lon": -83.3422873
+  },
+  "tags": {
+    "golf": "tee",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907393246,
+  "center": {
+    "lat": 35.7618304,
+    "lon": -83.3425561
+  },
+  "tags": {
+    "golf": "tee",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907393247,
+  "center": {
+    "lat": 35.7624893,
+    "lon": -83.3437020
+  },
+  "tags": {
+    "golf": "fairway",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907393248,
+  "center": {
+    "lat": 35.7620861,
+    "lon": -83.3440495
+  },
+  "tags": {
+    "golf": "fairway",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907393249,
+  "center": {
+    "lat": 35.7632284,
+    "lon": -83.3429915
+  },
+  "tags": {
+    "golf": "tee",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907393250,
+  "center": {
+    "lat": 35.7631597,
+    "lon": -83.3434541
+  },
+  "tags": {
+    "golf": "tee",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907393251,
+  "center": {
+    "lat": 35.7630316,
+    "lon": -83.3447019
+  },
+  "tags": {
+    "golf": "green",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907393253,
+  "center": {
+    "lat": 35.7627942,
+    "lon": -83.3452592
+  },
+  "tags": {
+    "golf": "tee",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907393254,
+  "center": {
+    "lat": 35.7623445,
+    "lon": -83.3457195
+  },
+  "tags": {
+    "golf": "fairway",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907393255,
+  "center": {
+    "lat": 35.7627918,
+    "lon": -83.3467992
+  },
+  "tags": {
+    "golf": "green",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907393257,
+  "center": {
+    "lat": 35.7606706,
+    "lon": -83.3427766
+  },
+  "tags": {
+    "golf": "green",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907393260,
+  "center": {
+    "lat": 35.7612941,
+    "lon": -83.3439438
+  },
+  "tags": {
+    "golf": "fairway",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907393262,
+  "center": {
+    "lat": 35.7620111,
+    "lon": -83.3453178
+  },
+  "tags": {
+    "golf": "tee",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907393263,
+  "center": {
+    "lat": 35.7621248,
+    "lon": -83.3457846
+  },
+  "tags": {
+    "golf": "tee",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907393264,
+  "center": {
+    "lat": 35.7621451,
+    "lon": -83.3460647
+  },
+  "tags": {
+    "golf": "tee",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907393265,
+  "center": {
+    "lat": 35.7622254,
+    "lon": -83.3463697
+  },
+  "tags": {
+    "golf": "green",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907393266,
+  "center": {
+    "lat": 35.7620932,
+    "lon": -83.3476121
+  },
+  "tags": {
+    "golf": "green",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907393268,
+  "center": {
+    "lat": 35.7618012,
+    "lon": -83.3484107
+  },
+  "tags": {
+    "golf": "fairway",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907393269,
+  "center": {
+    "lat": 35.7613168,
+    "lon": -83.3501491
+  },
+  "tags": {
+    "golf": "fairway",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907393271,
+  "center": {
+    "lat": 35.7622145,
+    "lon": -83.3486661
+  },
+  "tags": {
+    "golf": "tee",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907393272,
+  "center": {
+    "lat": 35.7621260,
+    "lon": -83.3505725
+  },
+  "tags": {
+    "golf": "fairway",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907393274,
+  "center": {
+    "lat": 35.7617761,
+    "lon": -83.3519438
+  },
+  "tags": {
+    "golf": "fairway",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907393275,
+  "center": {
+    "lat": 35.7615182,
+    "lon": -83.3525525
+  },
+  "tags": {
+    "golf": "green",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907393277,
+  "center": {
+    "lat": 35.7606302,
+    "lon": -83.3516351
+  },
+  "tags": {
+    "golf": "tee",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907393278,
+  "center": {
+    "lat": 35.7611884,
+    "lon": -83.3515773
+  },
+  "tags": {
+    "golf": "green",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907393280,
+  "center": {
+    "lat": 35.7610960,
+    "lon": -83.3527899
+  },
+  "tags": {
+    "golf": "tee",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907393281,
+  "center": {
+    "lat": 35.7611847,
+    "lon": -83.3523772
+  },
+  "tags": {
+    "golf": "tee",
+    "landuse": "grass",
+    "par": "4"
+  }
+},
+{
+  "type": "way",
+  "id": 907393285,
+  "center": {
+    "lat": 35.7608097,
+    "lon": -83.3534052
+  },
+  "tags": {
+    "golf": "green",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907393287,
+  "center": {
+    "lat": 35.7606533,
+    "lon": -83.3541266
+  },
+  "tags": {
+    "golf": "green",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907397536,
+  "center": {
+    "lat": 35.7603195,
+    "lon": -83.3535594
+  },
+  "tags": {
+    "golf": "tee",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907397537,
+  "center": {
+    "lat": 35.7601273,
+    "lon": -83.3533218
+  },
+  "tags": {
+    "golf": "tee",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907397538,
+  "center": {
+    "lat": 35.7600104,
+    "lon": -83.3529438
+  },
+  "tags": {
+    "golf": "tee",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907397539,
+  "center": {
+    "lat": 35.7596814,
+    "lon": -83.3520117
+  },
+  "tags": {
+    "golf": "fairway",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907397540,
+  "center": {
+    "lat": 35.7593364,
+    "lon": -83.3511562
+  },
+  "tags": {
+    "golf": "green",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907397544,
+  "center": {
+    "lat": 35.7594675,
+    "lon": -83.3507293
+  },
+  "tags": {
+    "golf": "tee",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907397547,
+  "center": {
+    "lat": 35.7603630,
+    "lon": -83.3523187
+  },
+  "tags": {
+    "golf": "fairway",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907397548,
+  "center": {
+    "lat": 35.7596742,
+    "lon": -83.3561838
+  },
+  "tags": {
+    "golf": "green",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907397549,
+  "center": {
+    "lat": 35.7592484,
+    "lon": -83.3563601
+  },
+  "tags": {
+    "golf": "green",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907397553,
+  "center": {
+    "lat": 35.7606476,
+    "lon": -83.3559457
+  },
+  "tags": {
+    "golf": "fairway",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907397554,
+  "center": {
+    "lat": 35.7610800,
+    "lon": -83.3551326
+  },
+  "tags": {
+    "golf": "tee",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907397555,
+  "center": {
+    "lat": 35.7595470,
+    "lon": -83.3566058
+  },
+  "tags": {
+    "golf": "tee",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907397556,
+  "center": {
+    "lat": 35.7595688,
+    "lon": -83.3584382
+  },
+  "tags": {
+    "golf": "fairway",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907397560,
+  "center": {
+    "lat": 35.7598621,
+    "lon": -83.3592647
+  },
+  "tags": {
+    "golf": "green",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907397561,
+  "center": {
+    "lat": 35.7592950,
+    "lon": -83.3591043
+  },
+  "tags": {
+    "golf": "tee",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907397562,
+  "center": {
+    "lat": 35.7589988,
+    "lon": -83.3587584
+  },
+  "tags": {
+    "golf": "tee",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907397563,
+  "center": {
+    "lat": 35.7588090,
+    "lon": -83.3577639
+  },
+  "tags": {
+    "golf": "fairway",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 907397564,
+  "center": {
+    "lat": 35.7605072,
+    "lon": -83.3549238
+  },
+  "tags": {
+    "golf": "tee",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 958437365,
+  "center": {
+    "lat": 35.7571972,
+    "lon": -83.3577397
+  },
+  "tags": {
+    "leisure": "pitch",
+    "sport": "tennis"
+  }
+},
+{
+  "type": "way",
+  "id": 958437370,
+  "center": {
+    "lat": 35.7538117,
+    "lon": -83.3645334
+  },
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "way",
+  "id": 968606456,
+  "center": {
+    "lat": 35.7171850,
+    "lon": -83.5109223
+  },
+  "tags": {
+    "addr:city": "Pigeon Forge",
+    "addr:housenumber": "386",
+    "addr:postcode": "37738",
+    "addr:state": "TN",
+    "addr:street": "Parkway",
+    "attraction": "roller_coaster",
+    "building": "retail",
+    "name": "Ripley's Mountain Coaster",
+    "phone": "+1-865-430-7800",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 968606466,
+  "center": {
+    "lat": 35.7256379,
+    "lon": -83.5106582
+  },
+  "tags": {
+    "amenity": "parking",
+    "parking": "surface"
+  }
+},
+{
+  "type": "way",
+  "id": 975544893,
+  "center": {
+    "lat": 35.6108048,
+    "lon": -83.4256863
+  },
+  "tags": {
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 975544894,
+  "center": {
+    "lat": 35.6109253,
+    "lon": -83.4254334
+  },
+  "tags": {
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 975728124,
+  "center": {
+    "lat": 35.5948799,
+    "lon": -83.4165360
+  },
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "way",
+  "id": 975728125,
+  "center": {
+    "lat": 35.5980980,
+    "lon": -83.4211313
+  },
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "way",
+  "id": 978114454,
+  "center": {
+    "lat": 35.6834686,
+    "lon": -83.4905094
+  },
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "name": "Ogle Place Parking",
+    "official_name": "Ogle Place Parking",
+    "parking": "surface",
+    "source": "NPS"
+  }
+},
+{
+  "type": "way",
+  "id": 978114455,
+  "center": {
+    "lat": 35.6968013,
+    "lon": -83.5071521
+  },
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "fee": "yes",
+    "name": "Cherokee Orchard Road Turnaround",
+    "official_name": "Cherokee Orchard Road Turnaround",
+    "parking": "surface"
+  }
+},
+{
+  "type": "way",
+  "id": 978114457,
+  "center": {
+    "lat": 35.7077192,
+    "lon": -83.5182210
+  },
+  "tags": {
+    "access": "yes",
+    "addr:city": "Gatlinburg",
+    "addr:housenumber": "304",
+    "addr:postcode": "37738",
+    "addr:state": "TN",
+    "addr:street": "Airport Road",
+    "amenity": "parking",
+    "capacity": "45",
+    "fee": "yes",
+    "name": "St Mary's Church Parking",
+    "parking": "surface",
+    "surface": "asphalt",
+    "trailer": "no",
+    "website": "https://www.gatlinburg.com/listing/st-marys-church-parking/3430/"
+  }
+},
+{
+  "type": "way",
+  "id": 978114461,
+  "center": {
+    "lat": 35.6976657,
+    "lon": -83.5273067
+  },
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "name": "Nfg Pullout Parking @ Mp 0.633",
+    "official_name": "Nfg Pullout Parking @ Mp 0.633",
+    "parking": "surface",
+    "source": "NPS"
+  }
+},
+{
+  "type": "way",
+  "id": 978114462,
+  "center": {
+    "lat": 35.6999960,
+    "lon": -83.5266372
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Nfg Pullout Parking @ Mp 0.469",
+    "official_name": "Nfg Pullout Parking @ Mp 0.469",
+    "parking": "surface",
+    "source": "NPS"
+  }
+},
+{
+  "type": "way",
+  "id": 978114464,
+  "center": {
+    "lat": 35.7041920,
+    "lon": -83.5244902
+  },
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "fee": "no",
+    "name": "North Entrance (gatlinburg) Sign Parking Area",
+    "official_name": "North Entrance (gatlinburg) Sign Parking Area",
+    "parking": "surface",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 978114466,
+  "center": {
+    "lat": 35.7060235,
+    "lon": -83.5237529
+  },
+  "tags": {
+    "access": "permit",
+    "amenity": "parking",
+    "fee": "no",
+    "name": "Sugarlands Trailhead Parking B",
+    "official_name": "Sugarlands Trailhead Parking B",
+    "orientation": "perpendicular",
+    "parking": "street_side",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 978114468,
+  "center": {
+    "lat": 35.7044809,
+    "lon": -83.5293089
+  },
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "fee": "no",
+    "name": "Gatlinburg Overlook Parking Area #2",
+    "official_name": "Gatlinburg Overlook Parking Area #2",
+    "parking": "surface",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 978114470,
+  "center": {
+    "lat": 35.7114123,
+    "lon": -83.5301692
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Gatlinburg Overlook Parking Area #1",
+    "official_name": "Gatlinburg Overlook Parking Area #1",
+    "parking": "surface",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 978399971,
+  "center": {
+    "lat": 35.6828248,
+    "lon": -83.4702839
+  },
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "fee": "no",
+    "name": "Roaring Fork Interpretive Marker3 Overlook",
+    "official_name": "Roaring Fork Interpretive Marker3 Overlook",
+    "parking": "surface",
+    "source": "NPS"
+  }
+},
+{
+  "type": "way",
+  "id": 978399972,
+  "center": {
+    "lat": 35.6791676,
+    "lon": -83.4755057
+  },
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "fee": "no",
+    "name": "Roaring Fork Interpretive Marker 1 Overlook Parking",
+    "official_name": "Roaring Fork Interpretive Marker 1 Overlook Parking",
+    "parking": "surface",
+    "source": "NPS"
+  }
+},
+{
+  "type": "way",
+  "id": 978399973,
+  "center": {
+    "lat": 35.6759673,
+    "lon": -83.4855543
+  },
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "fee": "no",
+    "parking": "surface"
+  }
+},
+{
+  "type": "way",
+  "id": 978399974,
+  "center": {
+    "lat": 35.6757596,
+    "lon": -83.4854404
+  },
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "fee": "no",
+    "name": "Rainbow Falls, Bull Head Parking A",
+    "official_name": "Rainbow Falls, Bull Head Parking A",
+    "parking": "surface",
+    "source": "NPS"
+  }
+},
+{
+  "type": "way",
+  "id": 978399975,
+  "center": {
+    "lat": 35.6758789,
+    "lon": -83.4865867
+  },
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "fee": "no",
+    "parking": "surface"
+  }
+},
+{
+  "type": "way",
+  "id": 978703383,
+  "center": {
+    "lat": 35.6974242,
+    "lon": -83.4694494
+  },
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "fee": "no",
+    "name": "Ephraim Bales House Parking",
+    "official_name": "Ephraim Bales House Parking",
+    "parking": "surface",
+    "source": "NPS"
+  }
+},
+{
+  "type": "way",
+  "id": 978703384,
+  "center": {
+    "lat": 35.6947975,
+    "lon": -83.4665974
+  },
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "fee": "no",
+    "name": "Grapeyard Ridge Trailhead Parking",
+    "official_name": "Grapeyard Ridge Trailhead Parking",
+    "parking": "surface",
+    "source": "NPS"
+  }
+},
+{
+  "type": "way",
+  "id": 978703385,
+  "center": {
+    "lat": 35.6942787,
+    "lon": -83.4664730
+  },
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "fee": "no",
+    "name": "Roaring Fork Motor Tour Parking #7",
+    "official_name": "Roaring Fork Motor Tour Parking #7",
+    "parking": "surface",
+    "source": "NPS"
+  }
+},
+{
+  "type": "way",
+  "id": 978703386,
+  "center": {
+    "lat": 35.6924232,
+    "lon": -83.4638360
+  },
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "fee": "no",
+    "name": "Roaring Fork Motor Tour Parking #5",
+    "official_name": "Roaring Fork Motor Tour Parking #5",
+    "parking": "surface",
+    "source": "NPS"
+  }
+},
+{
+  "type": "way",
+  "id": 978703387,
+  "center": {
+    "lat": 35.6880672,
+    "lon": -83.4631852
+  },
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "fee": "no",
+    "name": "Roaring Fork Motor Tour Parking #4",
+    "official_name": "Roaring Fork Motor Tour Parking #4",
+    "parking": "surface",
+    "source": "NPS"
+  }
+},
+{
+  "type": "way",
+  "id": 978703388,
+  "center": {
+    "lat": 35.6802943,
+    "lon": -83.4633028
+  },
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "fee": "no",
+    "name": "Grotto Falls Parking",
+    "official_name": "Grotto Falls Parking",
+    "parking": "surface",
+    "source": "NPS"
+  }
+},
+{
+  "type": "way",
+  "id": 979410383,
+  "center": {
+    "lat": 35.7133925,
+    "lon": -83.4845785
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Roaring Fork Motor Tour Parking #12",
+    "official_name": "Roaring Fork Motor Tour Parking #12",
+    "parking": "surface",
+    "source": "NPS"
+  }
+},
+{
+  "type": "way",
+  "id": 979410384,
+  "center": {
+    "lat": 35.7102984,
+    "lon": -83.4762122
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Roaring Fork Motor Tour Parking #15",
+    "official_name": "Roaring Fork Motor Tour Parking #15",
+    "parking": "surface",
+    "source": "NPS"
+  }
+},
+{
+  "type": "way",
+  "id": 979410385,
+  "center": {
+    "lat": 35.7093046,
+    "lon": -83.4721691
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Roaring Fork Motor Tour Parking #10",
+    "official_name": "Roaring Fork Motor Tour Parking #10",
+    "parking": "surface",
+    "source": "NPS"
+  }
+},
+{
+  "type": "way",
+  "id": 979410386,
+  "center": {
+    "lat": 35.7023838,
+    "lon": -83.4703231
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Alfred Regan Place Parking B",
+    "official_name": "Alfred Regan Place Parking B",
+    "parking": "surface",
+    "source": "NPS"
+  }
+},
+{
+  "type": "way",
+  "id": 979410387,
+  "center": {
+    "lat": 35.6996682,
+    "lon": -83.4718302
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Roaring Fork Motor Tour Parking #8",
+    "official_name": "Roaring Fork Motor Tour Parking #8",
+    "parking": "surface",
+    "source": "NPS"
+  }
+},
+{
+  "type": "way",
+  "id": 980098118,
+  "center": {
+    "lat": 35.6514420,
+    "lon": -83.5130571
+  },
+  "tags": {
+    "amenity": "parking",
+    "parking": "surface",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 980098120,
+  "center": {
+    "lat": 35.6527028,
+    "lon": -83.5136179
+  },
+  "tags": {
+    "amenity": "parking",
+    "parking": "surface",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 980098121,
+  "center": {
+    "lat": 35.6539108,
+    "lon": -83.5155384
+  },
+  "tags": {
+    "amenity": "parking",
+    "parking": "surface",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 980098122,
+  "center": {
+    "lat": 35.6582876,
+    "lon": -83.5200988
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Campbell Overlook Parking",
+    "official_name": "Campbell Overlook Parking",
+    "parking": "surface",
+    "source": "NPS",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 980098123,
+  "center": {
+    "lat": 35.6632683,
+    "lon": -83.5263420
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Quiet Walkway Parking # 2",
+    "official_name": "Quiet Walkway Parking # 2",
+    "parking": "surface",
+    "source": "NPS",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 980098124,
+  "center": {
+    "lat": 35.6652956,
+    "lon": -83.5275007
+  },
+  "tags": {
+    "amenity": "parking",
+    "parking": "surface",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 980098125,
+  "center": {
+    "lat": 35.6675769,
+    "lon": -83.5277061
+  },
+  "tags": {
+    "amenity": "parking",
+    "parking": "surface",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 980098126,
+  "center": {
+    "lat": 35.6725220,
+    "lon": -83.5266635
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Quiet Walkway Parking # 1",
+    "official_name": "Quiet Walkway Parking # 1",
+    "parking": "surface",
+    "source": "NPS",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 980098127,
+  "center": {
+    "lat": 35.6795761,
+    "lon": -83.5313249
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Sugarlands Valley Nature Trail Parking",
+    "official_name": "Sugarlands Valley Nature Trail Parking",
+    "parking": "surface",
+    "source": "NPS",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 980098128,
+  "center": {
+    "lat": 35.6874467,
+    "lon": -83.5363408
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Sugarlands Headquarters Visitor Parking",
+    "official_name": "Sugarlands Headquarters Visitor Parking",
+    "parking": "surface",
+    "source": "NPS",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 980098129,
+  "center": {
+    "lat": 35.6870943,
+    "lon": -83.5356819
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Nfg Pullout Parking @ Mp 1.542",
+    "official_name": "Nfg Pullout Parking @ Mp 1.542",
+    "parking": "surface",
+    "source": "NPS"
+  }
+},
+{
+  "type": "way",
+  "id": 980098130,
+  "center": {
+    "lat": 35.6882475,
+    "lon": -83.5349516
+  },
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "fee": "no",
+    "name": "Nfg Pullout Parking @ Mp 1.454",
+    "official_name": "Nfg Pullout Parking @ Mp 1.454",
+    "parking": "surface",
+    "source": "NPS"
+  }
+},
+{
+  "type": "way",
+  "id": 980098131,
+  "center": {
+    "lat": 35.6910007,
+    "lon": -83.5331298
+  },
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "fee": "no",
+    "name": "Nfg Pullout Parking @ Mp 1.247",
+    "official_name": "Nfg Pullout Parking @ Mp 1.247",
+    "parking": "surface",
+    "source": "NPS",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 980098136,
+  "center": {
+    "lat": 35.7064520,
+    "lon": -83.5231890
+  },
+  "tags": {
+    "access": "yes",
+    "addr:city": "Gatlinburg",
+    "addr:housenumber": "1151",
+    "addr:postcode": "37738",
+    "addr:state": "TN",
+    "addr:street": "Parkway",
+    "amenity": "parking",
+    "capacity": "103",
+    "fee": "yes",
+    "motorcycle": "yes",
+    "operator": "Burning Bush Parking Lot",
+    "parking": "surface",
+    "surface": "asphalt",
+    "trailer": "no",
+    "website": "https://www.gatlinburg.com/listing/burning-bush-parking-lot/3364/"
+  }
+},
+{
+  "type": "way",
+  "id": 980536734,
+  "center": {
+    "lat": 35.6388201,
+    "lon": -83.4745801
+  },
+  "tags": {
+    "amenity": "parking",
+    "parking": "surface",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 980536735,
+  "center": {
+    "lat": 35.6394800,
+    "lon": -83.4760668
+  },
+  "tags": {
+    "amenity": "parking",
+    "parking": "surface",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 980536736,
+  "center": {
+    "lat": 35.6409921,
+    "lon": -83.4809961
+  },
+  "tags": {
+    "amenity": "parking",
+    "parking": "surface"
+  }
+},
+{
+  "type": "way",
+  "id": 980536737,
+  "center": {
+    "lat": 35.6394792,
+    "lon": -83.4789458
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Cove Hardwood Forest Parking",
+    "official_name": "Cove Hardwood Forest Parking",
+    "parking": "surface",
+    "source": "NPS",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 980536738,
+  "center": {
+    "lat": 35.6405763,
+    "lon": -83.4948300
+  },
+  "tags": {
+    "amenity": "parking",
+    "parking": "surface",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 980536740,
+  "center": {
+    "lat": 35.6364447,
+    "lon": -83.4919350
+  },
+  "tags": {
+    "amenity": "parking",
+    "parking": "surface",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 980536741,
+  "center": {
+    "lat": 35.6491740,
+    "lon": -83.5128732
+  },
+  "tags": {
+    "amenity": "parking",
+    "parking": "surface",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 980536742,
+  "center": {
+    "lat": 35.6442245,
+    "lon": -83.5083602
+  },
+  "tags": {
+    "amenity": "parking",
+    "parking": "surface",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 980536743,
+  "center": {
+    "lat": 35.6438602,
+    "lon": -83.5077360
+  },
+  "tags": {
+    "amenity": "parking",
+    "parking": "surface"
+  }
+},
+{
+  "type": "way",
+  "id": 980536744,
+  "center": {
+    "lat": 35.6404301,
+    "lon": -83.5041609
+  },
+  "tags": {
+    "amenity": "parking",
+    "parking": "surface",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 980536745,
+  "center": {
+    "lat": 35.6379386,
+    "lon": -83.4971406
+  },
+  "tags": {
+    "amenity": "parking",
+    "parking": "surface",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 980894874,
+  "center": {
+    "lat": 35.6246365,
+    "lon": -83.4471088
+  },
+  "tags": {
+    "amenity": "parking",
+    "parking": "surface",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 980894875,
+  "center": {
+    "lat": 35.6278601,
+    "lon": -83.4500718
+  },
+  "tags": {
+    "amenity": "parking",
+    "parking": "surface",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 980894876,
+  "center": {
+    "lat": 35.6286280,
+    "lon": -83.4508780
+  },
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "fee": "no",
+    "name": "Alum Cave Bluffs Trailhead Overflow Parking",
+    "parking": "surface",
+    "source": "NPS",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 980894877,
+  "center": {
+    "lat": 35.6295364,
+    "lon": -83.4515992
+  },
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "fee": "no",
+    "name": "Alum Cave Bluffs Trailhead Parking",
+    "official_name": "Alum Cave Bluffs Trailhead Parking",
+    "operator": "Alum Cave Bluffs Trailhead Parking",
+    "parking": "surface",
+    "source": "NPS",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 980894878,
+  "center": {
+    "lat": 35.6360974,
+    "lon": -83.4706214
+  },
+  "tags": {
+    "amenity": "parking",
+    "parking": "surface"
+  }
+},
+{
+  "type": "way",
+  "id": 980894879,
+  "center": {
+    "lat": 35.6364102,
+    "lon": -83.4720837
+  },
+  "tags": {
+    "amenity": "parking",
+    "parking": "surface",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 981204953,
+  "center": {
+    "lat": 35.6131538,
+    "lon": -83.4236693
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Parking At Mp 14.4",
+    "official_name": "Parking At Mp 14.4",
+    "parking": "surface",
+    "source": "NPS",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 981204954,
+  "center": {
+    "lat": 35.6201279,
+    "lon": -83.4182589
+  },
+  "tags": {
+    "amenity": "parking",
+    "name": "Parking At Mp 13.35",
+    "official_name": "Parking At Mp 13.35",
+    "parking": "surface",
+    "source": "NPS",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 1003669667,
+  "center": {
+    "lat": 35.6548654,
+    "lon": -83.4411743
+  },
+  "tags": {
+    "backcountry": "yes",
+    "name": "LeConte Lodge",
+    "tourism": "camp_site"
+  }
+},
+{
+  "type": "way",
+  "id": 1005458926,
+  "center": {
+    "lat": 35.7339211,
+    "lon": -83.4458820
+  },
+  "tags": {
+    "leisure": "pitch",
+    "name": "Hayes Fisher Field",
+    "sport": "baseball"
+  }
+},
+{
+  "type": "way",
+  "id": 1005458935,
+  "center": {
+    "lat": 35.7321852,
+    "lon": -83.4463222
+  },
+  "tags": {
+    "leisure": "pitch",
+    "sport": "soccer"
+  }
+},
+{
+  "type": "way",
+  "id": 1005458936,
+  "center": {
+    "lat": 35.7319492,
+    "lon": -83.4477131
+  },
+  "tags": {
+    "leisure": "pitch",
+    "sport": "soccer"
+  }
+},
+{
+  "type": "way",
+  "id": 1005458937,
+  "center": {
+    "lat": 35.7323509,
+    "lon": -83.4489677
+  },
+  "tags": {
+    "leisure": "pitch",
+    "sport": "soccer"
+  }
+},
+{
+  "type": "way",
+  "id": 1008778682,
+  "center": {
+    "lat": 35.7608576,
+    "lon": -83.3512022
+  },
+  "tags": {
+    "golf": "tee",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 1011078160,
+  "center": {
+    "lat": 35.7616716,
+    "lon": -83.3421075
+  },
+  "tags": {
+    "golf": "tee",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 1011085068,
+  "center": {
+    "lat": 35.7616669,
+    "lon": -83.3391154
+  },
+  "tags": {
+    "golf": "tee",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 1011085069,
+  "center": {
+    "lat": 35.7617737,
+    "lon": -83.3394985
+  },
+  "tags": {
+    "golf": "tee",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 1011089850,
+  "center": {
+    "lat": 35.7613173,
+    "lon": -83.3393844
+  },
+  "tags": {
+    "golf": "tee",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 1011091368,
+  "center": {
+    "lat": 35.7626357,
+    "lon": -83.3383824
+  },
+  "tags": {
+    "golf": "tee",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 1011094531,
+  "center": {
+    "lat": 35.7617509,
+    "lon": -83.3432126
+  },
+  "tags": {
+    "golf": "tee",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 1011859197,
+  "center": {
+    "lat": 35.7622792,
+    "lon": -83.3479545
+  },
+  "tags": {
+    "golf": "tee",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 1012166828,
+  "center": {
+    "lat": 35.7595614,
+    "lon": -83.3569069
+  },
+  "tags": {
+    "golf": "tee",
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 1017658191,
+  "center": {
+    "lat": 35.7131551,
+    "lon": -83.5084274
+  },
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "way",
+  "id": 1017658194,
+  "center": {
+    "lat": 35.7130040,
+    "lon": -83.5093158
+  },
+  "tags": {
+    "amenity": "parking",
+    "parking": "surface"
+  }
+},
+{
+  "type": "way",
+  "id": 1017658198,
+  "center": {
+    "lat": 35.7119366,
+    "lon": -83.5108273
+  },
+  "tags": {
+    "amenity": "parking",
+    "parking": "surface"
+  }
+},
+{
+  "type": "way",
+  "id": 1018524641,
+  "center": {
+    "lat": 35.7126972,
+    "lon": -83.5111822
+  },
+  "tags": {
+    "access": "private",
+    "amenity": "parking",
+    "operator": "Arrowmont School of Arts and Crafts",
+    "parking": "surface"
+  }
+},
+{
+  "type": "way",
+  "id": 1050880748,
+  "center": {
+    "lat": 35.7092851,
+    "lon": -83.5058985
+  },
+  "tags": {
+    "attraction": "alpine_coaster",
+    "building": "yes",
+    "layer": "1",
+    "name": "Rail Runner",
+    "roller_coaster": "station",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 1075913534,
+  "center": {
+    "lat": 35.7350131,
+    "lon": -83.4493139
+  },
+  "tags": {
+    "leisure": "pitch",
+    "sport": "american_football"
+  }
+},
+{
+  "type": "way",
+  "id": 1075913535,
+  "center": {
+    "lat": 35.7340564,
+    "lon": -83.4493501
+  },
+  "tags": {
+    "leisure": "pitch",
+    "sport": "soccer"
+  }
+},
+{
+  "type": "way",
+  "id": 1075913542,
+  "center": {
+    "lat": 35.7360447,
+    "lon": -83.4485916
+  },
+  "tags": {
+    "leisure": "pitch",
+    "sport": "basketball"
+  }
+},
+{
+  "type": "way",
+  "id": 1075913543,
+  "center": {
+    "lat": 35.7365607,
+    "lon": -83.4480950
+  },
+  "tags": {
+    "leisure": "pitch",
+    "sport": "american_football"
+  }
+},
+{
+  "type": "way",
+  "id": 1075913544,
+  "center": {
+    "lat": 35.7368783,
+    "lon": -83.4487790
+  },
+  "tags": {
+    "leisure": "pitch",
+    "sport": "baseball"
+  }
+},
+{
+  "type": "way",
+  "id": 1080160482,
+  "center": {
+    "lat": 35.7321037,
+    "lon": -83.4506230
+  },
+  "tags": {
+    "name": "Camp LeConte Luxury Outdoor Resort",
+    "tourism": "camp_site"
+  }
+},
+{
+  "type": "way",
+  "id": 1080161786,
+  "center": {
+    "lat": 35.7278458,
+    "lon": -83.4584420
+  },
+  "tags": {
+    "name": "Gatlinburg Creekside RV Resort",
+    "tourism": "camp_site"
+  }
+},
+{
+  "type": "way",
+  "id": 1080167472,
+  "center": {
+    "lat": 35.7252297,
+    "lon": -83.4834742
+  },
+  "tags": {
+    "name": "Twin Creek RV Resort",
+    "tourism": "camp_site"
+  }
+},
+{
+  "type": "way",
+  "id": 1080330259,
+  "center": {
+    "lat": 35.7125045,
+    "lon": -83.5116567
+  },
+  "tags": {
+    "leisure": "pitch",
+    "sport": "basketball"
+  }
+},
+{
+  "type": "way",
+  "id": 1080336680,
+  "center": {
+    "lat": 35.7332530,
+    "lon": -83.5226134
+  },
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "fee": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 1080338048,
+  "center": {
+    "lat": 35.7090625,
+    "lon": -83.5239945
+  },
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "way",
+  "id": 1080441228,
+  "center": {
+    "lat": 35.7636513,
+    "lon": -83.3133988
+  },
+  "tags": {
+    "addr:housenumber": "4609",
+    "addr:street": "East Parkway",
+    "name": "Adventure Bound Camping Resorts",
+    "phone": "+1-865-436-4434",
+    "tourism": "camp_site",
+    "website": "https://www.abcamping.com/abgatlinburg/"
+  }
+},
+{
+  "type": "way",
+  "id": 1080442108,
+  "center": {
+    "lat": 35.7627985,
+    "lon": -83.3318067
+  },
+  "tags": {
+    "name": "Outdoor Resorts At Gatlinburg",
+    "tourism": "camp_site"
+  }
+},
+{
+  "type": "way",
+  "id": 1080442808,
+  "center": {
+    "lat": 35.7427876,
+    "lon": -83.4148502
+  },
+  "tags": {
+    "addr:housenumber": "2342",
+    "addr:postcode": "37738",
+    "addr:state": "TN",
+    "addr:street": "East Parkway",
+    "name": "Greenbrier Campground",
+    "tourism": "camp_site"
+  }
+},
+{
+  "type": "way",
+  "id": 1080443385,
+  "center": {
+    "lat": 35.7357973,
+    "lon": -83.4492239
+  },
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "way",
+  "id": 1080445112,
+  "center": {
+    "lat": 35.7338275,
+    "lon": -83.5219447
+  },
+  "tags": {
+    "building": "yes",
+    "information": "office",
+    "name": "Gatlinburg Welcome Center",
+    "official_name": "Gatlinburg Welcome Center",
+    "source": "NPS",
+    "tourism": "information"
+  }
+},
+{
+  "type": "way",
+  "id": 1080445113,
+  "center": {
+    "lat": 35.7338835,
+    "lon": -83.5216712
+  },
+  "tags": {
+    "access": "customers",
+    "amenity": "parking",
+    "fee": "no",
+    "parking": "surface",
+    "source": "NPS"
+  }
+},
+{
+  "type": "way",
+  "id": 1081040896,
+  "center": {
+    "lat": 35.7231573,
+    "lon": -83.5272754
+  },
+  "tags": {
+    "leisure": "pitch",
+    "sport": "tennis"
+  }
+},
+{
+  "type": "way",
+  "id": 1081040897,
+  "center": {
+    "lat": 35.7231705,
+    "lon": -83.5271130
+  },
+  "tags": {
+    "leisure": "pitch",
+    "sport": "tennis"
+  }
+},
+{
+  "type": "way",
+  "id": 1081044377,
+  "center": {
+    "lat": 35.7064753,
+    "lon": -83.5539893
+  },
+  "tags": {
+    "leisure": "pitch",
+    "sport": "shuffleboard"
+  }
+},
+{
+  "type": "way",
+  "id": 1108803200,
+  "center": {
+    "lat": 35.7086205,
+    "lon": -83.5235377
+  },
+  "tags": {
+    "access": "private",
+    "amenity": "parking"
+  }
+},
+{
+  "type": "way",
+  "id": 1108803201,
+  "center": {
+    "lat": 35.7090486,
+    "lon": -83.5232663
+  },
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "way",
+  "id": 1108803202,
+  "center": {
+    "lat": 35.7089296,
+    "lon": -83.5226114
+  },
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "way",
+  "id": 1108803203,
+  "center": {
+    "lat": 35.7086469,
+    "lon": -83.5218091
+  },
+  "tags": {
+    "access": "yes",
+    "addr:city": "Gatlinburg",
+    "addr:housenumber": "1009",
+    "addr:postcode": "37738",
+    "addr:state": "TN",
+    "addr:street": "Parkway",
+    "amenity": "parking",
+    "capacity": "150",
+    "name": "Mountain Lakes Parking Lot",
+    "parking": "surface",
+    "surface": "asphalt",
+    "trailer": "no",
+    "website": "https://www.gatlinburg.com/listing/burning-bush-parking-lot/3364/"
+  }
+},
+{
+  "type": "way",
+  "id": 1108803208,
+  "center": {
+    "lat": 35.7067336,
+    "lon": -83.5212949
+  },
+  "tags": {
+    "access": "customers",
+    "amenity": "parking",
+    "fee": "no",
+    "parking": "surface",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1108813575,
+  "center": {
+    "lat": 35.7248210,
+    "lon": -83.4853333
+  },
+  "tags": {
+    "amenity": "parking",
+    "parking": "surface"
+  }
+},
+{
+  "type": "way",
+  "id": 1108827578,
+  "center": {
+    "lat": 35.7117994,
+    "lon": -83.5130831
+  },
+  "tags": {
+    "access": "customers",
+    "amenity": "parking",
+    "parking": "surface",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1108827579,
+  "center": {
+    "lat": 35.7127288,
+    "lon": -83.5121854
+  },
+  "tags": {
+    "access": "customers",
+    "amenity": "parking",
+    "fee": "yes",
+    "operator": "Anakeesta",
+    "operator:type": "business",
+    "park_ride": "yes",
+    "parking": "surface",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1108827604,
+  "center": {
+    "lat": 35.7134194,
+    "lon": -83.5107642
+  },
+  "tags": {
+    "amenity": "parking",
+    "parking": "surface"
+  }
+},
+{
+  "type": "way",
+  "id": 1108850972,
+  "center": {
+    "lat": 35.7207992,
+    "lon": -83.5107749
+  },
+  "tags": {
+    "leisure": "pitch",
+    "sport": "tennis"
+  }
+},
+{
+  "type": "way",
+  "id": 1108850973,
+  "center": {
+    "lat": 35.7211399,
+    "lon": -83.5111900
+  },
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "way",
+  "id": 1108854368,
+  "center": {
+    "lat": 35.7254746,
+    "lon": -83.5132387
+  },
+  "tags": {
+    "amenity": "shelter",
+    "building": "yes",
+    "shelter_type": "picnic_shelter"
+  }
+},
+{
+  "type": "way",
+  "id": 1108854369,
+  "center": {
+    "lat": 35.7257418,
+    "lon": -83.5128628
+  },
+  "tags": {
+    "leisure": "park"
+  }
+},
+{
+  "type": "way",
+  "id": 1112418127,
+  "center": {
+    "lat": 35.7708631,
+    "lon": -83.5435369
+  },
+  "tags": {
+    "tourism": "camp_site"
+  }
+},
+{
+  "type": "way",
+  "id": 1112418133,
+  "center": {
+    "lat": 35.7702781,
+    "lon": -83.5441348
+  },
+  "tags": {
+    "leisure": "pitch",
+    "sport": "basketball"
+  }
+},
+{
+  "type": "way",
+  "id": 1112418422,
+  "center": {
+    "lat": 35.7730899,
+    "lon": -83.5461829
+  },
+  "tags": {
+    "tourism": "camp_site"
+  }
+},
+{
+  "type": "way",
+  "id": 1112418423,
+  "center": {
+    "lat": 35.7728175,
+    "lon": -83.5465885
+  },
+  "tags": {
+    "leisure": "pitch",
+    "sport": "shuffleboard"
+  }
+},
+{
+  "type": "way",
+  "id": 1112418424,
+  "center": {
+    "lat": 35.7727976,
+    "lon": -83.5465643
+  },
+  "tags": {
+    "leisure": "pitch",
+    "sport": "shuffleboard"
+  }
+},
+{
+  "type": "way",
+  "id": 1112418425,
+  "center": {
+    "lat": 35.7727693,
+    "lon": -83.5464880
+  },
+  "tags": {
+    "leisure": "pitch",
+    "sport": "basketball"
+  }
+},
+{
+  "type": "way",
+  "id": 1130248253,
+  "center": {
+    "lat": 35.7245684,
+    "lon": -83.4898050
+  },
+  "tags": {
+    "amenity": "shelter",
+    "building": "yes",
+    "shelter_type": "sun_shelter"
+  }
+},
+{
+  "type": "way",
+  "id": 1130248256,
+  "center": {
+    "lat": 35.7249942,
+    "lon": -83.4895762
+  },
+  "tags": {
+    "access": "private",
+    "amenity": "parking",
+    "parking": "surface",
+    "surface": "unpaved"
+  }
+},
+{
+  "type": "way",
+  "id": 1130248259,
+  "center": {
+    "lat": 35.7243771,
+    "lon": -83.4901685
+  },
+  "tags": {
+    "access": "customers",
+    "amenity": "parking",
+    "parking": "surface",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 1130297619,
+  "center": {
+    "lat": 35.7245073,
+    "lon": -83.4907429
+  },
+  "tags": {
+    "access": "customers",
+    "amenity": "parking",
+    "parking": "surface",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 1130297621,
+  "center": {
+    "lat": 35.7248438,
+    "lon": -83.4908476
+  },
+  "tags": {
+    "access": "customers",
+    "amenity": "parking",
+    "parking": "surface",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 1130347787,
+  "center": {
+    "lat": 35.7233670,
+    "lon": -83.4939012
+  },
+  "tags": {
+    "access": "customers",
+    "amenity": "parking",
+    "parking": "surface",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 1130644690,
+  "center": {
+    "lat": 35.7230705,
+    "lon": -83.4968888
+  },
+  "tags": {
+    "access": "customers",
+    "amenity": "parking",
+    "fee": "no",
+    "parking": "surface",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 1130644691,
+  "center": {
+    "lat": 35.7227042,
+    "lon": -83.4968226
+  },
+  "tags": {
+    "access": "customers",
+    "amenity": "parking",
+    "fee": "no",
+    "parking": "surface",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 1130656794,
+  "center": {
+    "lat": 35.7227562,
+    "lon": -83.4972216
+  },
+  "tags": {
+    "access": "customers",
+    "amenity": "parking",
+    "parking": "surface",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 1158825832,
+  "center": {
+    "lat": 35.7328031,
+    "lon": -83.5173999
+  },
+  "tags": {
+    "amenity": "parking",
+    "parking": "surface"
+  }
+},
+{
+  "type": "way",
+  "id": 1186452073,
+  "center": {
+    "lat": 35.7728834,
+    "lon": -83.5196134
+  },
+  "tags": {
+    "natural": "grassland"
+  }
+},
+{
+  "type": "way",
+  "id": 1189772476,
+  "center": {
+    "lat": 35.7163597,
+    "lon": -83.5028296
+  },
+  "tags": {
+    "access": "customers",
+    "amenity": "parking",
+    "capacity": "24",
+    "capacity:disabled": "2",
+    "parking": "surface",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1189772479,
+  "center": {
+    "lat": 35.7172621,
+    "lon": -83.5002102
+  },
+  "tags": {
+    "access": "private",
+    "amenity": "parking",
+    "parking": "surface"
+  }
+},
+{
+  "type": "way",
+  "id": 1190047848,
+  "center": {
+    "lat": 35.7481181,
+    "lon": -83.4149095
+  },
+  "tags": {
+    "landuse": "farmland"
+  }
+},
+{
+  "type": "way",
+  "id": 1292961167,
+  "center": {
+    "lat": 35.7259654,
+    "lon": -83.4736070
+  },
+  "tags": {
+    "amenity": "parking",
+    "parking": "surface",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1293274702,
+  "center": {
+    "lat": 35.7371715,
+    "lon": -83.4478528
+  },
+  "tags": {
+    "addr:city": "Gatlinburg",
+    "addr:housenumber": "309",
+    "addr:postcode": "37738",
+    "addr:state": "TN",
+    "addr:street": "Mills Park Road",
+    "leisure": "park",
+    "name": "Mills Park",
+    "opening_hours": "sunrise-sunset",
+    "operator": "City of Gatlinburg",
+    "website": "https://www.gatlinburg.com/listing/mills-park/3228/"
+  }
+},
+{
+  "type": "way",
+  "id": 1293274704,
+  "center": {
+    "lat": 35.7386082,
+    "lon": -83.4480966
+  },
+  "tags": {
+    "access": "customers",
+    "amenity": "parking",
+    "parking": "surface",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1293274710,
+  "center": {
+    "lat": 35.7384431,
+    "lon": -83.4499982
+  },
+  "tags": {
+    "access": "customers",
+    "amenity": "parking",
+    "parking": "surface",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1299113757,
+  "center": {
+    "lat": 35.7151963,
+    "lon": -83.5115791
+  },
+  "tags": {
+    "amenity": "parking",
+    "parking": "surface"
+  }
+},
+{
+  "type": "way",
+  "id": 1304172725,
+  "center": {
+    "lat": 35.7300434,
+    "lon": -83.5081035
+  },
+  "tags": {
+    "amenity": "parking",
+    "parking": "surface"
+  }
+},
+{
+  "type": "way",
+  "id": 1304172736,
+  "center": {
+    "lat": 35.7324196,
+    "lon": -83.5187446
+  },
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "way",
+  "id": 1304172737,
+  "center": {
+    "lat": 35.7316039,
+    "lon": -83.5181965
+  },
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "way",
+  "id": 1304172756,
+  "center": {
+    "lat": 35.7305750,
+    "lon": -83.5147798
+  },
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "way",
+  "id": 1304507052,
+  "center": {
+    "lat": 35.7141555,
+    "lon": -83.5142745
+  },
+  "tags": {
+    "access": "permit",
+    "amenity": "parking"
+  }
+},
+{
+  "type": "way",
+  "id": 1316553255,
+  "center": {
+    "lat": 35.7157113,
+    "lon": -83.5104957
+  },
+  "tags": {
+    "access": "customers",
+    "amenity": "parking",
+    "operator": "Crossroads Inn & Suites",
+    "operator:type": "business",
+    "parking": "surface",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1321860090,
+  "center": {
+    "lat": 35.7308302,
+    "lon": -83.4820671
+  },
+  "tags": {
+    "amenity": "parking",
+    "parking": "surface",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1321860091,
+  "center": {
+    "lat": 35.7292779,
+    "lon": -83.4823636
+  },
+  "tags": {
+    "amenity": "parking",
+    "parking": "surface",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1321860092,
+  "center": {
+    "lat": 35.7291610,
+    "lon": -83.4852313
+  },
+  "tags": {
+    "amenity": "parking",
+    "parking": "surface",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1321860093,
+  "center": {
+    "lat": 35.7299962,
+    "lon": -83.4834769
+  },
+  "tags": {
+    "amenity": "parking",
+    "parking": "surface",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1334995300,
+  "center": {
+    "lat": 35.7313692,
+    "lon": -83.4569513
+  },
+  "tags": {
+    "leisure": "pitch",
+    "sport": "tennis"
+  }
+},
+{
+  "type": "way",
+  "id": 1338094769,
+  "center": {
+    "lat": 35.7141818,
+    "lon": -83.5102126
+  },
+  "tags": {
+    "building": "cabin",
+    "historic": "building"
+  }
+},
+{
+  "type": "way",
+  "id": 1359962522,
+  "center": {
+    "lat": 35.7235922,
+    "lon": -83.4963546
+  },
+  "tags": {
+    "amenity": "parking",
+    "parking": "surface"
+  }
+},
+{
+  "type": "way",
+  "id": 1360031564,
+  "center": {
+    "lat": 35.7242549,
+    "lon": -83.4947283
+  },
+  "tags": {
+    "access": "customers",
+    "amenity": "parking",
+    "capacity": "7",
+    "capacity:disabled": "1",
+    "operator": "NAPA Auto Parts",
+    "parking": "surface",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1360136569,
+  "center": {
+    "lat": 35.7217365,
+    "lon": -83.4984768
+  },
+  "tags": {
+    "access": "customers",
+    "amenity": "parking",
+    "operator": "Alamo Steakhouse",
+    "operator:type": "business",
+    "parking": "surface"
+  }
+},
+{
+  "type": "way",
+  "id": 1360136570,
+  "center": {
+    "lat": 35.7208921,
+    "lon": -83.4986330
+  },
+  "tags": {
+    "access": "customers",
+    "amenity": "parking",
+    "operator": "Alamo Steakhouse",
+    "operator:type": "business",
+    "parking": "surface",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1373903260,
+  "center": {
+    "lat": 35.7201475,
+    "lon": -83.5096855
+  },
+  "tags": {
+    "access": "customers",
+    "amenity": "parking",
+    "capacity:disabled": "yes",
+    "covered": "no",
+    "fee": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1373903261,
+  "center": {
+    "lat": 35.7200757,
+    "lon": -83.5100700
+  },
+  "tags": {
+    "access": "customers",
+    "amenity": "parking",
+    "covered": "no",
+    "fee": "no",
+    "parking": "surface",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1373903262,
+  "center": {
+    "lat": 35.7069959,
+    "lon": -83.5218376
+  },
+  "tags": {
+    "access": "customers",
+    "amenity": "parking",
+    "fee": "no",
+    "parking": "surface",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1376900608,
+  "center": {
+    "lat": 35.7244214,
+    "lon": -83.4917250
+  },
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "way",
+  "id": 1376900609,
+  "center": {
+    "lat": 35.7244343,
+    "lon": -83.4915586
+  },
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "way",
+  "id": 1376900610,
+  "center": {
+    "lat": 35.7246162,
+    "lon": -83.4910819
+  },
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "way",
+  "id": 1376900611,
+  "center": {
+    "lat": 35.7239911,
+    "lon": -83.4916078
+  },
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "way",
+  "id": 1376900612,
+  "center": {
+    "lat": 35.7233668,
+    "lon": -83.4943122
+  },
+  "tags": {
+    "access": "customers",
+    "amenity": "parking",
+    "parking": "surface",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 1394563644,
+  "center": {
+    "lat": 35.7449863,
+    "lon": -83.4280003
+  },
+  "tags": {
+    "amenity": "parking",
+    "parking": "surface",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1394563645,
+  "center": {
+    "lat": 35.7448820,
+    "lon": -83.4277439
+  },
+  "tags": {
+    "amenity": "parking",
+    "surface": "gravel"
+  }
+},
+{
+  "type": "way",
+  "id": 1394563649,
+  "center": {
+    "lat": 35.7433728,
+    "lon": -83.4277216
+  },
+  "tags": {
+    "amenity": "parking",
+    "surface": "gravel"
+  }
+},
+{
+  "type": "way",
+  "id": 1394563651,
+  "center": {
+    "lat": 35.7444785,
+    "lon": -83.4270423
+  },
+  "tags": {
+    "amenity": "parking",
+    "surface": "gravel"
+  }
+},
+{
+  "type": "way",
+  "id": 1394563653,
+  "center": {
+    "lat": 35.7449854,
+    "lon": -83.4296360
+  },
+  "tags": {
+    "amenity": "parking",
+    "surface": "gravel"
+  }
+},
+{
+  "type": "way",
+  "id": 1411017704,
+  "center": {
+    "lat": 35.7298136,
+    "lon": -83.5124892
+  },
+  "tags": {
+    "amenity": "parking",
+    "parking": "surface",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1411017705,
+  "center": {
+    "lat": 35.7298601,
+    "lon": -83.5134751
+  },
+  "tags": {
+    "amenity": "parking",
+    "capacity": "29",
+    "orientation": "perpendicular",
+    "parking": "street_side",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1411017706,
+  "center": {
+    "lat": 35.7296462,
+    "lon": -83.5142721
+  },
+  "tags": {
+    "amenity": "parking",
+    "orientation": "perpendicular",
+    "parking": "street_side",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1411017707,
+  "center": {
+    "lat": 35.7296556,
+    "lon": -83.5145878
+  },
+  "tags": {
+    "amenity": "parking",
+    "orientation": "perpendicular",
+    "parking": "street_side",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1411017708,
+  "center": {
+    "lat": 35.7294449,
+    "lon": -83.5148502
+  },
+  "tags": {
+    "amenity": "parking",
+    "capacity": "3",
+    "capacity:disabled": "2",
+    "orientation": "perpendicular",
+    "parking": "street_side",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1411017709,
+  "center": {
+    "lat": 35.7297558,
+    "lon": -83.5141529
+  },
+  "tags": {
+    "amenity": "parking",
+    "capacity": "8",
+    "capacity:disabled": "2",
+    "orientation": "perpendicular",
+    "parking": "street_side",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1411017710,
+  "center": {
+    "lat": 35.7292671,
+    "lon": -83.5148075
+  },
+  "tags": {
+    "amenity": "parking",
+    "orientation": "perpendicular",
+    "parking": "street_side",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1411017711,
+  "center": {
+    "lat": 35.7291391,
+    "lon": -83.5146497
+  },
+  "tags": {
+    "amenity": "parking",
+    "capacity": "6",
+    "capacity:disabled": "0",
+    "orientation": "perpendicular",
+    "parking": "street_side",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1411017712,
+  "center": {
+    "lat": 35.7290408,
+    "lon": -83.5144294
+  },
+  "tags": {
+    "amenity": "parking",
+    "capacity": "8",
+    "capacity:disabled": "0",
+    "orientation": "perpendicular",
+    "parking": "street_side",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1411017713,
+  "center": {
+    "lat": 35.7289674,
+    "lon": -83.5141855
+  },
+  "tags": {
+    "amenity": "parking",
+    "capacity": "7",
+    "capacity:disabled": "0",
+    "orientation": "perpendicular",
+    "parking": "street_side",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1411017714,
+  "center": {
+    "lat": 35.7289624,
+    "lon": -83.5138905
+  },
+  "tags": {
+    "amenity": "parking",
+    "capacity": "9",
+    "capacity:disabled": "0",
+    "orientation": "perpendicular",
+    "parking": "street_side",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1411017716,
+  "center": {
+    "lat": 35.7295026,
+    "lon": -83.5142400
+  },
+  "tags": {
+    "amenity": "parking",
+    "orientation": "diagonal",
+    "parking": "street_side",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1411017717,
+  "center": {
+    "lat": 35.7297017,
+    "lon": -83.5134819
+  },
+  "tags": {
+    "amenity": "parking",
+    "orientation": "diagonal",
+    "parking": "street_side",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1425400581,
+  "center": {
+    "lat": 35.7108786,
+    "lon": -83.5132290
+  },
+  "tags": {
+    "amenity": "parking",
+    "parking": "surface"
+  }
+},
+{
+  "type": "way",
+  "id": 1425404117,
+  "center": {
+    "lat": 35.7348550,
+    "lon": -83.4461893
+  },
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "way",
+  "id": 1425404118,
+  "center": {
+    "lat": 35.7351339,
+    "lon": -83.4469945
+  },
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "way",
+  "id": 1425404119,
+  "center": {
+    "lat": 35.7348538,
+    "lon": -83.4484705
+  },
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "way",
+  "id": 1435168800,
+  "center": {
+    "lat": 35.7012704,
+    "lon": -83.5143988
+  },
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "way",
+  "id": 1435218114,
+  "center": {
+    "lat": 35.7034669,
+    "lon": -83.5167043
+  },
+  "tags": {
+    "amenity": "parking",
+    "building": "yes",
+    "parking": "multi-storey"
+  }
+},
+{
+  "type": "way",
+  "id": 1435782642,
+  "center": {
+    "lat": 35.7105431,
+    "lon": -83.5189410
+  },
+  "tags": {
+    "addr:city": "Gatlinburg",
+    "addr:housenumber": "908",
+    "addr:postcode": "37738",
+    "addr:state": "TN",
+    "addr:street": "Parkway",
+    "attraction": "haunted_house",
+    "building": "yes",
+    "name": "Ripley's Haunted Adventure",
+    "opening_hours": "Su 12:00-21:00; Mo-Th 11:00-22:00; Fr 11:00-23:00; Sa 10:00-23:00",
+    "operator": "Ripley's",
+    "tourism": "attraction",
+    "website": "https://www.ripleys.com/attractions/ripleys-haunted-adventure-gatlinburg"
+  }
+},
+{
+  "type": "way",
+  "id": 1435782650,
+  "center": {
+    "lat": 35.7091358,
+    "lon": -83.5173220
+  },
+  "tags": {
+    "access": "yes",
+    "addr:city": "Gatlinburg",
+    "addr:housenumber": "220",
+    "addr:postcode": "37738",
+    "addr:state": "TN",
+    "addr:street": "Reagan Drive",
+    "amenity": "parking",
+    "capacity": "137",
+    "motorcycle": "no",
+    "name": "Reagan Drive Parking Lot",
+    "opening_hours": "sunrise-sunset",
+    "parking": "surface",
+    "surface": "asphalt",
+    "trailer": "yes",
+    "website": "https://www.gatlinburg.com/listing/reagan-drive-parking-lot/3427/"
+  }
+},
+{
+  "type": "way",
+  "id": 1435782651,
+  "center": {
+    "lat": 35.7098765,
+    "lon": -83.5186182
+  },
+  "tags": {
+    "access": "yes",
+    "addr:city": "Gatlinburg",
+    "addr:housenumber": "120",
+    "addr:postcode": "37738",
+    "addr:state": "TN",
+    "addr:street": "Airport Road",
+    "amenity": "parking",
+    "bus": "yes",
+    "capacity": "106",
+    "motorcycle": "no",
+    "name": "Shade Tree Parking",
+    "parking": "surface",
+    "surface": "asphalt",
+    "trailer": "no",
+    "website": "https://www.gatlinburg.com/listing/shade-tree-parking/3360/"
+  }
+},
+{
+  "type": "way",
+  "id": 1436029135,
+  "center": {
+    "lat": 35.7124036,
+    "lon": -83.5208767
+  },
+  "tags": {
+    "amenity": "parking",
+    "surface": "gravel"
+  }
+},
+{
+  "type": "way",
+  "id": 1436029137,
+  "center": {
+    "lat": 35.7074085,
+    "lon": -83.5228641
+  },
+  "tags": {
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 1436095507,
+  "center": {
+    "lat": 35.7072214,
+    "lon": -83.5229357
+  },
+  "tags": {
+    "access": "customers",
+    "amenity": "parking",
+    "parking": "surface",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1436095508,
+  "center": {
+    "lat": 35.7075704,
+    "lon": -83.5226660
+  },
+  "tags": {
+    "access": "customers",
+    "amenity": "parking",
+    "parking": "surface",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1436095512,
+  "center": {
+    "lat": 35.7081347,
+    "lon": -83.5229416
+  },
+  "tags": {
+    "access": "customers",
+    "amenity": "parking",
+    "parking": "surface",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1436268517,
+  "center": {
+    "lat": 35.7047989,
+    "lon": -83.5132208
+  },
+  "tags": {
+    "access": "customers",
+    "amenity": "parking",
+    "parking": "surface",
+    "surface": "concrete"
+  }
+},
+{
+  "type": "way",
+  "id": 1436326107,
+  "center": {
+    "lat": 35.7081926,
+    "lon": -83.5139456
+  },
+  "tags": {
+    "access": "customers",
+    "amenity": "parking",
+    "parking": "surface"
+  }
+},
+{
+  "type": "way",
+  "id": 1436598058,
+  "center": {
+    "lat": 35.7028714,
+    "lon": -83.5172831
+  },
+  "tags": {
+    "access": "customers",
+    "amenity": "parking",
+    "parking": "surface",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1445476740,
+  "center": {
+    "lat": 35.5846861,
+    "lon": -83.4923674
+  },
+  "tags": {
+    "natural": "heath"
+  }
+},
+{
+  "type": "way",
+  "id": 1445476741,
+  "center": {
+    "lat": 35.5940915,
+    "lon": -83.4710050
+  },
+  "tags": {
+    "natural": "grassland"
+  }
+},
+{
+  "type": "way",
+  "id": 1445674858,
+  "center": {
+    "lat": 35.6881459,
+    "lon": -83.5375805
+  },
+  "tags": {
+    "amenity": "parking",
+    "source": "NPS"
+  }
+},
+{
+  "type": "way",
+  "id": 1449433305,
+  "center": {
+    "lat": 35.7259036,
+    "lon": -83.4782918
+  },
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "way",
+  "id": 1449433308,
+  "center": {
+    "lat": 35.7266306,
+    "lon": -83.4709837
+  },
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "way",
+  "id": 1449433309,
+  "center": {
+    "lat": 35.7267885,
+    "lon": -83.4714804
+  },
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "way",
+  "id": 1449433315,
+  "center": {
+    "lat": 35.7275076,
+    "lon": -83.4700423
+  },
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "way",
+  "id": 1482008795,
+  "center": {
+    "lat": 35.7377601,
+    "lon": -83.4491417
+  },
+  "tags": {
+    "leisure": "pitch"
+  }
+},
+{
+  "type": "way",
+  "id": 1530937307,
+  "center": {
+    "lat": 35.7092114,
+    "lon": -83.5127098
+  },
+  "tags": {
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 1532013013,
+  "center": {
+    "lat": 35.7148020,
+    "lon": -83.5083736
+  },
+  "tags": {
+    "amenity": "parking",
+    "parking": "surface"
+  }
+},
+{
+  "type": "way",
+  "id": 1532081764,
+  "center": {
+    "lat": 35.7130712,
+    "lon": -83.5075188
+  },
+  "tags": {
+    "access": "customers",
+    "amenity": "parking",
+    "operator": "Anakeesta",
+    "operator:type": "business",
+    "parking": "surface",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1533558317,
+  "center": {
+    "lat": 35.7100056,
+    "lon": -83.5026847
+  },
+  "tags": {
+    "attraction": "alpine_coaster",
+    "building": "roof",
+    "layer": "1",
+    "name": "Hellbender",
+    "roller_coaster": "station",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 1536282805,
+  "center": {
+    "lat": 35.7118974,
+    "lon": -83.5191103
+  },
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "name": "Midtown",
+    "opening_hours": "sunrise-sunset",
+    "operator": "City of Gatlinburg",
+    "operator:type": "government",
+    "parking": "surface",
+    "surface": "concrete"
+  }
+},
+{
+  "type": "relation",
+  "id": 196001,
+  "center": {
+    "lat": 35.7602275,
+    "lon": -83.3844030
+  },
+  "tags": {
+    "admin_level": "8",
+    "border_type": "town",
+    "boundary": "administrative",
+    "gnis:feature_id": "2407129",
+    "name": "Pittman Center",
+    "place": "town",
+    "source": "TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)",
+    "type": "boundary",
+    "wikidata": "Q2556469",
+    "wikipedia": "en:Pittman Center, Tennessee"
+  }
+},
+{
+  "type": "relation",
+  "id": 197143,
+  "center": {
+    "lat": 35.7272500,
+    "lon": -83.4980025
+  },
+  "tags": {
+    "admin_level": "8",
+    "border_type": "city",
+    "boundary": "administrative",
+    "name": "Gatlinburg",
+    "place": "city",
+    "source": "NPS",
+    "type": "boundary",
+    "wikidata": "Q1008520",
+    "wikipedia": "en:Gatlinburg, Tennessee"
+  }
+},
+{
+  "type": "relation",
+  "id": 197395,
+  "center": {
+    "lat": 35.7954480,
+    "lon": -83.5776490
+  },
+  "tags": {
+    "admin_level": "8",
+    "border_type": "city",
+    "boundary": "administrative",
+    "gnis:feature_id": "2404516",
+    "name": "Pigeon Forge",
+    "place": "city",
+    "source": "TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)",
+    "type": "boundary",
+    "wikidata": "Q2078145",
+    "wikipedia": "en:Pigeon Forge, Tennessee"
+  }
+},
+{
+  "type": "relation",
+  "id": 4780710,
+  "center": {
+    "lat": 35.5741551,
+    "lon": -83.4587104
+  },
+  "tags": {
+    "natural": "grassland",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 14384353,
+  "center": {
+    "lat": 35.7610250,
+    "lon": -83.3474717
+  },
+  "tags": {
+    "addr:city": "Gatlinburg",
+    "addr:housenumber": "3919",
+    "addr:postcode": "37738",
+    "addr:state": "TN",
+    "addr:street": "E. Parkway",
+    "leisure": "golf_course",
+    "name": "Bent Creek Golf Course",
+    "phone": "+1-865-436-3947",
+    "type": "multipolygon",
+    "website": "https://www.bentcreekgolf.com/"
+  }
+},
+{
+  "type": "relation",
+  "id": 14756070,
+  "center": {
+    "lat": 35.7072764,
+    "lon": -83.5208516
+  },
+  "tags": {
+    "amenity": "parking",
+    "type": "multipolygon"
+  }
+}
+
+  ]
+}

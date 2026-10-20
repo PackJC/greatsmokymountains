@@ -1,0 +1,90 @@
+Water from OpenStreetMap (c) OpenStreetMap contributors, ODbL.
+
+waterways by class:
+  river        45.5 km  sheets at 0.88 scale (21.0 m wide), channel 7.0 m either side, bed 0.9 m, banks 0.8 m
+  stream      440.1 km  sheets at 1.00 scale (14.0 m wide), channel 3.5 m either side, bed 0.5 m, banks 0.5 m
+  brook       283.3 km  sheets at 0.93 scale (13.0 m wide), channel 3.0 m either side, bed 0.4 m, banks 0.5 m
+  seasonal     91.5 km  (streambed only)
+
+fitted to the valley floor: moved off OSM's line median 12.0 m, 90% 36.0 m, 7.5% at the 40 m limit
+  pinned under bridges: 96 crossings; ends pinned onto the creek they join: 1285
+  stretches that ran into a creek already laid end on it there: 947; lines wholly on one, dropped: 32
+
+objects:
+  pond_50x50             1448
+  river_24_12             930
+  river_24_24            1711
+  river_24_6              321
+  stream_14_12          28605
+  stream_14_24          15841
+  stream_14_6           11557
+  streambed stones      25905
+  total                137153
+  (1473 ways joined into 1479 lines; 50727 short parts cover bends over 2 degrees)
+
+ground lowered at 208918 grid points (max 8.0 m), raised at 154223 (max 4.0 m)
+after shaping: 19773 sheet edge points still under the water's level, 112016 middle points with the ground too high
+
+ponds (moved onto the terrain's own hollows: median 22.4 m, most 42.4 m):
+  pond 95910993                   71 tiles at 479.9 m
+  pond 95911007                   58 tiles at 535.3 m
+  pond 275571475                   7 tiles at 625.7 m
+  pond 275571478                   6 tiles at 625.5 m
+  pond 275571483                  13 tiles at 475.8 m
+  pond 275571484                  10 tiles at 533.2 m
+  pond 275571485                  16 tiles at 551.6 m
+  pond 275571497                  16 tiles at 571.1 m
+  pond 275571500                  22 tiles at 469.0 m
+  pond 275571509                  64 tiles at 442.8 m
+  pond 275571511                  13 tiles at 432.8 m
+  pond 275571529                  27 tiles at 472.4 m
+  pond 275571539                  41 tiles at 476.1 m
+  pond 275571543                  41 tiles at 486.0 m
+  pond 275571549                  45 tiles at 480.2 m
+  pond 275571550                 145 tiles at 447.9 m
+  pond 275571553                  47 tiles at 442.4 m
+  pond 275571554                  25 tiles at 496.7 m
+  pond 275571555                  13 tiles at 409.3 m
+  pond 279163745                  16 tiles at 504.5 m
+  pond 279163753                  18 tiles at 394.5 m
+  pond 279163758                  15 tiles at 425.3 m
+  pond 279163761                  21 tiles at 441.6 m
+  pond 279163764                  18 tiles at 419.7 m
+  pond 279163783                  59 tiles at 482.4 m
+  pond 279163786                  14 tiles at 400.7 m
+  pond 279163793                  16 tiles at 472.3 m
+  pond 279163809                  28 tiles at 495.5 m
+  pond 279163812                  27 tiles at 407.9 m
+  pond 279163819                  45 tiles at 422.9 m
+  pond 279163823                  88 tiles at 421.6 m
+  pond 305359383                  59 tiles at 486.6 m
+  pond 958437374                  46 tiles at 446.2 m
+  pond 1011094731                 51 tiles at 464.5 m
+  pond 1011094732                 34 tiles at 466.7 m
+  pond 1108802290                  9 tiles at 411.6 m
+  pond 1108802291                  9 tiles at 411.1 m
+  pond 1108802292                  9 tiles at 411.6 m
+  pond 1108802293                  9 tiles at 411.6 m
+  pond 1258266993                 25 tiles at 470.4 m
+  pond 1258266994                 17 tiles at 471.5 m
+  pond 1258266995                 33 tiles at 471.4 m
+  pond 1258266996                 18 tiles at 468.5 m
+  pond 1288698216                 15 tiles at 504.7 m
+  pond 1288698217                 12 tiles at 521.9 m
+  pond 1288698218                 14 tiles at 521.9 m
+  pond 1289016419                 25 tiles at 561.2 m
+  pond 1379854491                 18 tiles at 376.0 m
+
+waterfalls:
+  Cataract Falls           stream, about 12 m: boulders scaled 1.5, pool at the foot
+  Grotto Falls             stream, about 8 m: boulders scaled 1.0, pool at the foot
+  Hitchin Post Falls       brook, about 6 m: boulders scaled 0.8, pool at the foot
+  Little River Upper Falls stream, about 6 m: boulders scaled 0.8, pool at the foot
+  Taywa Creek Cascade      stream, about 6 m: boulders scaled 0.8, pool at the foot
+  Thousand Drips           stream, about 24 m: boulders scaled 2.5, pool at the foot
+  Talking Falls            stream, about 6 m: boulders scaled 0.8, pool at the foot
+  Trickling Falls          stream, about 8 m: boulders scaled 1.0, pool at the foot
+  Baskins Creek Falls      stream, about 12 m: boulders scaled 1.5, pool at the foot
+  Rainbow Falls            stream, about 24 m: boulders scaled 2.5, pool at the foot
+  Rainbow Falls            stream, about 24 m: boulders scaled 2.5, pool at the foot
+  Sweat Heifer Cascades    stream, about 10 m: boulders scaled 1.2, pool at the foot

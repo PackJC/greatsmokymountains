@@ -1,0 +1,1 @@
+data\*.paa;data\*.rvmat;data\scenes\*.c;stringtable.csv;ce\*.xml;ce\*.json;ce\*.map;ce\db\*.xml;ce\env\*.xml;navmesh\*.nm

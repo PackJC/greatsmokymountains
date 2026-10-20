@@ -1,0 +1,112 @@
+Water fitted to the final ground (tools/water_fit.py)
+
+protected grid points (roads, pads): 1155454
+  round 1: 28835 of 2839256 edge points under the water's level, 1390783 of 3251334 middle points with ground less than 0.10 m under it
+  round 2: 53754 of 2839256 edge points under the water's level, 150288 of 3251334 middle points with ground less than 0.10 m under it
+  round 3: 43886 of 2839256 edge points under the water's level, 143935 of 3251334 middle points with ground less than 0.10 m under it
+  round 4: 40990 of 2839256 edge points under the water's level, 143192 of 3251334 middle points with ground less than 0.10 m under it
+  round 5: 40355 of 2839256 edge points under the water's level, 143016 of 3251334 middle points with ground less than 0.10 m under it
+  round 6: 40095 of 2839256 edge points under the water's level, 142940 of 3251334 middle points with ground less than 0.10 m under it
+  round 7: 39886 of 2839256 edge points under the water's level, 142884 of 3251334 middle points with ground less than 0.10 m under it
+  round 8: 39722 of 2839256 edge points under the water's level, 142835 of 3251334 middle points with ground less than 0.10 m under it
+  round 9: 39582 of 2839256 edge points under the water's level, 142786 of 3251334 middle points with ground less than 0.10 m under it
+  round 10: 39474 of 2839256 edge points under the water's level, 142723 of 3251334 middle points with ground less than 0.10 m under it
+  round 11: 39360 of 2839256 edge points under the water's level, 142660 of 3251334 middle points with ground less than 0.10 m under it
+  round 12: 39253 of 2839256 edge points under the water's level, 142594 of 3251334 middle points with ground less than 0.10 m under it
+  round 13: 39147 of 2839256 edge points under the water's level, 142515 of 3251334 middle points with ground less than 0.10 m under it
+  round 14: 39025 of 2839256 edge points under the water's level, 142416 of 3251334 middle points with ground less than 0.10 m under it
+  round 15: 38875 of 2839256 edge points under the water's level, 142285 of 3251334 middle points with ground less than 0.10 m under it
+  round 16: 38695 of 2839256 edge points under the water's level, 142142 of 3251334 middle points with ground less than 0.10 m under it
+  round 17: 38496 of 2839256 edge points under the water's level, 141997 of 3251334 middle points with ground less than 0.10 m under it
+  round 18: 38311 of 2839256 edge points under the water's level, 141846 of 3251334 middle points with ground less than 0.10 m under it
+  round 19: 38108 of 2839256 edge points under the water's level, 141700 of 3251334 middle points with ground less than 0.10 m under it
+  round 20: 37889 of 2839256 edge points under the water's level, 141534 of 3251334 middle points with ground less than 0.10 m under it
+  round 21: 37700 of 2839256 edge points under the water's level, 141373 of 3251334 middle points with ground less than 0.10 m under it
+  round 22: 37495 of 2839256 edge points under the water's level, 141208 of 3251334 middle points with ground less than 0.10 m under it
+  round 23: 37277 of 2839256 edge points under the water's level, 141021 of 3251334 middle points with ground less than 0.10 m under it
+  round 24: 37056 of 2839256 edge points under the water's level, 140838 of 3251334 middle points with ground less than 0.10 m under it
+  round 25: 36826 of 2839256 edge points under the water's level, 140667 of 3251334 middle points with ground less than 0.10 m under it
+  round 26: 36612 of 2839256 edge points under the water's level, 140507 of 3251334 middle points with ground less than 0.10 m under it
+  round 27: 36394 of 2839256 edge points under the water's level, 140352 of 3251334 middle points with ground less than 0.10 m under it
+  round 28: 36184 of 2839256 edge points under the water's level, 140209 of 3251334 middle points with ground less than 0.10 m under it
+  round 29: 36019 of 2839256 edge points under the water's level, 140088 of 3251334 middle points with ground less than 0.10 m under it
+  round 30: 35864 of 2839256 edge points under the water's level, 139993 of 3251334 middle points with ground less than 0.10 m under it
+ground changed at 46395 grid points: raised 24375 (max 7.30 m), lowered 22020 (max 8.00 m)
+water reaching roads and pads (culverts): 425 pieces cut shorter, 3130 left out
+again, with the channels the water no longer reaches free to rise:
+  round 1: 23637 of 2767855 edge points under the water's level, 130283 of 3165594 middle points with ground less than 0.10 m under it
+  round 2: 22401 of 2767855 edge points under the water's level, 127996 of 3165594 middle points with ground less than 0.10 m under it
+  round 3: 21846 of 2767855 edge points under the water's level, 127562 of 3165594 middle points with ground less than 0.10 m under it
+  round 4: 21573 of 2767855 edge points under the water's level, 127415 of 3165594 middle points with ground less than 0.10 m under it
+  round 5: 21468 of 2767855 edge points under the water's level, 127327 of 3165594 middle points with ground less than 0.10 m under it
+  round 6: 21351 of 2767855 edge points under the water's level, 127273 of 3165594 middle points with ground less than 0.10 m under it
+  round 7: 21289 of 2767855 edge points under the water's level, 127224 of 3165594 middle points with ground less than 0.10 m under it
+  round 8: 21225 of 2767855 edge points under the water's level, 127174 of 3165594 middle points with ground less than 0.10 m under it
+  round 9: 21162 of 2767855 edge points under the water's level, 127125 of 3165594 middle points with ground less than 0.10 m under it
+  round 10: 21093 of 2767855 edge points under the water's level, 127079 of 3165594 middle points with ground less than 0.10 m under it
+  round 11: 21028 of 2767855 edge points under the water's level, 127038 of 3165594 middle points with ground less than 0.10 m under it
+  round 12: 20973 of 2767855 edge points under the water's level, 126990 of 3165594 middle points with ground less than 0.10 m under it
+  round 13: 20920 of 2767855 edge points under the water's level, 126960 of 3165594 middle points with ground less than 0.10 m under it
+  round 14: 20869 of 2767855 edge points under the water's level, 126936 of 3165594 middle points with ground less than 0.10 m under it
+  round 15: 20825 of 2767855 edge points under the water's level, 126905 of 3165594 middle points with ground less than 0.10 m under it
+  round 16: 20776 of 2767855 edge points under the water's level, 126880 of 3165594 middle points with ground less than 0.10 m under it
+  round 17: 20725 of 2767855 edge points under the water's level, 126843 of 3165594 middle points with ground less than 0.10 m under it
+  round 18: 20679 of 2767855 edge points under the water's level, 126812 of 3165594 middle points with ground less than 0.10 m under it
+  round 19: 20630 of 2767855 edge points under the water's level, 126790 of 3165594 middle points with ground less than 0.10 m under it
+  round 20: 20600 of 2767855 edge points under the water's level, 126757 of 3165594 middle points with ground less than 0.10 m under it
+  round 21: 20560 of 2767855 edge points under the water's level, 126732 of 3165594 middle points with ground less than 0.10 m under it
+  round 22: 20532 of 2767855 edge points under the water's level, 126712 of 3165594 middle points with ground less than 0.10 m under it
+  round 23: 20503 of 2767855 edge points under the water's level, 126695 of 3165594 middle points with ground less than 0.10 m under it
+  round 24: 20484 of 2767855 edge points under the water's level, 126676 of 3165594 middle points with ground less than 0.10 m under it
+  round 25: 20458 of 2767855 edge points under the water's level, 126655 of 3165594 middle points with ground less than 0.10 m under it
+  round 26: 20437 of 2767855 edge points under the water's level, 126639 of 3165594 middle points with ground less than 0.10 m under it
+  round 27: 20402 of 2767855 edge points under the water's level, 126620 of 3165594 middle points with ground less than 0.10 m under it
+  round 28: 20379 of 2767855 edge points under the water's level, 126602 of 3165594 middle points with ground less than 0.10 m under it
+  round 29: 20339 of 2767855 edge points under the water's level, 126578 of 3165594 middle points with ground less than 0.10 m under it
+  round 30: 20322 of 2767855 edge points under the water's level, 126571 of 3165594 middle points with ground less than 0.10 m under it
+pieces still hanging more than 1.0 m, left out: 8789; once more:
+  round 1: 21809 of 2607255 edge points under the water's level, 123059 of 2933718 middle points with ground less than 0.10 m under it
+  round 2: 17976 of 2607255 edge points under the water's level, 115253 of 2933718 middle points with ground less than 0.10 m under it
+  round 3: 15893 of 2607255 edge points under the water's level, 113898 of 2933718 middle points with ground less than 0.10 m under it
+  round 4: 15152 of 2607255 edge points under the water's level, 113565 of 2933718 middle points with ground less than 0.10 m under it
+  round 5: 14936 of 2607255 edge points under the water's level, 113465 of 2933718 middle points with ground less than 0.10 m under it
+  round 6: 14856 of 2607255 edge points under the water's level, 113409 of 2933718 middle points with ground less than 0.10 m under it
+  round 7: 14821 of 2607255 edge points under the water's level, 113365 of 2933718 middle points with ground less than 0.10 m under it
+  round 8: 14766 of 2607255 edge points under the water's level, 113327 of 2933718 middle points with ground less than 0.10 m under it
+  round 9: 14727 of 2607255 edge points under the water's level, 113296 of 2933718 middle points with ground less than 0.10 m under it
+  round 10: 14672 of 2607255 edge points under the water's level, 113280 of 2933718 middle points with ground less than 0.10 m under it
+  round 11: 14625 of 2607255 edge points under the water's level, 113267 of 2933718 middle points with ground less than 0.10 m under it
+  round 12: 14577 of 2607255 edge points under the water's level, 113250 of 2933718 middle points with ground less than 0.10 m under it
+  round 13: 14536 of 2607255 edge points under the water's level, 113229 of 2933718 middle points with ground less than 0.10 m under it
+  round 14: 14499 of 2607255 edge points under the water's level, 113209 of 2933718 middle points with ground less than 0.10 m under it
+  round 15: 14448 of 2607255 edge points under the water's level, 113197 of 2933718 middle points with ground less than 0.10 m under it
+  round 16: 14419 of 2607255 edge points under the water's level, 113179 of 2933718 middle points with ground less than 0.10 m under it
+  round 17: 14395 of 2607255 edge points under the water's level, 113168 of 2933718 middle points with ground less than 0.10 m under it
+  round 18: 14368 of 2607255 edge points under the water's level, 113150 of 2933718 middle points with ground less than 0.10 m under it
+  round 19: 14338 of 2607255 edge points under the water's level, 113142 of 2933718 middle points with ground less than 0.10 m under it
+  round 20: 14318 of 2607255 edge points under the water's level, 113134 of 2933718 middle points with ground less than 0.10 m under it
+  round 21: 14292 of 2607255 edge points under the water's level, 113113 of 2933718 middle points with ground less than 0.10 m under it
+  round 22: 14268 of 2607255 edge points under the water's level, 113095 of 2933718 middle points with ground less than 0.10 m under it
+  round 23: 14245 of 2607255 edge points under the water's level, 113085 of 2933718 middle points with ground less than 0.10 m under it
+  round 24: 14228 of 2607255 edge points under the water's level, 113074 of 2933718 middle points with ground less than 0.10 m under it
+  round 25: 14203 of 2607255 edge points under the water's level, 113062 of 2933718 middle points with ground less than 0.10 m under it
+  round 26: 14182 of 2607255 edge points under the water's level, 113055 of 2933718 middle points with ground less than 0.10 m under it
+  round 27: 14160 of 2607255 edge points under the water's level, 113043 of 2933718 middle points with ground less than 0.10 m under it
+  round 28: 14150 of 2607255 edge points under the water's level, 113035 of 2933718 middle points with ground less than 0.10 m under it
+  round 29: 14132 of 2607255 edge points under the water's level, 113026 of 2933718 middle points with ground less than 0.10 m under it
+  round 30: 14114 of 2607255 edge points under the water's level, 113015 of 2933718 middle points with ground less than 0.10 m under it
+roads/tb_roads_main.txt       12197 objects, 0 kept at their height over changed ground
+roads/tb_roads_local.txt      40924 objects, 0 kept at their height over changed ground
+buildings/tb_buildings.txt     1805 objects, 0 kept at their height over changed ground
+buildings/tb_cabins.txt        1091 objects, 0 kept at their height over changed ground
+buildings/tb_fuel.txt            29 objects, 0 kept at their height over changed ground
+buildings/tb_fences.txt         660 objects, 1 kept at their height over changed ground
+buildings/tb_bridges.txt        150 objects, 8 kept at their height over changed ground
+buildings/tb_skybridge.txt        1 objects, 0 kept at their height over changed ground
+forest/tb_trees.txt          3088036 objects, 121 taken out of the water
+forest/tb_bushes.txt         1149722 objects, 117 taken out of the water
+forest/tb_deadwood.txt         93725 objects, 4 taken out of the water
+rocks/tb_rocks.txt             47464 objects, 4 taken out of the water
+roads/tb_trails.txt            25256 objects, 2 taken out of the water
+check: 96398 water sheets; edge points hanging over 5 cm, not under other water: 28421 of 5458070 (0.52%), over 0.25 / 0.5 / 1 m: 10493 / 6448 / 3937; middle points with ground over the water: 402411 of 2793817 (14.40%)
+worst remaining (m, model, x, z): [(np.float64(15.12), 'stream_14_6', 16671, 19583), (np.float64(14.58), 'stream_14_6', 1445, 3789), (np.float64(13.94), 'stream_14_12', 12879, 16225), (np.float64(13.32), 'stream_14_6', 16673, 19582), (np.float64(13.13), 'stream_14_6', 18733, 18127), (np.float64(12.69), 'stream_14_6', 6257, 14124), (np.float64(12.61), 'stream_14_24', 16612, 3339), (np.float64(12.59), 'stream_14_24', 17304, 16305), (np.float64(12.52), 'stream_14_6', 1449, 3782), (np.float64(12.32), 'stream_14_12', 828, 4136)]

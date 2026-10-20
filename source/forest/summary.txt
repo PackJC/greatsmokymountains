@@ -1,0 +1,36 @@
+Forest grown from terrain, imagery and the mask (density x1.00).
+
+zones (share of the map, forest floor surface):
+  open         2.5%  (kept)
+  sprucefir    5.2%  cp_conifer_moss1
+  northern    25.7%  cp_broadleaf_sparse2
+  cove        28.1%  cp_broadleaf_dense1
+  oakpine     22.2%  cp_broadleaf_sparse1
+  mixed       16.5%  cp_broadleaf_dense2
+
+objects:
+  trees       3088044  (74 per hectare)
+  bushes      1149727  (27 per hectare)
+  deadwood      93726  (2 per hectare)
+  total       4331497
+
+trees by species (DayZ model family standing in):
+  beech        554547  American beech (t_fagussylvatica)
+  oak          498106  red/chestnut oak (t_quercusrobur)
+  spruce       489184  red spruce, Fraser fir, hemlock (t_piceaabies)
+  maple        358043  sugar/red maple (t_acer)
+  birch        317835  yellow birch (t_betulapendula)
+  pine         216220  pitch/Virginia pine (t_pinussylvestris)
+  ash          207956  ash, tulip poplar (t_fraxinusexcelsior)
+  tulip         97757  tulip poplar (t_populusnigra)
+  locust        93840  black locust (t_robiniapseudoacacia)
+  ironwood      70034  ironwood (t_carpinus)
+  walnut        65909  black walnut (t_juglansregia)
+  rowan         52335  mountain ash (t_sorbus)
+  sycamore      41719  sycamore (t_populusalba)
+  spruce_dead     11369  dead Fraser fir
+  willow        10516  black willow (t_salixalba)
+  apple          1109  apple
+  yard            867  yard trees (t_town)
+  pear            472  pear
+  plum            226  plum
